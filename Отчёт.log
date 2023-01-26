@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  19 JAN 2023 23:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 01:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -802,8 +802,26 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (C:\Users\pegan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (ÐžÑ‚Ñ‡Ñ‘Ñ‚.aux
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
 )
-No file ÐžÑ‚Ñ‡Ñ‘Ñ‚.aux.
 \openout1 = `ÐžÑ‚Ñ‡Ñ‘Ñ‚.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -823,6 +841,7 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Info: Redefining \th on input line 36.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -889,189 +908,400 @@ Package caption Info: End \AtBeginDocument code.
  [1
 
 {C:/Users/pegan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-
-Overfull \hbox (12.23363pt too wide) in paragraph at lines 82--99
-\T2A/cmr/m/n/10 Â ÎÁ-ËÀ-ÊÅ, ÎÁ-ËÀ×-ÍÛÅ ÒÅÕ-ÍÎ-ËÎ-ÃÈÈ, ÎÁ-ËÀ×-ÍÛÅ ÐÅ-ÑÓÐ-ÑÛ, TET
-RIS, OPENAI GYM, TENSORFLOW,|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--99
-
- []
-
-[2]
-No file ÐžÑ‚Ñ‡Ñ‘Ñ‚.toc.
+[2] (ÐžÑ‚Ñ‡Ñ‘Ñ‚.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
 \tf@toc=\write4
 \openout4 = `ÐžÑ‚Ñ‡Ñ‘Ñ‚.toc'.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 155--160
+
+ []
+
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 174--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 174--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 174--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 174--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 174--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 174--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 174--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--127
+Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-[4]
+[6]
+<pictures//010Memorizer1.png, id=34, 431.81325pt x 337.86224pt>
+File: pictures//010Memorizer1.png Graphic file (type png)
+<use pictures//010Memorizer1.png>
+Package pdftex.def Info: pictures//010Memorizer1.png  used on input line 204.
+(pdftex.def)             Requested size: 250.24199pt x 195.80042pt.
+<pictures//010Memorizer2.png, id=35, 438.438pt x 337.86224pt>
+File: pictures//010Memorizer2.png Graphic file (type png)
+<use pictures//010Memorizer2.png>
+Package pdftex.def Info: pictures//010Memorizer2.png  used on input line 205.
+(pdftex.def)             Requested size: 255.24408pt x 196.69745pt.
 
-LaTeX Warning: Citation `litlink1' on page 5 undefined on input line 132.
+Overfull \hbox (7.22375pt too wide) in paragraph at lines 204--206
+[][] [] |
+ []
+
+<pictures//2Know.png, id=36, 310.761pt x 298.716pt>
+File: pictures//2Know.png Graphic file (type png)
+<use pictures//2Know.png>
+Package pdftex.def Info: pictures//2Know.png  used on input line 212.
+(pdftex.def)             Requested size: 150.14671pt x 144.33011pt.
+<pictures//peoplebyinitials.png, id=37, 895.09406pt x 414.04688pt>
+File: pictures//peoplebyinitials.png Graphic file (type png)
+<use pictures//peoplebyinitials.png>
+Package pdftex.def Info: pictures//peoplebyinitials.png  used on input line 218
+.
+(pdftex.def)             Requested size: 250.24199pt x 115.75543pt.
+<pictures//peoplebyinitials1.png, id=39, 616.55344pt x 516.42938pt>
+File: pictures//peoplebyinitials1.png Graphic file (type png)
+<use pictures//peoplebyinitials1.png>
+Package pdftex.def Info: pictures//peoplebyinitials1.png  used on input line 22
+3.
+(pdftex.def)             Requested size: 250.24199pt x 209.60191pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--228
+
+ []
+
+[7 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png> <./pictures/
+/2Know.png>]
+<pictures//MnemonicMajorSystem1.png, id=47, 368.1253pt x 574.39594pt>
+File: pictures//MnemonicMajorSystem1.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem1.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem1.png  used on input line
+ 230.
+(pdftex.def)             Requested size: 125.12099pt x 195.23067pt.
+<pictures//MnemonicMajorSystem2.png, id=48, 368.1253pt x 631.60968pt>
+File: pictures//MnemonicMajorSystem2.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem2.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem2.png  used on input line
+ 231.
+(pdftex.def)             Requested size: 114.10875pt x 195.7777pt.
+<pictures//MnemonicMajorSystem3.png, id=49, 365.86688pt x 633.11531pt>
+File: pictures//MnemonicMajorSystem3.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem3.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem3.png  used on input line
+ 232.
+(pdftex.def)             Requested size: 113.10834pt x 195.72272pt.
+<pictures//MnemonicMajorSystem4.png, id=50, 368.87813pt x 627.09282pt>
+File: pictures//MnemonicMajorSystem4.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem4.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem4.png  used on input line
+ 233.
+(pdftex.def)             Requested size: 115.10918pt x 195.67896pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--135
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pictures//wordgenerator1.png, id=51, 370.38374pt x 636.87938pt>
+File: pictures//wordgenerator1.png Graphic file (type png)
+<use pictures//wordgenerator1.png>
+Package pdftex.def Info: pictures//wordgenerator1.png  used on input line 245.
+(pdftex.def)             Requested size: 125.12099pt x 215.14645pt.
+<pictures//wordgenerator2.png, id=52, 369.63094pt x 665.48625pt>
+File: pictures//wordgenerator2.png Graphic file (type png)
+<use pictures//wordgenerator2.png>
+Package pdftex.def Info: pictures//wordgenerator2.png  used on input line 246.
+(pdftex.def)             Requested size: 119.61487pt x 215.3564pt.
+<pictures//aplus1.png, id=53, 367.3725pt x 584.93532pt>
+File: pictures//aplus1.png Graphic file (type png)
+<use pictures//aplus1.png>
+Package pdftex.def Info: pictures//aplus1.png  used on input line 254.
+(pdftex.def)             Requested size: 124.61696pt x 198.41125pt.
+<pictures//aplus2.png, id=54, 371.13657pt x 587.94656pt>
+File: pictures//aplus2.png Graphic file (type png)
+<use pictures//aplus2.png>
+Package pdftex.def Info: pictures//aplus2.png  used on input line 255.
+(pdftex.def)             Requested size: 125.12099pt x 198.21257pt.
+<pictures//aplus3.png, id=55, 370.38374pt x 586.44093pt>
+File: pictures//aplus3.png Graphic file (type png)
+<use pictures//aplus3.png>
+Package pdftex.def Info: pictures//aplus3.png  used on input line 256.
+(pdftex.def)             Requested size: 125.12099pt x 198.10765pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--135
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
 
  []
 
 
-LaTeX Warning: Citation `litlink2' on page 5 undefined on input line 146.
-
-
-LaTeX Warning: Citation `litlink3' on page 5 undefined on input line 146.
-
-
-LaTeX Warning: Citation `litlink4' on page 5 undefined on input line 146.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 238--269
+
+ []
+
+[8 <./pictures//peoplebyinitials.png> <./pictures//peoplebyinitials1.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./pictures//MnemonicMajorSystem1.png> <./pictures//MnemonicMajorSystem2.png
+> <./pictures//MnemonicMajorSystem3.png> <./pictures//MnemonicMajorSystem4.png>
+ <./pictures//wordgenerator1.png> <./pictures//wordgenerator2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+[10 <./pictures//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--288
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 292--297
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 321--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 321--331
+
+ []
+
+[13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 349--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--165
+Underfull \hbox (badness 10000) in paragraph at lines 349--357
 
  []
 
-[5] [6]
 
-LaTeX Warning: Citation `litlink5' on page 7 undefined on input line 173.
+Underfull \hbox (badness 10000) in paragraph at lines 349--357
 
+ []
 
-LaTeX Warning: Citation `litlink6' on page 7 undefined on input line 173.
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 400--404
 
-
-LaTeX Warning: Citation `litlink7' on page 7 undefined on input line 173.
-
-
-LaTeX Warning: Citation `litlink8' on page 7 undefined on input line 173.
+ []
 
 
-LaTeX Warning: Citation `litlink9' on page 7 undefined on input line 173.
+Underfull \hbox (badness 10000) in paragraph at lines 409--413
+
+ []
+
+[17]
+Underfull \hbox (badness 5711) in paragraph at lines 423--424
+[]\T2A/cmr/m/it/10 Arif Mohamed \T2A/cmr/m/n/10 (2018) A history of cloud compu
+ting // Ñàéò Ñomputerweekly.com. 9 àï-ðå-ëÿ
+ []
 
 
-LaTeX Warning: Citation `litlink10' on page 7 undefined on input line 
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+[]\T2A/cmr/m/it/10 Laura Wood \T2A/cmr/m/n/10 (2021) Global Cloud Computing Mar
+ket (2020 to 2026) - by Service,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+\T2A/cmr/m/n/10 Deployment, Application Type, End-user and Region Businesswire.
+com. 24 àâ-ãó-ñòà
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+\T2A/cmr/m/n/10 (https://www.businesswire.com/news/home/20210824005585/en/Globa
+l-Cloud-Computing-Market-2020-to-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 425--426
+\T2A/cmr/m/n/10 2026---by-Service-Deployment-Application-Type-End-user-and-Regi
+on---ResearchAndMarkets.com) Ïðî-ñìîò-ðå-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]\T2A/cmr/m/it/10 Harvinder Singh, Anshu Bhasin, Parag Ravikant Kaveri \T2A/cm
+r/m/n/10 (2021) QRAS: efficient resource
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+\T2A/cmr/m/n/10 allocation for task scheduling in cloud computing // Ñàéò Resea
+rchgate.net. Àï-ðåëü
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]\T2A/cmr/m/it/10 Renan Samuel da Silva, Rafael Stubs Parpinelli \T2A/cmr/m/n/
+10 (2017) Playing the Original Game
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\T2A/cmr/m/n/10 Boy Tetris Using a Real Coded Genetic Algorithm // Ñàéò Researc
+hgate.net. Îê-òðÿáðü
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+[]\T2A/cmr/m/it/10 Keras-RL \T2A/cmr/m/n/10 (2018) Deep Reinforcement Learning 
+for Keras. // Ñàéò Github.com. 1 ìàÿ
+ []
+
+[18]
+Underfull \hbox (badness 1184) in paragraph at lines 441--442
+[]\T2A/cmr/m/it/10 Hanyuan Liu, Lixin Liu \T2A/cmr/m/n/10 (2020) Learn to Play 
+Tetris with Deep Reinforcement Learning. // Ñàéò
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 443--444
+[]\T2A/cmr/m/it/10 elicortez, rfonseca, SamehElnikety \T2A/cmr/m/n/10 (2020) Az
+urePublicDataset. // Ñàéò Github.com. 13 íî-ÿá-ðÿ
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 443--444
+\T2A/cmr/m/n/10 (https://github.com/Azure/AzurePublicDataset/blob/master/AzureT
+racesForPacking2020.md) Ïðî-ñìîò-ðå-íî:
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 444--444
+[]\T2A/cmr/m/it/10 Prasanta Kumar Bal, Sudhir Kumar Mohapatra, Tapan Kumar Das,
+ Kathiravan Srinivasan and
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 444--444
+\T2A/cmr/m/it/10 Yuh-Chung Hu \T2A/cmr/m/n/10 (2022) A Joint Resource Allocatio
+n, Security with Efficient Task Scheduling in
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 444--444
+\T2A/cmr/m/n/10 Cloud Computing Using Hybrid Machine Learning Techniques. // Ñà
+éò Researchgate.net. 13 íî-ÿá-ðÿ
+ []
+
+
+Overfull \hbox (7.03218pt too wide) in paragraph at lines 444--444
+\T2A/cmr/m/n/10 (https://www.researchgate.net/publication/358396471_A_Joint_Res
+ource_Allocation_Security_with_Efficient |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+[]\T2A/cmr/m/n/10 _Task_Scheduling_in_Cloud_Computing_Using_Hybrid_Machine_Lear
+ning_Techniques) Ïðî-ñìîò-ðå-íî:
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 452--455
+
+ []
+
+
+Package caption Warning: Unused \captionsetup[table] on input line 17.
+See the caption package documentation for explanation.
+
+[20] (ÐžÑ‚Ñ‡Ñ‘Ñ‚.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17902 strings out of 478582
+ 356805 string characters out of 2844345
+ 1037003 words of memory out of 3000000
+ 35755 multiletter control sequences out of 15000+600000
+ 476544 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 100i,7n,104p,1454b,375s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati10
+00.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1000.pk>
+Output written on ÐžÑ‚Ñ‡Ñ‘Ñ‚.pdf (20 pages, 2076639 bytes).
+PDF statistics:
+ 508 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,15 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Содержание}{3}{}%
+\contentsline {section}{\numberline {2}Введение}{4}{}%
+\contentsline {section}{\numberline {3}Основания для разработки}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Общение с потенциальными пользователями}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Анализ конкурентов}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Вывод}{10}{}%
+\contentsline {section}{\numberline {4}Назначение разработки}{11}{}%
+\contentsline {section}{\numberline {5}Требования к программе или программному изделию}{12}{}%
+\contentsline {section}{\numberline {6}Требования к программной документации}{14}{}%
+\contentsline {section}{\numberline {7}Технико-экономические показатели}{15}{}%
+\contentsline {section}{\numberline {8}Стадии и этапы разработки}{16}{}%
+\contentsline {section}{\numberline {9}Порядок контроля и приемки}{17}{}%
+\contentsline {section}{\numberline {10}Список использованных источников}{18}{}%
+\contentsline {section}{\numberline {11}Приложения}{20}{}%
