@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 22:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1149,88 +1149,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 326--338
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--354
+Underfull \hbox (badness 10000) in paragraph at lines 345--355
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--354
+Underfull \hbox (badness 10000) in paragraph at lines 345--355
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 365--368
+Underfull \hbox (badness 10000) in paragraph at lines 371--374
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 372--380
+Underfull \hbox (badness 10000) in paragraph at lines 378--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--380
+Underfull \hbox (badness 10000) in paragraph at lines 378--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--380
+Underfull \hbox (badness 10000) in paragraph at lines 378--386
 
  []
 
 [14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 423--427
+Underfull \hbox (badness 10000) in paragraph at lines 429--433
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--436
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // Сай
 т developer.android.com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 []\T2A/cmr/m/it/10 _enzo_dev \T2A/cmr/m/n/10 (2014) People By Initials // Сайт 
 madebyenzo.com. 30 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 []\T2A/cmr/m/it/10 RavarApp \T2A/cmr/m/n/10 (2019) Mnemonic major system // Сай
 т play.google.com. 10 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 \T2A/cmr/m/n/10 (https://play.google.com/store/apps/details?id=com.ravarapp.mne
 monic_major_system) Про-смот-ре-но:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 454--455
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
 []\T2A/cmr/m/it/10 Zereck \T2A/cmr/m/n/10 (2021) Major System: Word Generator /
 / Сайт play.google.com. 11 сен-тяб-ря
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 []\T2A/cmr/m/it/10 Magic Parcel \T2A/cmr/m/n/10 (2018) A+ Major System // Сайт 
 play.google.com. 19 мая
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 464--467
+Underfull \hbox (badness 10000) in paragraph at lines 470--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--477
 
  []
 
@@ -1258,7 +1258,7 @@ bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on РћС‚С‡С‘С‚.pdf (19 pages, 2072480 bytes).
+Output written on РћС‚С‡С‘С‚.pdf (19 pages, 2072881 bytes).
 PDF statistics:
  495 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
