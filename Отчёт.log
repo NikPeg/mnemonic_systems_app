@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 22:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -824,23 +824,23 @@ LaTeX Warning: Label `ris:image' multiply defined.
 )
 \openout1 = `Отчёт.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Info: Redefining \th on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Info: Redefining \th on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -908,11 +908,13 @@ Package caption Info: End \AtBeginDocument code.
  [1
 
 {C:/Users/pegan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[2] (Отчёт.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
+[1
+
+] (Отчёт.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
 \tf@toc=\write4
 \openout4 = `Отчёт.toc'.
 
-[3]
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 115--119
 
  []
@@ -927,57 +929,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--160
 
  []
 
-[4]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 169--173
 
  []
 
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 178--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--206
+
+ []
+
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 178--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--206
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--206
-
- []
-
-[6]
 <pictures//010Memorizer1.png, id=34, 431.81325pt x 337.86224pt>
 File: pictures//010Memorizer1.png Graphic file (type png)
 <use pictures//010Memorizer1.png>
@@ -1015,7 +1017,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--232
 
  []
 
-[7 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png> <./pictures/
+[6 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png> <./pictures/
 /2Know.png>]
 <pictures//MnemonicMajorSystem1.png, id=47, 368.1253pt x 574.39594pt>
 File: pictures//MnemonicMajorSystem1.png Graphic file (type png)
@@ -1110,59 +1112,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 242--274
 
  []
 
-[8 <./pictures//peoplebyinitials.png> <./pictures//peoplebyinitials1.png>]
+[7 <./pictures//peoplebyinitials.png> <./pictures//peoplebyinitials1.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./pictures//MnemonicMajorSystem1.png> <./pictures//MnemonicMajorSystem2.png
+[8 <./pictures//MnemonicMajorSystem1.png> <./pictures//MnemonicMajorSystem2.png
 > <./pictures//MnemonicMajorSystem3.png> <./pictures//MnemonicMajorSystem4.png>
  <./pictures//wordgenerator1.png> <./pictures//wordgenerator2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
-[10 <./pictures//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
-
+[9 <./pictures//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
  []
 
-[11]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 297--302
 
  []
 
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 326--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--354
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--354
+
+ []
+
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 326--338
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--338
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--338
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 345--354
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 345--354
-
- []
-
-[13]
 Underfull \hbox (badness 10000) in paragraph at lines 365--368
 
  []
 
-[14]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 372--380
 
  []
@@ -1177,7 +1178,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 372--380
 
  []
 
-[15] [16]
+[14] [15]
 Underfull \hbox (badness 10000) in paragraph at lines 423--427
 
  []
@@ -1187,7 +1188,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 432--436
 
  []
 
-[17]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 445--446
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // ���
 � developer.android.com
@@ -1223,7 +1224,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 455--456
 play.google.com. 19 ���
  []
 
-[18]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 464--467
 
  []
@@ -1234,10 +1235,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 467--471
  []
 
 
-Package caption Warning: Unused \captionsetup[table] on input line 17.
+Package caption Warning: Unused \captionsetup[table] on input line 15.
 See the caption package documentation for explanation.
 
-[19] (Отчёт.aux)
+[18] (Отчёт.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1257,7 +1258,7 @@ bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on Отчёт.pdf (19 pages, 2072493 bytes).
+Output written on Отчёт.pdf (19 pages, 2072480 bytes).
 PDF statistics:
  495 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
