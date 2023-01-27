@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 01:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1143,150 +1143,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 321--333
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--346
+Underfull \hbox (badness 10000) in paragraph at lines 340--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--349
 
  []
 
 [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 355--363
+Underfull \hbox (badness 10000) in paragraph at lines 365--373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--363
+Underfull \hbox (badness 10000) in paragraph at lines 365--373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--363
+Underfull \hbox (badness 10000) in paragraph at lines 365--373
 
  []
 
 [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 406--410
+Underfull \hbox (badness 10000) in paragraph at lines 416--420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--419
+Underfull \hbox (badness 10000) in paragraph at lines 425--429
 
  []
 
 [17]
-Underfull \hbox (badness 5711) in paragraph at lines 429--430
+Underfull \hbox (badness 5711) in paragraph at lines 439--440
 []\T2A/cmr/m/it/10 Arif Mohamed \T2A/cmr/m/n/10 (2018) A history of cloud compu
 ting // Сайт Сomputerweekly.com. 9 ап-ре-ля
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-[]\T2A/cmr/m/it/10 Laura Wood \T2A/cmr/m/n/10 (2021) Global Cloud Computing Mar
-ket (2020 to 2026) - by Service,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-\T2A/cmr/m/n/10 Deployment, Application Type, End-user and Region Businesswire.
-com. 24 ав-гу-ста
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-\T2A/cmr/m/n/10 (https://www.businesswire.com/news/home/20210824005585/en/Globa
-l-Cloud-Computing-Market-2020-to-
- []
-
-
-Underfull \hbox (badness 2343) in paragraph at lines 431--432
-\T2A/cmr/m/n/10 2026---by-Service-Deployment-Application-Type-End-user-and-Regi
-on---ResearchAndMarkets.com) Про-смот-ре-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 433--433
-[]\T2A/cmr/m/it/10 Harvinder Singh, Anshu Bhasin, Parag Ravikant Kaveri \T2A/cm
-r/m/n/10 (2021) QRAS: efficient resource
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 433--433
-\T2A/cmr/m/n/10 allocation for task scheduling in cloud computing // Сайт Resea
-rchgate.net. Ап-рель
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 434--434
-[]\T2A/cmr/m/it/10 Renan Samuel da Silva, Rafael Stubs Parpinelli \T2A/cmr/m/n/
-10 (2017) Playing the Original Game
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 434--434
-\T2A/cmr/m/n/10 Boy Tetris Using a Real Coded Genetic Algorithm // Сайт Researc
-hgate.net. Ок-трябрь
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 443--444
-[]\T2A/cmr/m/it/10 Keras-RL \T2A/cmr/m/n/10 (2018) Deep Reinforcement Learning 
-for Keras. // Сайт Github.com. 1 мая
- []
-
 [18]
-Underfull \hbox (badness 1184) in paragraph at lines 447--448
-[]\T2A/cmr/m/it/10 Hanyuan Liu, Lixin Liu \T2A/cmr/m/n/10 (2020) Learn to Play 
-Tetris with Deep Reinforcement Learning. // Сайт
- []
-
-
-Underfull \hbox (badness 7047) in paragraph at lines 449--450
-[]\T2A/cmr/m/it/10 elicortez, rfonseca, SamehElnikety \T2A/cmr/m/n/10 (2020) Az
-urePublicDataset. // Сайт Github.com. 13 но-яб-ря
- []
-
-
-Underfull \hbox (badness 4144) in paragraph at lines 449--450
-\T2A/cmr/m/n/10 (https://github.com/Azure/AzurePublicDataset/blob/master/AzureT
-racesForPacking2020.md) Про-смот-ре-но:
- []
-
-
-Underfull \hbox (badness 3965) in paragraph at lines 450--450
-[]\T2A/cmr/m/it/10 Prasanta Kumar Bal, Sudhir Kumar Mohapatra, Tapan Kumar Das,
- Kathiravan Srinivasan and
- []
-
-
-Underfull \hbox (badness 5696) in paragraph at lines 450--450
-\T2A/cmr/m/it/10 Yuh-Chung Hu \T2A/cmr/m/n/10 (2022) A Joint Resource Allocatio
-n, Security with Efficient Task Scheduling in
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 450--450
-\T2A/cmr/m/n/10 Cloud Computing Using Hybrid Machine Learning Techniques. // Са
-йт Researchgate.net. 13 но-яб-ря
- []
-
-
-Overfull \hbox (7.03218pt too wide) in paragraph at lines 450--450
-\T2A/cmr/m/n/10 (https://www.researchgate.net/publication/358396471_A_Joint_Res
-ource_Allocation_Security_with_Efficient |
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
-[]\T2A/cmr/m/n/10 _Task_Scheduling_in_Cloud_Computing_Using_Hybrid_Machine_Lear
-ning_Techniques) Про-смот-ре-но:
- []
-
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 458--461
+Underfull \hbox (badness 10000) in paragraph at lines 446--449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--465
+Underfull \hbox (badness 10000) in paragraph at lines 449--453
 
  []
 
@@ -1294,7 +1197,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 461--465
 Package caption Warning: Unused \captionsetup[table] on input line 17.
 See the caption package documentation for explanation.
 
-[20] (РћС‚С‡С‘С‚.aux)
+[19] (РћС‚С‡С‘С‚.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1302,7 +1205,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  17902 strings out of 478582
  356805 string characters out of 2844345
- 1037003 words of memory out of 3000000
+ 1037004 words of memory out of 3000000
  35755 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1314,9 +1217,9 @@ bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on РћС‚С‡С‘С‚.pdf (20 pages, 2078739 bytes).
+Output written on РћС‚С‡С‘С‚.pdf (19 pages, 2059243 bytes).
 PDF statistics:
- 512 PDF objects out of 1000 (max. 8388607)
+ 465 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
