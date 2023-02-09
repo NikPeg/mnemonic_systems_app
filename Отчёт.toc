@@ -7,9 +7,9 @@
 \contentsline {subsection}{\numberline {3.3}Вывод}{10}{}%
 \contentsline {section}{\numberline {4}Назначение разработки}{11}{}%
 \contentsline {section}{\numberline {5}Требования к программе или программному изделию}{12}{}%
-\contentsline {section}{\numberline {6}Требования к программной документации}{14}{}%
-\contentsline {section}{\numberline {7}Технико-экономические показатели}{15}{}%
-\contentsline {section}{\numberline {8}Стадии и этапы разработки}{16}{}%
-\contentsline {section}{\numberline {9}Порядок контроля и приемки}{17}{}%
-\contentsline {section}{Список использованных источников}{18}{}%
-\contentsline {section}{Приложения}{19}{}%
+\contentsline {section}{\numberline {6}Требования к программной документации}{15}{}%
+\contentsline {section}{\numberline {7}Технико-экономические показатели}{16}{}%
+\contentsline {section}{\numberline {8}Стадии и этапы разработки}{17}{}%
+\contentsline {section}{\numberline {9}Порядок контроля и приемки}{18}{}%
+\contentsline {section}{Список использованных источников}{19}{}%
+\contentsline {section}{Приложения}{20}{}%

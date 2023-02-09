@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  9 FEB 2023 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  9 FEB 2023 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1309,12 +1309,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 351--361
 
  []
 
-[13]
+[13] [14]
 Underfull \hbox (badness 10000) in paragraph at lines 375--378
 
  []
 
-[14]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
@@ -1329,7 +1329,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
 
-[15] [16]
+[16] [17]
 Underfull \hbox (badness 10000) in paragraph at lines 427--431
 
  []
@@ -1339,7 +1339,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 436--440
 
  []
 
-[17]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 449--450
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // —‡È
 Ú developer.android.com
@@ -1375,7 +1375,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 459--460
 play.google.com. 19 Ï‡ˇ
  []
 
-[18]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 466--466
 []\T2A/cmr/bx/n/14.4 œËÎÓÊÂÌËˇ|
  []
@@ -1394,16 +1394,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 471--475
 Package caption Warning: Unused \captionsetup[table] on input line 17.
 See the caption package documentation for explanation.
 
-[19] (–û—Ç—á—ë—Ç.aux)
+[20] (–û—Ç—á—ë—Ç.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18892 strings out of 478582
- 376439 string characters out of 2844345
+ 18886 strings out of 478582
+ 376347 string characters out of 2844345
  1042941 words of memory out of 3000000
- 36694 multiletter control sequences out of 15000+600000
+ 36688 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,7n,104p,1468b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1414,9 +1414,9 @@ bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on –û—Ç—á—ë—Ç.pdf (20 pages, 2073810 bytes).
+Output written on –û—Ç—á—ë—Ç.pdf (21 pages, 2074218 bytes).
 PDF statistics:
- 497 PDF objects out of 1000 (max. 8388607)
+ 500 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
