@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  9 FEB 2023 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  9 FEB 2023 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,265 +1075,318 @@ Overfull \hbox (7.22375pt too wide) in paragraph at lines 204--206
 File: pictures//2Know.png Graphic file (type png)
 <use pictures//2Know.png>
 Package pdftex.def Info: pictures//2Know.png  used on input line 212.
-(pdftex.def)             Requested size: 150.14671pt x 144.33011pt.
+(pdftex.def)             Requested size: 250.24199pt x 240.55019pt.
 <pictures//peoplebyinitials.png, id=37, 895.09406pt x 414.04688pt>
 File: pictures//peoplebyinitials.png Graphic file (type png)
 <use pictures//peoplebyinitials.png>
-Package pdftex.def Info: pictures//peoplebyinitials.png  used on input line 218
+Package pdftex.def Info: pictures//peoplebyinitials.png  used on input line 226
 .
 (pdftex.def)             Requested size: 250.24199pt x 115.75543pt.
 <pictures//peoplebyinitials1.png, id=39, 616.55344pt x 516.42938pt>
 File: pictures//peoplebyinitials1.png Graphic file (type png)
 <use pictures//peoplebyinitials1.png>
-Package pdftex.def Info: pictures//peoplebyinitials1.png  used on input line 22
-3.
+Package pdftex.def Info: pictures//peoplebyinitials1.png  used on input line 23
+1.
 (pdftex.def)             Requested size: 250.24199pt x 209.60191pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--228
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
+
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png>]
-<pictures//MnemonicMajorSystem1.png, id=46, 368.1253pt x 574.39594pt>
-File: pictures//MnemonicMajorSystem1.png Graphic file (type png)
-<use pictures//MnemonicMajorSystem1.png>
-Package pdftex.def Info: pictures//MnemonicMajorSystem1.png  used on input line
- 230.
-(pdftex.def)             Requested size: 125.12099pt x 195.23067pt.
-<pictures//MnemonicMajorSystem2.png, id=47, 368.1253pt x 631.60968pt>
-File: pictures//MnemonicMajorSystem2.png Graphic file (type png)
-<use pictures//MnemonicMajorSystem2.png>
-Package pdftex.def Info: pictures//MnemonicMajorSystem2.png  used on input line
- 231.
-(pdftex.def)             Requested size: 114.10875pt x 195.7777pt.
-<pictures//MnemonicMajorSystem3.png, id=48, 365.86688pt x 633.11531pt>
-File: pictures//MnemonicMajorSystem3.png Graphic file (type png)
-<use pictures//MnemonicMajorSystem3.png>
-Package pdftex.def Info: pictures//MnemonicMajorSystem3.png  used on input line
- 232.
-(pdftex.def)             Requested size: 113.10834pt x 195.72272pt.
-<pictures//MnemonicMajorSystem4.png, id=49, 368.87813pt x 627.09282pt>
-File: pictures//MnemonicMajorSystem4.png Graphic file (type png)
-<use pictures//MnemonicMajorSystem4.png>
-Package pdftex.def Info: pictures//MnemonicMajorSystem4.png  used on input line
- 233.
-(pdftex.def)             Requested size: 115.10918pt x 195.67896pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<pictures//wordgenerator1.png, id=50, 370.38374pt x 636.87938pt>
-File: pictures//wordgenerator1.png Graphic file (type png)
-<use pictures//wordgenerator1.png>
-Package pdftex.def Info: pictures//wordgenerator1.png  used on input line 245.
-(pdftex.def)             Requested size: 125.12099pt x 215.14645pt.
-<pictures//wordgenerator2.png, id=51, 369.63094pt x 665.48625pt>
-File: pictures//wordgenerator2.png Graphic file (type png)
-<use pictures//wordgenerator2.png>
-Package pdftex.def Info: pictures//wordgenerator2.png  used on input line 246.
-(pdftex.def)             Requested size: 119.61487pt x 215.3564pt.
-<pictures//aplus1.png, id=52, 367.3725pt x 584.93532pt>
-File: pictures//aplus1.png Graphic file (type png)
-<use pictures//aplus1.png>
-Package pdftex.def Info: pictures//aplus1.png  used on input line 255.
-(pdftex.def)             Requested size: 124.61696pt x 198.41125pt.
-<pictures//aplus2.png, id=53, 371.13657pt x 587.94656pt>
-File: pictures//aplus2.png Graphic file (type png)
-<use pictures//aplus2.png>
-Package pdftex.def Info: pictures//aplus2.png  used on input line 256.
-(pdftex.def)             Requested size: 125.12099pt x 198.21257pt.
-<pictures//aplus3.png, id=54, 370.38374pt x 586.44093pt>
-File: pictures//aplus3.png Graphic file (type png)
-<use pictures//aplus3.png>
-Package pdftex.def Info: pictures//aplus3.png  used on input line 257.
-(pdftex.def)             Requested size: 125.12099pt x 198.10765pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--270
-
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./pictures//2Know.png> <./pictures//peoplebyinitials.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
-[][]\T2A/cmr/bx/n/12 Вывод|
+<pictures//MnemonicMajorSystem1.png, id=51, 368.1253pt x 574.39594pt>
+File: pictures//MnemonicMajorSystem1.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem1.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem1.png  used on input line
+ 249.
+(pdftex.def)             Requested size: 125.12099pt x 195.23067pt.
+<pictures//MnemonicMajorSystem2.png, id=52, 368.1253pt x 631.60968pt>
+File: pictures//MnemonicMajorSystem2.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem2.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem2.png  used on input line
+ 250.
+(pdftex.def)             Requested size: 114.10875pt x 195.7777pt.
+<pictures//MnemonicMajorSystem3.png, id=53, 365.86688pt x 633.11531pt>
+File: pictures//MnemonicMajorSystem3.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem3.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem3.png  used on input line
+ 251.
+(pdftex.def)             Requested size: 113.10834pt x 195.72272pt.
+<pictures//MnemonicMajorSystem4.png, id=54, 368.87813pt x 627.09282pt>
+File: pictures//MnemonicMajorSystem4.png Graphic file (type png)
+<use pictures//MnemonicMajorSystem4.png>
+Package pdftex.def Info: pictures//MnemonicMajorSystem4.png  used on input line
+ 252.
+(pdftex.def)             Requested size: 115.10918pt x 195.67896pt.
+<pictures//wordgenerator1.png, id=55, 370.38374pt x 636.87938pt>
+File: pictures//wordgenerator1.png Graphic file (type png)
+<use pictures//wordgenerator1.png>
+Package pdftex.def Info: pictures//wordgenerator1.png  used on input line 264.
+(pdftex.def)             Requested size: 125.12099pt x 215.14645pt.
+<pictures//wordgenerator2.png, id=56, 369.63094pt x 665.48625pt>
+File: pictures//wordgenerator2.png Graphic file (type png)
+<use pictures//wordgenerator2.png>
+Package pdftex.def Info: pictures//wordgenerator2.png  used on input line 265.
+(pdftex.def)             Requested size: 119.61487pt x 215.3564pt.
+<pictures//aplus1.png, id=57, 367.3725pt x 584.93532pt>
+File: pictures//aplus1.png Graphic file (type png)
+<use pictures//aplus1.png>
+Package pdftex.def Info: pictures//aplus1.png  used on input line 274.
+(pdftex.def)             Requested size: 124.61696pt x 198.41125pt.
+<pictures//aplus2.png, id=58, 371.13657pt x 587.94656pt>
+File: pictures//aplus2.png Graphic file (type png)
+<use pictures//aplus2.png>
+Package pdftex.def Info: pictures//aplus2.png  used on input line 275.
+(pdftex.def)             Requested size: 125.12099pt x 198.21257pt.
+<pictures//aplus3.png, id=59, 370.38374pt x 586.44093pt>
+File: pictures//aplus3.png Graphic file (type png)
+<use pictures//aplus3.png>
+Package pdftex.def Info: pictures//aplus3.png  used on input line 276.
+(pdftex.def)             Requested size: 125.12099pt x 198.10765pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--284
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 257--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--284
 
  []
 
 [8 <./pictures//peoplebyinitials1.png> <./pictures//MnemonicMajorSystem1.png> <
 ./pictures//MnemonicMajorSystem2.png> <./pictures//MnemonicMajorSystem3.png> <.
 /pictures//MnemonicMajorSystem4.png>] [9 <./pictures//wordgenerator1.png> <./pi
-ctures//wordgenerator2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 282--282
-[][]\T2A/cmr/bx/n/14.4 Назначение раз-ра-бот-ки|
+ctures//wordgenerator2.png> <./pictures//aplus1.png> <./pictures//aplus2.png> <
+./pictures//aplus3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[][]\T2A/cmr/bx/n/12 Вывод|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--289
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
-[10 <./pictures//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--296
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 296--301
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 320--332
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--332
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--332
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 339--349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 339--349
+Underfull \hbox (badness 10000) in paragraph at lines 303--308
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 363--366
+Underfull \hbox (badness 10000) in paragraph at lines 332--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--361
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 368--376
+Underfull \hbox (badness 10000) in paragraph at lines 375--378
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--376
+Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--376
+Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
 
-[14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 415--419
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 427--431
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--440
 
  []
 
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // Сай
 т developer.android.com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
 []\T2A/cmr/m/it/10 _enzo_dev \T2A/cmr/m/n/10 (2014) People By Initials // Сайт 
 madebyenzo.com. 30 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
 []\T2A/cmr/m/it/10 RavarApp \T2A/cmr/m/n/10 (2019) Mnemonic major system // Сай
 т play.google.com. 10 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
 \T2A/cmr/m/n/10 (https://play.google.com/store/apps/details?id=com.ravarapp.mne
 monic_major_system) Про-смот-ре-но:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 []\T2A/cmr/m/it/10 Zereck \T2A/cmr/m/n/10 (2021) Major System: Word Generator /
 / Сайт play.google.com. 11 сен-тяб-ря
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 []\T2A/cmr/m/it/10 Magic Parcel \T2A/cmr/m/n/10 (2018) A+ Major System // Сайт 
 play.google.com. 19 мая
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 454--454
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
 []\T2A/cmr/bx/n/14.4 Приложения|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--459
+Underfull \hbox (badness 10000) in paragraph at lines 468--471
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--463
+Underfull \hbox (badness 10000) in paragraph at lines 471--475
 
  []
 
@@ -1341,7 +1394,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 459--463
 Package caption Warning: Unused \captionsetup[table] on input line 17.
 See the caption package documentation for explanation.
 
-[18] (РћС‚С‡С‘С‚.aux)
+[19] (РћС‚С‡С‘С‚.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1361,9 +1414,9 @@ bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on РћС‚С‡С‘С‚.pdf (19 pages, 2073141 bytes).
+Output written on РћС‚С‡С‘С‚.pdf (20 pages, 2073796 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
+ 497 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
