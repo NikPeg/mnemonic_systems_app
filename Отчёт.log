@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  27 JAN 2023 22:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  9 FEB 2023 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -700,6 +700,18 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box63
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen265
+\ttl@minus=\dimen266
+\ttl@toksa=\toks37
+\titlewidth=\dimen267
+\titlewidthlast=\dimen268
+\titlewidthfirst=\dimen269
+)
 (C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.sty
 (C:\Users\pegan\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
 eys2e.sty
@@ -710,7 +722,7 @@ Package: expl3 2022-02-24 L3 programming layer (loader)
 tex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count297
-\l__pdf_internal_box=\box63
+\l__pdf_internal_box=\box64
 ))
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
@@ -739,26 +751,26 @@ sep char (CT)
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count304
 \calc@Bcount=\count305
-\calc@Adimen=\dimen265
-\calc@Bdimen=\dimen266
-\calc@Askip=\skip52
-\calc@Bskip=\skip53
+\calc@Adimen=\dimen270
+\calc@Bdimen=\dimen271
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count306
-\calc@Cskip=\skip54
+\calc@Cskip=\skip56
 )
 \c@@stackindex=\count307
-\@boxshift=\skip55
-\stack@tmplength=\skip56
-\temp@stkl=\skip57
-\@stackedboxwidth=\skip58
-\@addedbox=\box64
-\@anchorbox=\box65
-\@insetbox=\box66
-\se@backgroundbox=\box67
-\stackedbox=\box68
-\@centerbox=\box69
+\@boxshift=\skip57
+\stack@tmplength=\skip58
+\temp@stkl=\skip59
+\@stackedboxwidth=\skip60
+\@addedbox=\box65
+\@anchorbox=\box66
+\@insetbox=\box67
+\se@backgroundbox=\box68
+\stackedbox=\box69
+\@centerbox=\box70
 \c@ROWcellindex@=\count308
 )
 (C:\Program Files\MiKTeX\tex/latex/kantlipsum\kantlipsum.sty
@@ -778,14 +790,14 @@ Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 
 (C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen267
-\captionmargin=\dimen268
-\caption@leftmargin=\dimen269
-\caption@rightmargin=\dimen270
-\caption@width=\dimen271
-\caption@indent=\dimen272
-\caption@parindent=\dimen273
-\caption@hangindent=\dimen274
+\caption@tempdima=\dimen272
+\captionmargin=\dimen273
+\caption@leftmargin=\dimen274
+\caption@rightmargin=\dimen275
+\caption@width=\dimen276
+\caption@indent=\dimen277
+\caption@parindent=\dimen278
+\caption@hangindent=\dimen279
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count311
@@ -794,10 +806,10 @@ Package caption Info: Standard document class detected.
 (C:\Program Files\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count313
-\float@exts=\toks37
-\float@box=\box70
-\@float@everytoks=\toks38
-\@floatcapt=\box71
+\float@exts=\toks38
+\float@box=\box71
+\@float@everytoks=\toks39
+\@floatcapt=\box72
 )
 (C:\Program Files\MiKTeX\tex/latex/zref\zref-totpages.sty
 Package: zref-totpages 2022-04-07 v2.34 Module totpages for zref (HO)
@@ -878,23 +890,23 @@ LaTeX Warning: Label `ris:image' multiply defined.
 )
 \openout1 = `РћС‚С‡С‘С‚.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Info: Redefining \th on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Info: Redefining \th on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -935,16 +947,16 @@ LaTeX Info: Redefining \th on input line 35.
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count315
-\scratchdimen=\dimen275
-\scratchbox=\box72
+\scratchdimen=\dimen280
+\scratchbox=\box73
 \nofMPsegments=\count316
 \nofMParguments=\count317
-\everyMPshowfont=\toks39
+\everyMPshowfont=\toks40
 \MPscratchCnt=\count318
-\MPscratchDim=\dimen276
+\MPscratchDim=\dimen281
 \MPnumerator=\count319
 \makeMPintoPDFobject=\count320
-\everyMPtoPDFconversion=\toks40
+\everyMPtoPDFconversion=\toks41
 )
 (C:\Users\pegan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -964,332 +976,424 @@ Package caption Info: End \AtBeginDocument code.
 {C:/Users/pegan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 [1
 
-] (РћС‚С‡С‘С‚.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
+]
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[][]\T2A/cmr/bx/n/14.4 Содержание|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+|\T2A/cmr/bx/n/14.4 Содержание|
+ []
+
+(РћС‚С‡С‘С‚.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
 \tf@toc=\write4
 \openout4 = `РћС‚С‡С‘С‚.toc'.
 
+
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 116--120
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[][]\T2A/cmr/bx/n/14.4 Введение|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--133
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--161
+Underfull \hbox (badness 10000) in paragraph at lines 130--134
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 170--174
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 179--194
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[][]\T2A/cmr/bx/n/14.4 Основания для раз-ра-бот-ки|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+|[]\T2A/cmr/bx/n/12 Общение с по-тен-ци-аль-ны-ми поль-зо-ва-те-ля-ми|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--194
+Underfull \hbox (badness 10000) in paragraph at lines 180--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--194
+Underfull \hbox (badness 10000) in paragraph at lines 180--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--194
+Underfull \hbox (badness 10000) in paragraph at lines 180--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--194
+Underfull \hbox (badness 10000) in paragraph at lines 180--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--194
+Underfull \hbox (badness 10000) in paragraph at lines 180--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--207
+Underfull \hbox (badness 10000) in paragraph at lines 180--195
 
  []
 
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+[][]\T2A/cmr/bx/n/12 Анализ кон-ку-рен-тов|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--208
+
+ []
+
 <pictures//010Memorizer1.png, id=34, 431.81325pt x 337.86224pt>
 File: pictures//010Memorizer1.png Graphic file (type png)
 <use pictures//010Memorizer1.png>
-Package pdftex.def Info: pictures//010Memorizer1.png  used on input line 209.
+Package pdftex.def Info: pictures//010Memorizer1.png  used on input line 210.
 (pdftex.def)             Requested size: 250.24199pt x 195.80042pt.
 <pictures//010Memorizer2.png, id=35, 438.438pt x 337.86224pt>
 File: pictures//010Memorizer2.png Graphic file (type png)
 <use pictures//010Memorizer2.png>
-Package pdftex.def Info: pictures//010Memorizer2.png  used on input line 210.
+Package pdftex.def Info: pictures//010Memorizer2.png  used on input line 211.
 (pdftex.def)             Requested size: 255.24408pt x 196.69745pt.
 
-Overfull \hbox (7.22375pt too wide) in paragraph at lines 209--211
+Overfull \hbox (7.22375pt too wide) in paragraph at lines 210--212
 [][] [] |
  []
 
 <pictures//2Know.png, id=36, 310.761pt x 298.716pt>
 File: pictures//2Know.png Graphic file (type png)
 <use pictures//2Know.png>
-Package pdftex.def Info: pictures//2Know.png  used on input line 217.
+Package pdftex.def Info: pictures//2Know.png  used on input line 218.
 (pdftex.def)             Requested size: 150.14671pt x 144.33011pt.
 <pictures//peoplebyinitials.png, id=37, 895.09406pt x 414.04688pt>
 File: pictures//peoplebyinitials.png Graphic file (type png)
 <use pictures//peoplebyinitials.png>
-Package pdftex.def Info: pictures//peoplebyinitials.png  used on input line 223
+Package pdftex.def Info: pictures//peoplebyinitials.png  used on input line 224
 .
 (pdftex.def)             Requested size: 250.24199pt x 115.75543pt.
 <pictures//peoplebyinitials1.png, id=39, 616.55344pt x 516.42938pt>
 File: pictures//peoplebyinitials1.png Graphic file (type png)
 <use pictures//peoplebyinitials1.png>
 Package pdftex.def Info: pictures//peoplebyinitials1.png  used on input line 22
-8.
+9.
 (pdftex.def)             Requested size: 250.24199pt x 209.60191pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--233
+Underfull \hbox (badness 10000) in paragraph at lines 216--234
 
  []
 
-[6 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png> <./pictures/
-/2Know.png>]
-<pictures//MnemonicMajorSystem1.png, id=47, 368.1253pt x 574.39594pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png>]
+<pictures//MnemonicMajorSystem1.png, id=46, 368.1253pt x 574.39594pt>
 File: pictures//MnemonicMajorSystem1.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem1.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem1.png  used on input line
- 235.
+ 236.
 (pdftex.def)             Requested size: 125.12099pt x 195.23067pt.
-<pictures//MnemonicMajorSystem2.png, id=48, 368.1253pt x 631.60968pt>
+<pictures//MnemonicMajorSystem2.png, id=47, 368.1253pt x 631.60968pt>
 File: pictures//MnemonicMajorSystem2.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem2.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem2.png  used on input line
- 236.
+ 237.
 (pdftex.def)             Requested size: 114.10875pt x 195.7777pt.
-<pictures//MnemonicMajorSystem3.png, id=49, 365.86688pt x 633.11531pt>
+<pictures//MnemonicMajorSystem3.png, id=48, 365.86688pt x 633.11531pt>
 File: pictures//MnemonicMajorSystem3.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem3.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem3.png  used on input line
- 237.
+ 238.
 (pdftex.def)             Requested size: 113.10834pt x 195.72272pt.
-<pictures//MnemonicMajorSystem4.png, id=50, 368.87813pt x 627.09282pt>
+<pictures//MnemonicMajorSystem4.png, id=49, 368.87813pt x 627.09282pt>
 File: pictures//MnemonicMajorSystem4.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem4.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem4.png  used on input line
- 238.
+ 239.
 (pdftex.def)             Requested size: 115.10918pt x 195.67896pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures//wordgenerator1.png, id=51, 370.38374pt x 636.87938pt>
+<pictures//wordgenerator1.png, id=50, 370.38374pt x 636.87938pt>
 File: pictures//wordgenerator1.png Graphic file (type png)
 <use pictures//wordgenerator1.png>
-Package pdftex.def Info: pictures//wordgenerator1.png  used on input line 250.
+Package pdftex.def Info: pictures//wordgenerator1.png  used on input line 251.
 (pdftex.def)             Requested size: 125.12099pt x 215.14645pt.
-<pictures//wordgenerator2.png, id=52, 369.63094pt x 665.48625pt>
+<pictures//wordgenerator2.png, id=51, 369.63094pt x 665.48625pt>
 File: pictures//wordgenerator2.png Graphic file (type png)
 <use pictures//wordgenerator2.png>
-Package pdftex.def Info: pictures//wordgenerator2.png  used on input line 251.
+Package pdftex.def Info: pictures//wordgenerator2.png  used on input line 252.
 (pdftex.def)             Requested size: 119.61487pt x 215.3564pt.
-<pictures//aplus1.png, id=53, 367.3725pt x 584.93532pt>
+<pictures//aplus1.png, id=52, 367.3725pt x 584.93532pt>
 File: pictures//aplus1.png Graphic file (type png)
 <use pictures//aplus1.png>
-Package pdftex.def Info: pictures//aplus1.png  used on input line 260.
+Package pdftex.def Info: pictures//aplus1.png  used on input line 261.
 (pdftex.def)             Requested size: 124.61696pt x 198.41125pt.
-<pictures//aplus2.png, id=54, 371.13657pt x 587.94656pt>
+<pictures//aplus2.png, id=53, 371.13657pt x 587.94656pt>
 File: pictures//aplus2.png Graphic file (type png)
 <use pictures//aplus2.png>
-Package pdftex.def Info: pictures//aplus2.png  used on input line 261.
+Package pdftex.def Info: pictures//aplus2.png  used on input line 262.
 (pdftex.def)             Requested size: 125.12099pt x 198.21257pt.
-<pictures//aplus3.png, id=55, 370.38374pt x 586.44093pt>
+<pictures//aplus3.png, id=54, 370.38374pt x 586.44093pt>
 File: pictures//aplus3.png Graphic file (type png)
 <use pictures//aplus3.png>
-Package pdftex.def Info: pictures//aplus3.png  used on input line 262.
+Package pdftex.def Info: pictures//aplus3.png  used on input line 263.
 (pdftex.def)             Requested size: 125.12099pt x 198.10765pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--275
+Underfull \hbox (badness 10000) in paragraph at lines 244--276
 
  []
 
-[7 <./pictures//peoplebyinitials.png> <./pictures//peoplebyinitials1.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./pictures//MnemonicMajorSystem1.png> <./pictures//MnemonicMajorSystem2.png
-> <./pictures//MnemonicMajorSystem3.png> <./pictures//MnemonicMajorSystem4.png>
- <./pictures//wordgenerator1.png> <./pictures//wordgenerator2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./pictures//2Know.png> <./pictures//peoplebyinitials.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 283--283
+[][]\T2A/cmr/bx/n/12 Вывод|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
-[9 <./pictures//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 289--294
+[8 <./pictures//peoplebyinitials1.png> <./pictures//MnemonicMajorSystem1.png> <
+./pictures//MnemonicMajorSystem2.png> <./pictures//MnemonicMajorSystem3.png> <.
+/pictures//MnemonicMajorSystem4.png>] [9 <./pictures//wordgenerator1.png> <./pi
+ctures//wordgenerator2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+[][]\T2A/cmr/bx/n/14.4 Назначение раз-ра-бот-ки|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--295
 
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 298--303
+[10 <./pictures//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[][]\T2A/cmr/bx/n/14.4 Требования к про-грам-ме или про-грамм-но-му из-де-лию|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--304
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 327--339
+Underfull \hbox (badness 10000) in paragraph at lines 328--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--339
+Underfull \hbox (badness 10000) in paragraph at lines 328--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--339
+Underfull \hbox (badness 10000) in paragraph at lines 328--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--356
+Underfull \hbox (badness 10000) in paragraph at lines 347--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--356
+Underfull \hbox (badness 10000) in paragraph at lines 347--357
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 372--375
+Underfull \hbox (badness 10000) in paragraph at lines 371--371
+[][]\T2A/cmr/bx/n/14.4 Требования к про-грамм-ной до-ку-мен-та-ции|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--376
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 379--387
+Underfull \hbox (badness 10000) in paragraph at lines 378--378
+[][]\T2A/cmr/bx/n/14.4 Технико-экономические по-ка-за-те-ли|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--387
+Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--387
+Underfull \hbox (badness 10000) in paragraph at lines 380--388
 
  []
 
-[14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 430--434
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 390--390
+[][]\T2A/cmr/bx/n/14.4 Стадии и эта-пы раз-ра-бот-ки|
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[][]\T2A/cmr/bx/n/14.4 Порядок кон-тро-ля и при-ем-ки|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--443
+Underfull \hbox (badness 10000) in paragraph at lines 440--444
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+Underfull \hbox (badness 10000) in paragraph at lines 452--452
+[]\T2A/cmr/bx/n/14.4 Список ис-поль-зо-ван-ных ис-точ-ни-ков|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+||
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // Сай
 т developer.android.com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--460
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 []\T2A/cmr/m/it/10 _enzo_dev \T2A/cmr/m/n/10 (2014) People By Initials // Сайт 
 madebyenzo.com. 30 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
 []\T2A/cmr/m/it/10 RavarApp \T2A/cmr/m/n/10 (2019) Mnemonic major system // Сай
 т play.google.com. 10 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
 \T2A/cmr/m/n/10 (https://play.google.com/store/apps/details?id=com.ravarapp.mne
 monic_major_system) Про-смот-ре-но:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--462
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
 []\T2A/cmr/m/it/10 Zereck \T2A/cmr/m/n/10 (2021) Major System: Word Generator /
 / Сайт play.google.com. 11 сен-тяб-ря
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
 []\T2A/cmr/m/it/10 Magic Parcel \T2A/cmr/m/n/10 (2018) A+ Major System // Сайт 
 play.google.com. 19 мая
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 471--474
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
+[]\T2A/cmr/bx/n/14.4 Приложения|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--477
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--478
+Underfull \hbox (badness 10000) in paragraph at lines 477--481
 
  []
 
 
-Package caption Warning: Unused \captionsetup[table] on input line 16.
+Package caption Warning: Unused \captionsetup[table] on input line 17.
 See the caption package documentation for explanation.
 
 [18] (РћС‚С‡С‘С‚.aux)
@@ -1298,10 +1402,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18593 strings out of 478582
- 372387 string characters out of 2844345
- 1037004 words of memory out of 3000000
- 36399 multiletter control sequences out of 15000+600000
+ 18893 strings out of 478582
+ 376458 string characters out of 2844345
+ 1042941 words of memory out of 3000000
+ 36695 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,7n,104p,1454b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1312,9 +1416,9 @@ bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on РћС‚С‡С‘С‚.pdf (19 pages, 2072894 bytes).
+Output written on РћС‚С‡С‘С‚.pdf (19 pages, 2072718 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
+ 494 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
