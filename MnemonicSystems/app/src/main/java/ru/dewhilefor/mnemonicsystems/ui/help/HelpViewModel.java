@@ -1,14 +1,14 @@
-package ru.dewhilefor.mnemonicsystems.ui.notifications;
+package ru.dewhilefor.mnemonicsystems.ui.help;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class NotificationsViewModel extends ViewModel {
+public class HelpViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public NotificationsViewModel() {
+    public HelpViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is notifications fragment");
     }

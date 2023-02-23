@@ -18,8 +18,8 @@
         tools:layout="@layout/fragment_mms" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="ru.dewhilefor.mnemonicsystems.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_help"
+        android:name="ru.dewhilefor.mnemonicsystems.ui.help.HelpFragment"
+        android:label="@string/title_help"
+        tools:layout="@layout/fragment_help" />
 </navigation>
