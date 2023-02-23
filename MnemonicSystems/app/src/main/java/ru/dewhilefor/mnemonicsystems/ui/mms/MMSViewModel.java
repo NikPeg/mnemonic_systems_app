@@ -1,16 +1,16 @@
-package ru.dewhilefor.mnemonicsystems.ui.dashboard;
+package ru.dewhilefor.mnemonicsystems.ui.mms;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class DashboardViewModel extends ViewModel {
+public class MMSViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public DashboardViewModel() {
+    public MMSViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is dashboard fragment");
+        mText.setValue("This is MMS fragment");
     }
 
     public LiveData<String> getText() {
