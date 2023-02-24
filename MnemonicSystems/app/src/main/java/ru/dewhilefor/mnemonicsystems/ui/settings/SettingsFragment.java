@@ -1,4 +1,4 @@
-package ru.dewhilefor.mnemonicsystems.ui.ds;
+package ru.dewhilefor.mnemonicsystems.ui.settings;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,22 +10,22 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import ru.dewhilefor.mnemonicsystems.databinding.FragmentDsBinding;
+import ru.dewhilefor.mnemonicsystems.databinding.FragmentSettingsBinding;
 
-public class DSFragment extends Fragment {
+public class SettingsFragment extends Fragment {
 
-    private FragmentDsBinding binding;
+    private FragmentSettingsBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        DSViewModel dsViewModel =
-                new ViewModelProvider(this).get(DSViewModel.class);
+        SettingsViewModel settingsViewModel =
+                new ViewModelProvider(this).get(SettingsViewModel.class);
 
-        binding = FragmentDsBinding.inflate(inflater, container, false);
+        binding = FragmentSettingsBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textDs;
-        dsViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        final TextView textView = binding.textSettings;
+        settingsViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

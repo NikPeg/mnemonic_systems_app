@@ -28,4 +28,10 @@
         android:name="ru.dewhilefor.mnemonicsystems.ui.ds.DSFragment"
         android:label="@string/title_ds"
         tools:layout="@layout/fragment_ds" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="ru.dewhilefor.mnemonicsystems.ui.settings.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_settings" />
 </navigation>
