@@ -1,16 +1,16 @@
-package ru.dewhilefor.mnemonicsystems.ui.help;
+package ru.dewhilefor.mnemonicsystems.ui.ds;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class HelpViewModel extends ViewModel {
+public class DSViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public HelpViewModel() {
+    public DSViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is help fragment");
+        mText.setValue("This is DS fragment");
     }
 
     public LiveData<String> getText() {
