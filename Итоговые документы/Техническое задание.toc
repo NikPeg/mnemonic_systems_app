@@ -1,6 +1,16 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {1}Содержание}{2}{}%
 \contentsline {section}{\numberline {2}Введение}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Наименование программы на русском языке}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Наименование программы на английском языке}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Цель работы}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Задачи работы}{3}{}%
+\contentsline {subsection}{\numberline {2.5}Целевая аудитория продукта}{3}{}%
+\contentsline {subsection}{\numberline {2.6}Область применения программы}{3}{}%
+\contentsline {subsection}{\numberline {2.7}Источники необходимой информации}{4}{}%
+\contentsline {subsection}{\numberline {2.8}Необходимая программа для разработки}{4}{}%
+\contentsline {subsection}{\numberline {2.9}Необходимое для разработки оборудование}{5}{}%
+\contentsline {subsection}{\numberline {2.10}Подход к разработке}{5}{}%
 \contentsline {section}{\numberline {3}Основания для разработки}{6}{}%
 \contentsline {subsection}{\numberline {3.1}Общение с потенциальными пользователями}{6}{}%
 \contentsline {subsection}{\numberline {3.2}Анализ конкурентов}{7}{}%
