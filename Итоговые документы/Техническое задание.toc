@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {2.7}Методы, используемые в процессе работы}{4}{}%
 \contentsline {subsection}{\numberline {2.8}Источники необходимой информации}{4}{}%
 \contentsline {subsection}{\numberline {2.9}Необходимая программа для разработки}{4}{}%
-\contentsline {subsection}{\numberline {2.10}Необходимое для разработки оборудование}{5}{}%
+\contentsline {subsection}{\numberline {2.10}Необходимое для разработки оборудование}{4}{}%
 \contentsline {subsection}{\numberline {2.11}Подход к разработке}{5}{}%
 \contentsline {section}{\numberline {3}Основания для разработки}{6}{}%
 \contentsline {subsection}{\numberline {3.1}Общение с потенциальными пользователями}{6}{}%
@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {5.1}Краткое описание приложения}{13}{}%
 \contentsline {subsection}{\numberline {5.2}Требования к функциональным характеристикам}{13}{}%
 \contentsline {subsection}{\numberline {5.3}Требования к интерфейсу}{13}{}%
-\contentsline {subsection}{\numberline {5.4}Разрешения}{15}{}%
+\contentsline {subsection}{\numberline {5.4}Разрешения}{14}{}%
 \contentsline {subsection}{\numberline {5.5}Дальнейшая работа}{15}{}%
 \contentsline {section}{\numberline {6}Требования к программной документации}{16}{}%
 \contentsline {section}{\numberline {7}Технико-экономические показатели}{17}{}%
