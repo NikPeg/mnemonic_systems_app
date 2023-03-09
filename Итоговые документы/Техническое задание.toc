@@ -23,9 +23,9 @@
 \contentsline {subsection}{\numberline {4.4}Эксплуатационное назначение}{12}{}%
 \contentsline {section}{\numberline {5}Требования к программе или программному изделию}{13}{}%
 \contentsline {subsection}{\numberline {5.1}Краткое описание приложения}{13}{}%
-\contentsline {subsection}{\numberline {5.2}Структура мобильного приложения}{13}{}%
-\contentsline {subsection}{\numberline {5.3}Требование к интерфейсу}{14}{}%
-\contentsline {subsection}{\numberline {5.4}Разрешения}{14}{}%
+\contentsline {subsection}{\numberline {5.2}Требования к функциональным характеристикам}{13}{}%
+\contentsline {subsection}{\numberline {5.3}Требования к интерфейсу}{13}{}%
+\contentsline {subsection}{\numberline {5.4}Разрешения}{15}{}%
 \contentsline {subsection}{\numberline {5.5}Дальнейшая работа}{15}{}%
 \contentsline {section}{\numberline {6}Требования к программной документации}{16}{}%
 \contentsline {section}{\numberline {7}Технико-экономические показатели}{17}{}%
