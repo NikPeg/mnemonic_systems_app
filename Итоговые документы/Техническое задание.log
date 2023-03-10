@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 14:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 14:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1031,6 +1031,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 186--189
 
  []
@@ -1043,50 +1052,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[4]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
-
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1096,6 +1062,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [6]
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 215--218
 
  []
@@ -1105,12 +1114,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--218
 
  []
 
-<pictures//010Memorizer1.png, id=38, 431.81325pt x 337.86224pt>
+<pictures//010Memorizer1.png, id=41, 431.81325pt x 337.86224pt>
 File: pictures//010Memorizer1.png Graphic file (type png)
 <use pictures//010Memorizer1.png>
 Package pdftex.def Info: pictures//010Memorizer1.png  used on input line 220.
 (pdftex.def)             Requested size: 250.24199pt x 195.80042pt.
-<pictures//010Memorizer2.png, id=39, 438.438pt x 337.86224pt>
+<pictures//010Memorizer2.png, id=42, 438.438pt x 337.86224pt>
 File: pictures//010Memorizer2.png Graphic file (type png)
 <use pictures//010Memorizer2.png>
 Package pdftex.def Info: pictures//010Memorizer2.png  used on input line 221.
@@ -1120,18 +1129,18 @@ Overfull \hbox (7.22375pt too wide) in paragraph at lines 220--222
 [][] [] |
  []
 
-<pictures//2Know.png, id=40, 310.761pt x 298.716pt>
+<pictures//2Know.png, id=43, 310.761pt x 298.716pt>
 File: pictures//2Know.png Graphic file (type png)
 <use pictures//2Know.png>
 Package pdftex.def Info: pictures//2Know.png  used on input line 228.
 (pdftex.def)             Requested size: 250.24199pt x 240.55019pt.
-<pictures//peoplebyinitials.png, id=41, 895.09406pt x 414.04688pt>
+<pictures//peoplebyinitials.png, id=44, 895.09406pt x 414.04688pt>
 File: pictures//peoplebyinitials.png Graphic file (type png)
 <use pictures//peoplebyinitials.png>
 Package pdftex.def Info: pictures//peoplebyinitials.png  used on input line 242
 .
 (pdftex.def)             Requested size: 250.24199pt x 115.75543pt.
-<pictures//peoplebyinitials1.png, id=43, 616.55344pt x 516.42938pt>
+<pictures//peoplebyinitials1.png, id=46, 616.55344pt x 516.42938pt>
 File: pictures//peoplebyinitials1.png Graphic file (type png)
 <use pictures//peoplebyinitials1.png>
 Package pdftex.def Info: pictures//peoplebyinitials1.png  used on input line 24
@@ -1248,7 +1257,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[7 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png>]
+[8 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1260,52 +1269,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[8 <./pictures//2Know.png> <./pictures//peoplebyinitials.png>]
-<pictures//MnemonicMajorSystem1.png, id=54, 368.1253pt x 574.39594pt>
+[9 <./pictures//2Know.png> <./pictures//peoplebyinitials.png>]
+<pictures//MnemonicMajorSystem1.png, id=57, 368.1253pt x 574.39594pt>
 File: pictures//MnemonicMajorSystem1.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem1.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem1.png  used on input line
  265.
 (pdftex.def)             Requested size: 125.12099pt x 195.23067pt.
-<pictures//MnemonicMajorSystem2.png, id=55, 368.1253pt x 631.60968pt>
+<pictures//MnemonicMajorSystem2.png, id=58, 368.1253pt x 631.60968pt>
 File: pictures//MnemonicMajorSystem2.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem2.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem2.png  used on input line
  266.
 (pdftex.def)             Requested size: 114.10875pt x 195.7777pt.
-<pictures//MnemonicMajorSystem3.png, id=56, 365.86688pt x 633.11531pt>
+<pictures//MnemonicMajorSystem3.png, id=59, 365.86688pt x 633.11531pt>
 File: pictures//MnemonicMajorSystem3.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem3.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem3.png  used on input line
  267.
 (pdftex.def)             Requested size: 113.10834pt x 195.72272pt.
-<pictures//MnemonicMajorSystem4.png, id=57, 368.87813pt x 627.09282pt>
+<pictures//MnemonicMajorSystem4.png, id=60, 368.87813pt x 627.09282pt>
 File: pictures//MnemonicMajorSystem4.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem4.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem4.png  used on input line
  268.
 (pdftex.def)             Requested size: 115.10918pt x 195.67896pt.
-<pictures//wordgenerator1.png, id=58, 370.38374pt x 636.87938pt>
+<pictures//wordgenerator1.png, id=61, 370.38374pt x 636.87938pt>
 File: pictures//wordgenerator1.png Graphic file (type png)
 <use pictures//wordgenerator1.png>
 Package pdftex.def Info: pictures//wordgenerator1.png  used on input line 280.
 (pdftex.def)             Requested size: 125.12099pt x 215.14645pt.
-<pictures//wordgenerator2.png, id=59, 369.63094pt x 665.48625pt>
+<pictures//wordgenerator2.png, id=62, 369.63094pt x 665.48625pt>
 File: pictures//wordgenerator2.png Graphic file (type png)
 <use pictures//wordgenerator2.png>
 Package pdftex.def Info: pictures//wordgenerator2.png  used on input line 281.
 (pdftex.def)             Requested size: 119.61487pt x 215.3564pt.
-<pictures//aplus1.png, id=60, 367.3725pt x 584.93532pt>
+<pictures//aplus1.png, id=63, 367.3725pt x 584.93532pt>
 File: pictures//aplus1.png Graphic file (type png)
 <use pictures//aplus1.png>
 Package pdftex.def Info: pictures//aplus1.png  used on input line 290.
 (pdftex.def)             Requested size: 124.61696pt x 198.41125pt.
-<pictures//aplus2.png, id=61, 371.13657pt x 587.94656pt>
+<pictures//aplus2.png, id=64, 371.13657pt x 587.94656pt>
 File: pictures//aplus2.png Graphic file (type png)
 <use pictures//aplus2.png>
 Package pdftex.def Info: pictures//aplus2.png  used on input line 291.
 (pdftex.def)             Requested size: 125.12099pt x 198.21257pt.
-<pictures//aplus3.png, id=62, 370.38374pt x 586.44093pt>
+<pictures//aplus3.png, id=65, 370.38374pt x 586.44093pt>
 File: pictures//aplus3.png Graphic file (type png)
 <use pictures//aplus3.png>
 Package pdftex.def Info: pictures//aplus3.png  used on input line 292.
@@ -1333,9 +1342,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[9 <./pictures//peoplebyinitials1.png> <./pictures//MnemonicMajorSystem1.png> <
-./pictures//MnemonicMajorSystem2.png> <./pictures//MnemonicMajorSystem3.png> <.
-/pictures//MnemonicMajorSystem4.png>]
+[10 <./pictures//peoplebyinitials1.png> <./pictures//MnemonicMajorSystem1.png> 
+<./pictures//MnemonicMajorSystem2.png> <./pictures//MnemonicMajorSystem3.png> <
+./pictures//MnemonicMajorSystem4.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1344,7 +1353,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[10 <./pictures//wordgenerator1.png> <./pictures//wordgenerator2.png> <./pictur
+[11 <./pictures//wordgenerator1.png> <./pictures//wordgenerator2.png> <./pictur
 es//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 307--307
 [][]\T2A/cmr/bx/n/12 Вывод|
@@ -1363,7 +1372,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
@@ -1401,30 +1410,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[12]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
-
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 369--381
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--381
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--381
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1434,6 +1420,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [14]
+Underfull \hbox (badness 10000) in paragraph at lines 369--381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--381
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[15]
 Overfull \hbox (12.86621pt too wide) in paragraph at lines 411--412
 \T2A/cmr/m/n/10 Устройство мо-жет рас-про-стра-нять-ся на фи-зи-че-ских устрой-
 ствах, на-при-мер, жјст-ких дис-ках, флеш-накопителях,|
@@ -1447,20 +1456,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[15]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
-
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 429--432
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1470,17 +1466,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 434--442
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 434--442
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 434--442
+Underfull \hbox (badness 10000) in paragraph at lines 438--441
 
  []
 
@@ -1493,6 +1479,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [18]
+Underfull \hbox (badness 10000) in paragraph at lines 443--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--451
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1502,12 +1502,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 481--485
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 490--494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--494
+Underfull \hbox (badness 10000) in paragraph at lines 499--503
 
  []
 
@@ -1519,38 +1528,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 503--504
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // Сай
 т developer.android.com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
 []\T2A/cmr/m/it/10 _enzo_dev \T2A/cmr/m/n/10 (2014) People By Initials // Сайт 
 madebyenzo.com. 30 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 511--512
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
 []\T2A/cmr/m/it/10 RavarApp \T2A/cmr/m/n/10 (2019) Mnemonic major system // Сай
 т play.google.com. 10 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 511--512
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
 \T2A/cmr/m/n/10 (https://play.google.com/store/apps/details?id=com.ravarapp.mne
 monic_major_system) Про-смот-ре-но:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 []\T2A/cmr/m/it/10 Zereck \T2A/cmr/m/n/10 (2021) Major System: Word Generator /
 / Сайт play.google.com. 11 сен-тяб-ря
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
 []\T2A/cmr/m/it/10 Magic Parcel \T2A/cmr/m/n/10 (2018) A+ Major System // Сайт 
 play.google.com. 19 мая
  []
@@ -1563,18 +1572,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
 []\T2A/cmr/bx/n/14.4 Приложения|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 522--525
+Underfull \hbox (badness 10000) in paragraph at lines 531--534
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 525--529
+Underfull \hbox (badness 10000) in paragraph at lines 534--538
 
  []
 
@@ -1590,7 +1599,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[22] (РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.aux)
+[23] (РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1598,7 +1607,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  19061 strings out of 478582
  379443 string characters out of 2844345
- 1045970 words of memory out of 3000000
+ 1046970 words of memory out of 3000000
  36859 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1610,10 +1619,10 @@ tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on "РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.pdf" (23 pages, 209241
-1 bytes).
+Output written on "РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.pdf" (24 pages, 209389
+6 bytes).
 PDF statistics:
- 535 PDF objects out of 1000 (max. 8388607)
+ 539 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
