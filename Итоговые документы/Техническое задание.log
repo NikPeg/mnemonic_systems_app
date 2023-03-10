@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 02:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1443,7 +1443,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 409--412
+Underfull \hbox (badness 10000) in paragraph at lines 417--420
 
  []
 
@@ -1456,17 +1456,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 414--422
+Underfull \hbox (badness 10000) in paragraph at lines 422--430
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--422
+Underfull \hbox (badness 10000) in paragraph at lines 422--430
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--422
+Underfull \hbox (badness 10000) in paragraph at lines 422--430
 
  []
 
@@ -1488,12 +1488,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 461--465
+Underfull \hbox (badness 10000) in paragraph at lines 469--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--474
+Underfull \hbox (badness 10000) in paragraph at lines 478--482
 
  []
 
@@ -1506,37 +1506,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 483--484
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // —‡È
 Ú developer.android.com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--491
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
 []\T2A/cmr/m/it/10 _enzo_dev \T2A/cmr/m/n/10 (2014) People By Initials // —‡ÈÚ 
 madebyenzo.com. 30 Ï‡-Ú‡
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
 []\T2A/cmr/m/it/10 RavarApp \T2A/cmr/m/n/10 (2019) Mnemonic major system // —‡È
 Ú play.google.com. 10 Ï‡-Ú‡
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
 \T2A/cmr/m/n/10 (https://play.google.com/store/apps/details?id=com.ravarapp.mne
 monic_major_system) œÓ-ÒÏÓÚ-Â-ÌÓ:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
 []\T2A/cmr/m/it/10 Zereck \T2A/cmr/m/n/10 (2021) Major System: Word Generator /
 / —‡ÈÚ play.google.com. 11 ÒÂÌ-Úˇ·-ˇ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--494
+Underfull \hbox (badness 10000) in paragraph at lines 501--502
 []\T2A/cmr/m/it/10 Magic Parcel \T2A/cmr/m/n/10 (2018) A+ Major System // —‡ÈÚ 
 play.google.com. 19 Ï‡ˇ
  []
@@ -1550,17 +1550,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
 []\T2A/cmr/bx/n/14.4 œËÎÓÊÂÌËˇ|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--505
+Underfull \hbox (badness 10000) in paragraph at lines 510--513
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--509
+Underfull \hbox (badness 10000) in paragraph at lines 513--517
 
  []
 
@@ -1584,7 +1584,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  19061 strings out of 478582
  379443 string characters out of 2844345
- 1043969 words of memory out of 3000000
+ 1043970 words of memory out of 3000000
  36859 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1596,10 +1596,10 @@ tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.pdf" (22 pages, 208769
+Output written on "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.pdf" (22 pages, 208873
 3 bytes).
 PDF statistics:
- 527 PDF objects out of 1000 (max. 8388607)
+ 528 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
