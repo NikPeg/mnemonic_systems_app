@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1434,6 +1434,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [14]
+Overfull \hbox (12.86621pt too wide) in paragraph at lines 411--412
+\T2A/cmr/m/n/10 Устройство мо-жет рас-про-стра-нять-ся на фи-зи-че-ских устрой-
+ствах, на-при-мер, жјст-ких дис-ках, флеш-накопителях,|
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1443,10 +1448,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 423--426
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1456,17 +1457,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 428--436
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 428--436
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 428--436
+Underfull \hbox (badness 10000) in paragraph at lines 429--432
 
  []
 
@@ -1479,6 +1470,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [17]
+Underfull \hbox (badness 10000) in paragraph at lines 434--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--442
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1488,12 +1493,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 475--479
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 481--485
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--488
+Underfull \hbox (badness 10000) in paragraph at lines 490--494
 
  []
 
@@ -1505,38 +1519,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // Сай
 т developer.android.com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--505
+Underfull \hbox (badness 10000) in paragraph at lines 510--511
 []\T2A/cmr/m/it/10 _enzo_dev \T2A/cmr/m/n/10 (2014) People By Initials // Сайт 
 madebyenzo.com. 30 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
 []\T2A/cmr/m/it/10 RavarApp \T2A/cmr/m/n/10 (2019) Mnemonic major system // Сай
 т play.google.com. 10 мар-та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
 \T2A/cmr/m/n/10 (https://play.google.com/store/apps/details?id=com.ravarapp.mne
 monic_major_system) Про-смот-ре-но:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--507
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
 []\T2A/cmr/m/it/10 Zereck \T2A/cmr/m/n/10 (2021) Major System: Word Generator /
 / Сайт play.google.com. 11 сен-тяб-ря
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--508
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
 []\T2A/cmr/m/it/10 Magic Parcel \T2A/cmr/m/n/10 (2018) A+ Major System // Сайт 
 play.google.com. 19 мая
  []
@@ -1549,18 +1563,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 514--514
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
 []\T2A/cmr/bx/n/14.4 Приложения|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--519
+Underfull \hbox (badness 10000) in paragraph at lines 522--525
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--523
+Underfull \hbox (badness 10000) in paragraph at lines 525--529
 
  []
 
@@ -1576,7 +1590,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[21] (РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.aux)
+[22] (РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1596,10 +1610,10 @@ tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
 /dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1000.pk>
-Output written on "РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.pdf" (22 pages, 209075
-9 bytes).
+Output written on "РўРµС…РЅРёС‡РµСЃРєРѕРµ Р·Р°РґР°РЅРёРµ.pdf" (23 pages, 209241
+1 bytes).
 PDF statistics:
- 531 PDF objects out of 1000 (max. 8388607)
+ 535 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
