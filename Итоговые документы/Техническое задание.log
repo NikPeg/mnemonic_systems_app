@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 MAR 2023 15:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -900,6 +900,9 @@ LaTeX Warning: Label `ris:image' multiply defined.
 
 LaTeX Warning: Label `ris:image' multiply defined.
 
+
+LaTeX Warning: Label `tab:canonsummary' multiply defined.
+
 )
 \openout1 = `"–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.aux"'.
 
@@ -1511,12 +1514,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 605--609
+Underfull \hbox (badness 10000) in paragraph at lines 609--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 614--618
+Underfull \hbox (badness 10000) in paragraph at lines 618--622
 
  []
 
@@ -1529,37 +1532,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 627--628
+Underfull \hbox (badness 10000) in paragraph at lines 631--632
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // —‡È
 Ú developer.android.com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--635
+Underfull \hbox (badness 10000) in paragraph at lines 638--639
 []\T2A/cmr/m/it/10 _enzo_dev \T2A/cmr/m/n/10 (2014) People By Initials // —‡ÈÚ 
 madebyenzo.com. 30 Ï‡-Ú‡
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 635--636
+Underfull \hbox (badness 10000) in paragraph at lines 639--640
 []\T2A/cmr/m/it/10 RavarApp \T2A/cmr/m/n/10 (2019) Mnemonic major system // —‡È
 Ú play.google.com. 10 Ï‡-Ú‡
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 635--636
+Underfull \hbox (badness 10000) in paragraph at lines 639--640
 \T2A/cmr/m/n/10 (https://play.google.com/store/apps/details?id=com.ravarapp.mne
 monic_major_system) œÓ-ÒÏÓÚ-Â-ÌÓ:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
+Underfull \hbox (badness 10000) in paragraph at lines 640--641
 []\T2A/cmr/m/it/10 Zereck \T2A/cmr/m/n/10 (2021) Major System: Word Generator /
 / —‡ÈÚ play.google.com. 11 ÒÂÌ-Úˇ·-ˇ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 637--638
+Underfull \hbox (badness 10000) in paragraph at lines 641--642
 []\T2A/cmr/m/it/10 Magic Parcel \T2A/cmr/m/n/10 (2018) A+ Major System // —‡ÈÚ 
 play.google.com. 19 Ï‡ˇ
  []
@@ -1573,17 +1576,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 644--644
+Underfull \hbox (badness 10000) in paragraph at lines 648--648
 []\T2A/cmr/bx/n/14.4 œËÎÓÊÂÌËˇ|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--649
+Underfull \hbox (badness 10000) in paragraph at lines 650--653
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--653
+Underfull \hbox (badness 10000) in paragraph at lines 653--657
 
  []
 
@@ -1617,8 +1620,8 @@ tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
 h/lh-t2a/dpi600\labx1000.pk><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.pdf" (24 pages, 211312
-9 bytes).
+Output written on "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.pdf" (24 pages, 211352
+8 bytes).
 PDF statistics:
  547 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

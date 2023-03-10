@@ -46,6 +46,8 @@
 \contentsline {subsection}{\numberline {7.5}Ориентировочная экономическая эффективность}{19}{}%
 \contentsline {subsection}{\numberline {7.6}Экономические преимущества разработки по сравнению с отечественными и зарубежными аналогами}{19}{}%
 \contentsline {section}{\numberline {8}Стадии и этапы разработки}{20}{}%
+\contentsline {subsection}{\numberline {8.1}Календарный план разработки}{20}{}%
+\contentsline {subsection}{\numberline {8.2}Сроки разработки и исполнитель}{20}{}%
 \contentsline {section}{\numberline {9}Порядок контроля и приемки}{21}{}%
 \contentsline {section}{Список использованных источников}{22}{}%
 \contentsline {section}{Приложения}{23}{}%
