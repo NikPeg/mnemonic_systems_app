@@ -28,7 +28,10 @@
 \contentsline {subsection}{\numberline {5.4}Разрешения}{14}{}%
 \contentsline {subsection}{\numberline {5.5}Требования к входным данным}{15}{}%
 \contentsline {subsection}{\numberline {5.6}Требования к выходным данным}{15}{}%
-\contentsline {subsection}{\numberline {5.7}Дальнейшая работа}{15}{}%
+\contentsline {subsection}{\numberline {5.7}Требования к надёжности}{15}{}%
+\contentsline {subsection}{\numberline {5.8}Условия эксплуатации}{15}{}%
+\contentsline {subsection}{\numberline {5.9}Требования к составу и параметрам технических средств}{15}{}%
+\contentsline {subsection}{\numberline {5.10}Дальнейшая работа}{15}{}%
 \contentsline {section}{\numberline {6}Требования к программной документации}{16}{}%
 \contentsline {section}{\numberline {7}Технико-экономические показатели}{17}{}%
 \contentsline {section}{\numberline {8}Стадии и этапы разработки}{18}{}%
