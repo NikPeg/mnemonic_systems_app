@@ -11,6 +11,7 @@ public class MMSViewModel extends ViewModel {
     public MMSViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is MMS fragment");
+
     }
 
     public LiveData<String> getText() {

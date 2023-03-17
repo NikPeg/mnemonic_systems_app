@@ -19,4 +19,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/mmscardbutton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/mms_button_text"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginBottom="100dp"
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>
