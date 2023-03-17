@@ -5,4 +5,5 @@
     <string name="title_help">Справка</string>
     <string name="title_ds">DS</string>
     <string name="title_settings">Настройки</string>
+    <string name="ds_button_text">Нажмите, чтобы выучить!</string>
 </resources>
