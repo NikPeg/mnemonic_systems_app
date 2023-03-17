@@ -2,7 +2,8 @@
     <string name="app_name">MnemonicSystems</string>
     <string name="title_numbers">Числа</string>
     <string name="title_mms">MMS</string>
-    <string name="title_help">Справка</string>
+    <string name="title_help">Справка </string>
+    <string name="help_text">Основная мнемоническая и Доминиканская системы не являются широко распространенными в русскоязычной среде. Цель данного приложения — позволить русскоговорящему пользователю применять обе мнемонические системы с помощью смартфона.</string>
     <string name="title_ds">DS</string>
     <string name="title_settings">Настройки</string>
     <string name="ds_button_text">Нажмите, чтобы выучить кодирование цифр в Доминиканской системе</string>
