@@ -28,71 +28,71 @@ public class DSFragment extends Fragment {
         final TextView textView = binding.textDs;
         dsViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
 
-        final Button cardButton = binding.cardbutton;
+        final Button DScardButton = binding.dscardbutton;
 
-        cardButton.setOnClickListener(new View.OnClickListener() {
+        DScardButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                cardButton.setTextSize(100);
-                if (cardButton.getText() == "A") {
-                    cardButton.setText("1");
+                DScardButton.setTextSize(100);
+                if (DScardButton.getText() == "A") {
+                    DScardButton.setText("1");
                 }
-                else if (cardButton.getText() == "1") {
-                    cardButton.setText("B");
+                else if (DScardButton.getText() == "1") {
+                    DScardButton.setText("B");
                 }
-                else if (cardButton.getText() == "B") {
-                    cardButton.setText("2");
+                else if (DScardButton.getText() == "B") {
+                    DScardButton.setText("2");
                 }
-                else if (cardButton.getText() == "2") {
-                    cardButton.setText("C");
+                else if (DScardButton.getText() == "2") {
+                    DScardButton.setText("C");
                 }
-                else if (cardButton.getText() == "C") {
-                    cardButton.setText("3");
+                else if (DScardButton.getText() == "C") {
+                    DScardButton.setText("3");
                 }
-                else if (cardButton.getText() == "3") {
-                    cardButton.setText("D");
+                else if (DScardButton.getText() == "3") {
+                    DScardButton.setText("D");
                 }
-                else if (cardButton.getText() == "D") {
-                    cardButton.setText("4");
+                else if (DScardButton.getText() == "D") {
+                    DScardButton.setText("4");
                 }
-                else if (cardButton.getText() == "4") {
-                    cardButton.setText("E");
+                else if (DScardButton.getText() == "4") {
+                    DScardButton.setText("E");
                 }
-                else if (cardButton.getText() == "E") {
-                    cardButton.setText("5");
+                else if (DScardButton.getText() == "E") {
+                    DScardButton.setText("5");
                 }
-                else if (cardButton.getText() == "5") {
-                    cardButton.setText("S");
+                else if (DScardButton.getText() == "5") {
+                    DScardButton.setText("S");
                 }
-                else if (cardButton.getText() == "S") {
-                    cardButton.setText("6");
+                else if (DScardButton.getText() == "S") {
+                    DScardButton.setText("6");
                 }
-                else if (cardButton.getText() == "6") {
-                    cardButton.setText("G");
+                else if (DScardButton.getText() == "6") {
+                    DScardButton.setText("G");
                 }
-                else if (cardButton.getText() == "G") {
-                    cardButton.setText("7");
+                else if (DScardButton.getText() == "G") {
+                    DScardButton.setText("7");
                 }
-                else if (cardButton.getText() == "7") {
-                    cardButton.setText("H");
+                else if (DScardButton.getText() == "7") {
+                    DScardButton.setText("H");
                 }
-                else if (cardButton.getText() == "H") {
-                    cardButton.setText("8");
+                else if (DScardButton.getText() == "H") {
+                    DScardButton.setText("8");
                 }
-                else if (cardButton.getText() == "8") {
-                    cardButton.setText("N");
+                else if (DScardButton.getText() == "8") {
+                    DScardButton.setText("N");
                 }
-                else if (cardButton.getText() == "N") {
-                    cardButton.setText("9");
+                else if (DScardButton.getText() == "N") {
+                    DScardButton.setText("9");
                 }
-                else if (cardButton.getText() == "9") {
-                    cardButton.setText("O");
+                else if (DScardButton.getText() == "9") {
+                    DScardButton.setText("O");
                 }
-                else if (cardButton.getText() == "O") {
-                    cardButton.setText("0");
+                else if (DScardButton.getText() == "O") {
+                    DScardButton.setText("0");
                 }
                 else {
-                    cardButton.setText("A");
+                    DScardButton.setText("A");
                 }
             }
         });

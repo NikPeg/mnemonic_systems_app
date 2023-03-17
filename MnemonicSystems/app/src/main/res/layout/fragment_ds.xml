@@ -21,7 +21,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/cardbutton"
+        android:id="@+id/dscardbutton"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/ds_button_text"
