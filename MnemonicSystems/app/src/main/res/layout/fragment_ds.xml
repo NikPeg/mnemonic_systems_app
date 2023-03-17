@@ -21,10 +21,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/supabutton"
+        android:id="@+id/cardbutton"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/ds_button_text"
         android:layout_marginHorizontal="50dp"
-        android:layout_marginVertical="50dp"/>
+        android:layout_marginBottom="100dp"
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>
