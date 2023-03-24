@@ -12,6 +12,5 @@
         android:layout_height="match_parent"
         android:text="@string/help_text"
         android:layout_marginHorizontal="20dp"
-        android:textColor="@color/black"
-        android:textStyle="bold"/>
+        android:textColor="@color/black"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
