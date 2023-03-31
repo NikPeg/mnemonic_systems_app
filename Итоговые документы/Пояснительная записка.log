@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  31 MAR 2023 08:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  31 MAR 2023 09:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,7 +881,7 @@ rs
 z/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-No file "Пояснительная записка".aux.
+(Пояснительная записка.aux)
 \openout1 = `"Пояснительная записка.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -901,6 +901,7 @@ LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
 LaTeX Info: Redefining \th on input line 41.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -964,11 +965,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 41.
-
-[1
+ [1
 
 {C:/Users/pegan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
@@ -991,9 +988,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--117
 |\T2A/cmr/bx/n/14.4 ����������|
  []
 
-No file "Пояснительная записка".toc.
+(Пояснительная записка.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap
+>><<oms.cmap>><<omx.cmap>>)
 \tf@toc=\write4
 \openout4 = `"Пояснительная записка.toc"'.
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1040,6 +1039,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 150--156
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1067,12 +1070,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-Overfull \hbox (24.28453pt too wide) in paragraph at lines 171--224
+
+Overfull \hbox (24.28453pt too wide) in paragraph at lines 206--259
  [] |
  []
 
@@ -1094,17 +1097,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
 []\T2A/cmr/bx/n/14.4 ����������|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--240
+Underfull \hbox (badness 10000) in paragraph at lines 274--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--244
+Underfull \hbox (badness 10000) in paragraph at lines 277--281
 
  []
 
@@ -1116,34 +1119,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[10] (Пояснительная записка.aux<<t1.cmap>>)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[10] (Пояснительная записка.aux) ) 
 Here is how much of TeX's memory you used:
- 18886 strings out of 478582
- 374724 string characters out of 2844345
+ 18896 strings out of 478582
+ 375174 string characters out of 2844345
  1044974 words of memory out of 3000000
- 36691 multiletter control sequences out of 15000+600000
- 475670 words of font info for 38 fonts, out of 8000000 for 9000
+ 36695 multiletter control sequences out of 15000+600000
+ 476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,104p,822b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx12
-00.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\labx1000.pk><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Пояснительная записка.pdf" (11 pages, 13
-3378 bytes).
+ 100i,11n,104p,1108b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\pegan\AppData\
+Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\pegan\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\pegan\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\
+pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Us
+ers\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C
+:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk
+><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb>
+Output written on "Пояснительная записка.pdf" (11 pages, 15
+1503 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
+ 406 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
