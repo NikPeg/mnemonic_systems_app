@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  31 MAR 2023 09:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  31 MAR 2023 10:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -965,7 +965,11 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
- [1
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 41.
+
+[1
 
 {C:/Users/pegan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
@@ -988,8 +992,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--117
 |\T2A/cmr/bx/n/14.4 ����������|
  []
 
-(Пояснительная записка.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap
->><<oms.cmap>><<omx.cmap>>)
+(Пояснительная записка.toc)
 \tf@toc=\write4
 \openout4 = `"Пояснительная записка.toc"'.
 
@@ -1039,6 +1042,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [4]
+
+LaTeX Warning: Citation `litlink2' on page 5 undefined on input line 151.
+
+
+LaTeX Warning: Citation `litlink3' on page 5 undefined on input line 154.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 150--156
 
  []
@@ -1076,6 +1086,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--195
  []
 
 
+LaTeX Warning: Citation `5' on page 7 undefined on input line 196.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
 (fancyhdr)                \setlength{\headheight}{22.01514pt}.
@@ -1084,22 +1097,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 222--234
+Underfull \hbox (badness 10000) in paragraph at lines 223--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--234
+Underfull \hbox (badness 10000) in paragraph at lines 223--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--234
+Underfull \hbox (badness 10000) in paragraph at lines 223--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--247
+LaTeX Warning: Citation `litlink4' on page 8 undefined on input line 247.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--248
 
  []
 
@@ -1121,12 +1137,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
-
-Overfull \hbox (24.28453pt too wide) in paragraph at lines 265--318
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+Overfull \hbox (24.28453pt too wide) in paragraph at lines 266--319
  [] |
  []
 
@@ -1139,9 +1155,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // ���
 � developer.android.com
+ []
+
+
+Overfull \hbox (118.77914pt too wide) in paragraph at lines 329--330
+[]\T2A/cmr/m/it/10 �������� ��-�� \T2A/cmr/m/n/10 (4 ���-���-�� 2022) ��� // ��
+�� neerc.ifmo.ru (https://neerc.ifmo.ru/wiki/index.php?title=%D0%91%D0%BE%D1%80
+)|
  []
 
 
@@ -1153,17 +1176,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 332--332
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
 []\T2A/cmr/bx/n/14.4 ����������|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--337
+Underfull \hbox (badness 10000) in paragraph at lines 336--339
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--341
+Underfull \hbox (badness 10000) in paragraph at lines 339--343
 
  []
 
@@ -1175,16 +1198,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[12] (Пояснительная записка.aux)
+[12] (Пояснительная записка.aux<<t1.cmap>>)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 18897 strings out of 478582
- 375184 string characters out of 2844345
+ 18898 strings out of 478582
+ 375194 string characters out of 2844345
  1044974 words of memory out of 3000000
- 36696 multiletter control sequences out of 15000+600000
+ 36697 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,104p,1108b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1198,9 +1224,9 @@ h/lh-t2a/dpi600\labx1000.pk><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on "Пояснительная записка.pdf" (13 pages, 16
-4543 bytes).
+4202 bytes).
 PDF statistics:
- 428 PDF objects out of 1000 (max. 8388607)
+ 429 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
