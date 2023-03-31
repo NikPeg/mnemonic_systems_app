@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  31 MAR 2023 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  31 MAR 2023 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1076,14 +1076,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--195
  []
 
 
-LaTeX Warning: Citation `litlink4' on page 7 undefined on input line 200.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--201
-
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
 (fancyhdr)                \setlength{\headheight}{22.01514pt}.
@@ -1092,13 +1084,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
+Underfull \hbox (badness 10000) in paragraph at lines 222--234
 
  []
 
 
-Overfull \hbox (24.28453pt too wide) in paragraph at lines 219--272
- [] |
+Underfull \hbox (badness 10000) in paragraph at lines 222--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
+
  []
 
 
@@ -1110,7 +1112,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
+Overfull \hbox (24.28453pt too wide) in paragraph at lines 265--318
+ [] |
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // ���
 � developer.android.com
  []
@@ -1123,18 +1152,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
 []\T2A/cmr/bx/n/14.4 ����������|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--291
+Underfull \hbox (badness 10000) in paragraph at lines 334--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--295
+Underfull \hbox (badness 10000) in paragraph at lines 337--341
 
  []
 
@@ -1146,10 +1175,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[10] (Пояснительная записка.aux)
-
-LaTeX Warning: There were undefined references.
-
+[12] (Пояснительная записка.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -1161,7 +1187,7 @@ Here is how much of TeX's memory you used:
  36696 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,104p,1108b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,11n,104p,1108b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati10
 00.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
@@ -1171,10 +1197,10 @@ bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 h/lh-t2a/dpi600\labx1000.pk><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Пояснительная записка.pdf" (11 pages, 15
-9150 bytes).
+Output written on "Пояснительная записка.pdf" (13 pages, 16
+4543 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
+ 428 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
