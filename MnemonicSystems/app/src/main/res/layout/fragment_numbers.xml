@@ -1,75 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#e6e6e6"
-    android:orientation="horizontal"
-    android:padding="1dp">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#ffffff"
-        android:orientation="vertical"
-        android:padding="1.5dp">
+    <androidx.cardview.widget.CardView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:elevation="10dp"
+        app:cardCornerRadius="8dp">
 
-        <androidx.cardview.widget.CardView
-            android:layout_width="194dp"
-            android:layout_height="match_parent"
-            android:layout_margin="5dp"
-            android:elevation="10dp"
-            app:cardCornerRadius="8dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="160dp"
+            android:padding="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pasport" />
 
-            <ImageView
-                android:id="@+id/picture"
-                android:layout_width="match_parent"
-                android:layout_height="250dp"
-                android:layout_gravity="bottom|right|top|left"
-                android:padding="5dp"
-                android:src="@drawable/pasport" />
-
-        </androidx.cardview.widget.CardView>
-
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="1.5dp"
-            android:background="#e6e6e6" />
-
-        <RelativeLayout
-            android:layout_width="match_parent"
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom|center_horizontal">
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/text_view_numbers"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentLeft="true"
-                android:layout_alignParentTop="true"
-                android:layout_marginTop="2dp"
-                android:text="New Text" />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
 
-            <TextView
-                android:id="@+id/textView2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
-                android:text="New Text" />
-
-            <TextView
-                android:id="@+id/textView3"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/textView2"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentLeft="true"
-                android:text="New Text" />
-
-        </RelativeLayout>
-    </LinearLayout>
-</LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
