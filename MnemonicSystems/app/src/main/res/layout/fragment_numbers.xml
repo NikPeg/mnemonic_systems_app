@@ -22,22 +22,20 @@
             android:src="@drawable/pasport" />
 
         <TextView
-            android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:layout_marginBottom="5dp"
-            android:layout_marginLeft="5dp"
+            android:layout_marginStart="10dp"
             android:text="@string/text_view_numbers"
             android:color="@color/black"/>
 
         <TextView
-            android:id="@+id/textView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:layout_marginBottom="5dp"
-            android:layout_marginLeft="5dp"
+            android:layout_marginStart="10dp"
             android:text="@string/text_view_numbers"
             android:color="@color/black"/>
 
@@ -46,10 +44,10 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView1"
-        android:layout_width="195dp"
+        android:layout_width="match_parent"
         android:layout_height="195dp"
         android:layout_margin="5dp"
-        android:layout_toRightOf="@+id/cardView0"
+        android:layout_toEndOf="@+id/cardView0"
         android:elevation="10dp"
         app:cardCornerRadius="8dp">
 
@@ -63,23 +61,140 @@
             android:src="@drawable/pasport" />
 
         <TextView
-            android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:layout_marginBottom="5dp"
-            android:layout_marginLeft="5dp"
-            android:text="@string/text_view_numbers"
+            android:layout_marginStart="10dp"
             android:text="@string/text_view_numbers"
             android:color="@color/black"/>
 
         <TextView
-            android:id="@+id/textView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:layout_marginBottom="5dp"
-            android:layout_marginLeft="5dp"
+            android:layout_marginStart="10dp"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="127dp"
+        android:layout_height="130dp"
+        android:layout_margin="5dp"
+        android:id="@+id/cardView2"
+        android:layout_below="@+id/cardView0"
+        android:elevation="10dp"
+        app:cardCornerRadius="8dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pasport" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="10dp"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="10dp"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
+
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView3"
+        android:layout_width="127dp"
+        android:layout_below="@+id/cardView0"
+        android:layout_height="130dp"
+        android:layout_margin="5dp"
+        android:layout_toEndOf="@+id/cardView2"
+        android:elevation="10dp"
+        app:cardCornerRadius="8dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pasport" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="10dp"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="10dp"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView4"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/cardView0"
+        android:layout_height="130dp"
+        android:layout_margin="5dp"
+        android:layout_toEndOf="@+id/cardView3"
+        android:elevation="10dp"
+        app:cardCornerRadius="8dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pasport" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="10dp"
+            android:text="@string/text_view_numbers"
+            android:color="@color/black"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="10dp"
             android:text="@string/text_view_numbers"
             android:color="@color/black"/>
 
