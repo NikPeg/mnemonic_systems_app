@@ -1,0 +1,5 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{2}{}%
+\contentsline {section}{\numberline {2}Содержание}{3}{}%
+\contentsline {section}{Список использованных источников}{4}{}%
+\contentsline {section}{Приложения}{5}{}%
