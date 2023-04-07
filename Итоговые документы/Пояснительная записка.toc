@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {5}Технические характеристики}{6}{}%
 \contentsline {subsection}{\numberline {5.1}Описание использованных мнемонических систем}{6}{}%
 \contentsline {subsection}{\numberline {5.2}Алгоритм функционирования программы}{6}{}%
-\contentsline {subsection}{\numberline {5.3}Интерфейс программы}{6}{}%
+\contentsline {subsection}{\numberline {5.3}Интерфейс программы}{7}{}%
 \contentsline {subsection}{\numberline {5.4}Выбор технических и программных средств}{8}{}%
 \contentsline {section}{\numberline {6}Ожидаемые технико-экономические показатели}{9}{}%
 \contentsline {subsection}{\numberline {6.1}Первоначальная оценка успеха проекта}{9}{}%
