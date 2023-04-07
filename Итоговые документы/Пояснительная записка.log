@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  7 APR 2023 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  7 APR 2023 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,27 +1038,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 183--190
+Underfull \hbox (badness 10000) in paragraph at lines 183--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--190
+Underfull \hbox (badness 10000) in paragraph at lines 183--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--190
+Underfull \hbox (badness 10000) in paragraph at lines 183--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--196
+Underfull \hbox (badness 10000) in paragraph at lines 183--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--196
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
@@ -1071,17 +1076,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 222--234
+Underfull \hbox (badness 10000) in paragraph at lines 224--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--234
+Underfull \hbox (badness 10000) in paragraph at lines 224--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--234
+Underfull \hbox (badness 10000) in paragraph at lines 224--236
 
  []
 
@@ -1094,7 +1099,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 244--247
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
 
  []
 
@@ -1107,12 +1112,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
 
-Overfull \hbox (24.28453pt too wide) in paragraph at lines 265--318
+Overfull \hbox (24.28453pt too wide) in paragraph at lines 267--320
  [] |
  []
 
@@ -1125,16 +1130,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // —‡È
 Ú developer.android.com
  []
 
 
-Overfull \hbox (118.77914pt too wide) in paragraph at lines 328--329
+Overfull \hbox (118.77914pt too wide) in paragraph at lines 330--331
 []\T2A/cmr/m/it/10 ÒÚÛ‰ÂÌÚ˚ »“-ÃŒ \T2A/cmr/m/n/10 (4 ÒÂÌ-Úˇ·-ˇ 2022) ¡Ó // —‡
 ÈÚ neerc.ifmo.ru (https://neerc.ifmo.ru/wiki/index.php?title=%D0%91%D0%BE%D1%80
 )|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[]\T2A/cmr/m/it/10 Hale-Evans, Ron \T2A/cmr/m/n/10 (2006) Mind performance hack
+s // —‡ÈÚ archive.org
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+[]\T2A/cmr/m/it/10 Hale-Evans, Ron \T2A/cmr/m/n/10 (2006) Mind performance hack
+s // —‡ÈÚ archive.org
  []
 
 
@@ -1146,17 +1163,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 334--334
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
 []\T2A/cmr/bx/n/14.4 œËÎÓÊÂÌËˇ|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--339
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--343
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
 
  []
 
@@ -1170,13 +1187,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [11] (–ü–æ—è—Å–Ω–∏—Ç–µ–ª—å–Ω–∞—è –∑–∞–ø–∏—Å–∫–∞.aux) ) 
 Here is how much of TeX's memory you used:
- 18897 strings out of 478582
- 375037 string characters out of 2844345
+ 18901 strings out of 478582
+ 375075 string characters out of 2844345
  1044974 words of memory out of 3000000
- 36698 multiletter control sequences out of 15000+600000
+ 36702 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,104p,1108b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,11n,104p,1231b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\pegan\AppData\
 Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\pegan\AppD
 ata\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\pegan\
@@ -1188,10 +1205,10 @@ ers\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C
 mmi10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb>
-Output written on "–ü–æ—è—Å–Ω–∏—Ç–µ–ª—å–Ω–∞—è –∑–∞–ø–∏—Å–∫–∞.pdf" (12 pages, 17
-6772 bytes).
+Output written on "–ü–æ—è—Å–Ω–∏—Ç–µ–ª—å–Ω–∞—è –∑–∞–ø–∏—Å–∫–∞.pdf" (12 pages, 18
+2242 bytes).
 PDF statistics:
- 434 PDF objects out of 1000 (max. 8388607)
+ 449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
