@@ -14,7 +14,7 @@
 \contentsline {subsection}{\numberline {2.11}Подход к разработке}{6}{}%
 \contentsline {section}{\numberline {3}Основания для разработки}{7}{}%
 \contentsline {subsection}{\numberline {3.1}Общение с потенциальными пользователями}{7}{}%
-\contentsline {subsection}{\numberline {3.2}Анализ конкурентов}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Анализ потенциальных конкурентов}{8}{}%
 \contentsline {subsection}{\numberline {3.3}Вывод}{12}{}%
 \contentsline {section}{\numberline {4}Назначение разработки}{13}{}%
 \contentsline {subsection}{\numberline {4.1}Целевая аудитория продукта}{13}{}%
