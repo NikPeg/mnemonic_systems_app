@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 APR 2023 13:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  10 APR 2023 13:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1099,6 +1099,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--232
  []
 
 
+LaTeX Warning: Citation `litlink18' on page 7 undefined on input line 235.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 233--236
 
  []
@@ -1130,28 +1133,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // —‡È
 Ú developer.android.com
  []
 
 
-Overfull \hbox (118.77914pt too wide) in paragraph at lines 317--318
+Overfull \hbox (123.77792pt too wide) in paragraph at lines 330--331
 []\T2A/cmr/m/it/10 ÒÚÛ‰ÂÌÚ˚ »“-ÃŒ \T2A/cmr/m/n/10 (4 ÒÂÌ-Úˇ·-ˇ 2022) ¡Ó // —‡
 ÈÚ neerc.ifmo.ru (https://neerc.ifmo.ru/wiki/index.php?title=%D0%91%D0%BE%D1%80
 )|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
-[]\T2A/cmr/m/it/10 Hale-Evans, Ron \T2A/cmr/m/n/10 (2006) Mind performance hack
-s // —‡ÈÚ archive.org
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
-[]\T2A/cmr/m/it/10 Hale-Evans, Ron \T2A/cmr/m/n/10 (2006) Mind performance hack
-s // —‡ÈÚ archive.org
  []
 
 
@@ -1163,17 +1154,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[]\T2A/cmr/m/it/10 Hale-Evans, Ron \T2A/cmr/m/n/10 (2006) Mind performance hack
+s // —‡ÈÚ archive.org
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+[]\T2A/cmr/m/it/10 Hale-Evans, Ron \T2A/cmr/m/n/10 (2006) Mind performance hack
+s // —‡ÈÚ archive.org
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
 []\T2A/cmr/bx/n/14.4 œËÎÓÊÂÌËˇ|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--331
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--335
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
 
  []
 
@@ -1185,31 +1196,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[10] (–ü–æ—è—Å–Ω–∏—Ç–µ–ª—å–Ω–∞—è –∑–∞–ø–∏—Å–∫–∞.aux) ) 
+[11] (–ü–æ—è—Å–Ω–∏—Ç–µ–ª—å–Ω–∞—è –∑–∞–ø–∏—Å–∫–∞.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 18902 strings out of 478582
- 375091 string characters out of 2844345
+ 18910 strings out of 478582
+ 375179 string characters out of 2844345
  1044974 words of memory out of 3000000
- 36703 multiletter control sequences out of 15000+600000
+ 36711 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,104p,1232b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\pegan\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\pegan\AppD
-ata\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\pegan\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\
-pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Us
-ers\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C
-:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk
-><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmmi7.pfb><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "–ü–æ—è—Å–Ω–∏—Ç–µ–ª—å–Ω–∞—è –∑–∞–ø–∏—Å–∫–∞.pdf" (11 pages, 19
-1094 bytes).
+ 100i,11n,104p,1234b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati10
+00.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+bx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\labx1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1000.pk><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pegan/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/pegan/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pegan/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "–ü–æ—è—Å–Ω–∏—Ç–µ–ª—å–Ω–∞—è –∑–∞–ø–∏—Å–∫–∞.pdf" (12 pages, 19
+2523 bytes).
 PDF statistics:
- 453 PDF objects out of 1000 (max. 8388607)
+ 457 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
