@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
@@ -15,9 +16,9 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="160dp"
-            android:padding="10dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
+            android:padding="10dp"
             android:scaleType="centerCrop"
             android:src="@drawable/pasport" />
 
@@ -49,7 +50,9 @@
         android:layout_margin="5dp"
         android:layout_toEndOf="@+id/cardView0"
         android:elevation="10dp"
-        app:cardCornerRadius="8dp">
+        app:cardCornerRadius="8dp"
+        android:visibility="invisible"
+        tools:ignore="MissingClass">
 
         <ImageView
             android:layout_width="wrap_content"
@@ -90,7 +93,8 @@
         android:id="@+id/cardView2"
         android:layout_below="@+id/cardView0"
         android:elevation="10dp"
-        app:cardCornerRadius="8dp">
+        app:cardCornerRadius="8dp"
+        android:visibility="invisible">
 
         <ImageView
             android:layout_width="wrap_content"
@@ -130,6 +134,7 @@
         android:layout_margin="5dp"
         android:layout_toEndOf="@+id/cardView2"
         android:elevation="10dp"
+        android:visibility="invisible"
         app:cardCornerRadius="8dp">
 
         <ImageView
@@ -169,6 +174,7 @@
         android:layout_margin="5dp"
         android:layout_toEndOf="@+id/cardView3"
         android:elevation="10dp"
+        android:visibility="invisible"
         app:cardCornerRadius="8dp">
 
         <ImageView
@@ -211,6 +217,7 @@
         android:id="@+id/cardView5"
         android:elevation="10dp"
         android:layout_below="@+id/cardView2"
+        android:visibility="invisible"
         app:cardCornerRadius="8dp">
 
         <ImageView
@@ -251,6 +258,7 @@
         android:layout_below="@+id/cardView2"
         android:layout_toEndOf="@+id/cardView0"
         android:elevation="10dp"
+        android:visibility="invisible"
         app:cardCornerRadius="8dp">
 
         <ImageView
@@ -292,6 +300,7 @@
         android:id="@+id/cardView7"
         android:layout_below="@+id/cardView5"
         android:elevation="10dp"
+        android:visibility="invisible"
         app:cardCornerRadius="8dp">
 
         <ImageView
@@ -332,6 +341,7 @@
         android:layout_margin="5dp"
         android:layout_toEndOf="@+id/cardView2"
         android:elevation="10dp"
+        android:visibility="invisible"
         app:cardCornerRadius="8dp">
 
         <ImageView
@@ -371,6 +381,7 @@
         android:layout_margin="5dp"
         android:layout_toEndOf="@+id/cardView3"
         android:elevation="10dp"
+        android:visibility="invisible"
         app:cardCornerRadius="8dp">
 
         <ImageView
@@ -401,5 +412,20 @@
             android:color="@color/black"/>
 
     </androidx.cardview.widget.CardView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|end"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="60dp"
+        android:clickable="true"
+        android:visibility="visible"
+        app:srcCompat="@android:drawable/ic_input_add" />
 
 </RelativeLayout>
