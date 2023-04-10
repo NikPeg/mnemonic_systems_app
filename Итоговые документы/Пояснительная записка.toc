@@ -15,13 +15,13 @@
 \contentsline {subsection}{\numberline {5.1}Описание использованных мнемонических систем}{6}{}%
 \contentsline {subsection}{\numberline {5.2}Алгоритм функционирования программы}{6}{}%
 \contentsline {subsection}{\numberline {5.3}Интерфейс программы}{7}{}%
-\contentsline {subsection}{\numberline {5.4}Выбор технических и программных средств}{8}{}%
-\contentsline {section}{\numberline {6}Ожидаемые технико-экономические показатели}{9}{}%
-\contentsline {subsection}{\numberline {6.1}Первоначальная оценка успеха проекта}{9}{}%
-\contentsline {subsection}{\numberline {6.2}Последующая оценка}{9}{}%
-\contentsline {subsection}{\numberline {6.3}Конечный параметр оценки проекта}{9}{}%
-\contentsline {subsection}{\numberline {6.4}Предполагаемая потребность}{9}{}%
-\contentsline {subsection}{\numberline {6.5}Ориентировочная экономическая эффективность}{9}{}%
-\contentsline {subsection}{\numberline {6.6}Экономические преимущества разработки по сравнению с отечественными и зарубежными аналогами}{9}{}%
-\contentsline {section}{Список использованных источников}{10}{}%
-\contentsline {section}{Приложения}{11}{}%
+\contentsline {subsection}{\numberline {5.4}Выбор технических и программных средств}{7}{}%
+\contentsline {section}{\numberline {6}Ожидаемые технико-экономические показатели}{8}{}%
+\contentsline {subsection}{\numberline {6.1}Первоначальная оценка успеха проекта}{8}{}%
+\contentsline {subsection}{\numberline {6.2}Последующая оценка}{8}{}%
+\contentsline {subsection}{\numberline {6.3}Конечный параметр оценки проекта}{8}{}%
+\contentsline {subsection}{\numberline {6.4}Предполагаемая потребность}{8}{}%
+\contentsline {subsection}{\numberline {6.5}Ориентировочная экономическая эффективность}{8}{}%
+\contentsline {subsection}{\numberline {6.6}Экономические преимущества разработки по сравнению с отечественными и зарубежными аналогами}{8}{}%
+\contentsline {section}{Список использованных источников}{9}{}%
+\contentsline {section}{Приложения}{10}{}%
