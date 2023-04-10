@@ -13,4 +13,5 @@
     <string name="ds_button_text">Нажмите, чтобы выучить кодирование цифр в Доминиканской системе</string>
     <string name="mms_button_text">Нажмите, чтобы выучить кодирование цифр в основной мнемонической системе</string>
     <string name="text_view_numbers">Номер паспорта\n45 15 496881</string>
+    <string name="text_choose_language">Выберете язык:</string>
 </resources>
