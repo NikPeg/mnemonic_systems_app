@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
@@ -18,7 +19,7 @@ import ru.dewhilefor.mnemonicsystems.databinding.FragmentSettingsBinding;
 public class SettingsFragment extends Fragment {
 
     private FragmentSettingsBinding binding;
-    private final String[] languages = {"русский", "английский"};
+    private String[] languages = {"русский", "английский"};
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -37,6 +38,24 @@ public class SettingsFragment extends Fragment {
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         // Применяем адаптер к элементу spinner
         spinner.setAdapter(adapter);
+        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+//                if (position == 1) {
+//                    languages = new String[]{"russian", "english"};
+//                    ArrayAdapter adapter = new ArrayAdapter(getContext(), android.R.layout.simple_spinner_item, languages);
+//                    // Определяем разметку для использования при выборе элемента
+//                    adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//                    // Применяем адаптер к элементу spinner
+//                    spinner.setAdapter(adapter);
+//                }
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+                // Код для обработки, если элемент не выбран
+            }
+        });
 
         return root;
     }
