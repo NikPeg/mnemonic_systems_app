@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  7 APR 2023 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 00:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,29 +881,7 @@ rs
 z/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.aux
-
-LaTeX Warning: Label `ris:image' multiply defined.
-
-
-LaTeX Warning: Label `ris:image' multiply defined.
-
-
-LaTeX Warning: Label `ris:image' multiply defined.
-
-
-LaTeX Warning: Label `ris:image' multiply defined.
-
-
-LaTeX Warning: Label `ris:image' multiply defined.
-
-
-LaTeX Warning: Label `ris:image' multiply defined.
-
-
-LaTeX Warning: Label `tab:canonsummary' multiply defined.
-
-)
+No file "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ".aux.
 \openout1 = `"–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -923,7 +901,6 @@ LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
 LaTeX Info: Redefining \th on input line 41.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -987,7 +964,11 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
- [1
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 41.
+
+[1
 
 {C:/Users/pegan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
@@ -1010,8 +991,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--117
 |\T2A/cmr/bx/n/14.4 —Ó‰ÂÊ‡ÌËÂ|
  []
 
-(–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.toc<<t1.cmap>><<ot1.cmap>><<oml.cmap>><<
-oms.cmap>><<omx.cmap>>
+No file "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ".toc.
+\tf@toc=\write4
+\openout4 = `"–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.toc"'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1020,11 +1003,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[2])
-\tf@toc=\write4
-\openout4 = `"–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.toc"'.
-
-
+[2]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1035,14 +1014,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3]
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: Citation `litlink1' on page 4 undefined on input line 173.
 
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[4]
+LaTeX Warning: Citation `litlink2' on page 4 undefined on input line 175.
+
+
+LaTeX Warning: Citation `litlink3' on page 4 undefined on input line 186.
+
+
+LaTeX Warning: Citation `litlink4' on page 4 undefined on input line 186.
+
+
+LaTeX Warning: Citation `litlink5' on page 4 undefined on input line 188.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 186--189
 
  []
@@ -1055,7 +1041,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
+[4]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1065,49 +1094,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
+LaTeX Warning: Citation `litlink6' on page 7 undefined on input line 217.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
-
-[7]
 Underfull \hbox (badness 10000) in paragraph at lines 215--218
 
  []
@@ -1117,12 +1107,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--218
 
  []
 
-<pictures//010Memorizer1.png, id=41, 431.81325pt x 337.86224pt>
+<pictures//010Memorizer1.png, id=33, 431.81325pt x 337.86224pt>
 File: pictures//010Memorizer1.png Graphic file (type png)
 <use pictures//010Memorizer1.png>
 Package pdftex.def Info: pictures//010Memorizer1.png  used on input line 220.
 (pdftex.def)             Requested size: 250.24199pt x 195.80042pt.
-<pictures//010Memorizer2.png, id=42, 438.438pt x 337.86224pt>
+<pictures//010Memorizer2.png, id=34, 438.438pt x 337.86224pt>
 File: pictures//010Memorizer2.png Graphic file (type png)
 <use pictures//010Memorizer2.png>
 Package pdftex.def Info: pictures//010Memorizer2.png  used on input line 221.
@@ -1132,24 +1122,33 @@ Overfull \hbox (7.22375pt too wide) in paragraph at lines 220--222
 [][] [] |
  []
 
-<pictures//2Know.png, id=43, 310.761pt x 298.716pt>
+
+LaTeX Warning: Citation `litlink7' on page 7 undefined on input line 226.
+
+<pictures//2Know.png, id=35, 310.761pt x 298.716pt>
 File: pictures//2Know.png Graphic file (type png)
 <use pictures//2Know.png>
 Package pdftex.def Info: pictures//2Know.png  used on input line 228.
 (pdftex.def)             Requested size: 250.24199pt x 240.55019pt.
-<pictures//peoplebyinitials.png, id=44, 895.09406pt x 414.04688pt>
+
+LaTeX Warning: Citation `litlink8' on page 7 undefined on input line 240.
+
+<pictures//peoplebyinitials.png, id=36, 895.09406pt x 414.04688pt>
 File: pictures//peoplebyinitials.png Graphic file (type png)
 <use pictures//peoplebyinitials.png>
 Package pdftex.def Info: pictures//peoplebyinitials.png  used on input line 242
 .
 (pdftex.def)             Requested size: 250.24199pt x 115.75543pt.
-<pictures//peoplebyinitials1.png, id=46, 616.55344pt x 516.42938pt>
+<pictures//peoplebyinitials1.png, id=38, 616.55344pt x 516.42938pt>
 File: pictures//peoplebyinitials1.png Graphic file (type png)
 <use pictures//peoplebyinitials1.png>
 Package pdftex.def Info: pictures//peoplebyinitials1.png  used on input line 24
 7.
 (pdftex.def)             Requested size: 250.24199pt x 209.60191pt.
 
+LaTeX Warning: Citation `litlink9' on page 7 undefined on input line 262.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 226--263
 
  []
@@ -1260,7 +1259,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[8 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png>]
+[7 <./pictures//010Memorizer1.png> <./pictures//010Memorizer2.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1272,52 +1271,59 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[9 <./pictures//2Know.png> <./pictures//peoplebyinitials.png>]
-<pictures//MnemonicMajorSystem1.png, id=57, 368.1253pt x 574.39594pt>
+[8 <./pictures//2Know.png> <./pictures//peoplebyinitials.png>]
+<pictures//MnemonicMajorSystem1.png, id=49, 368.1253pt x 574.39594pt>
 File: pictures//MnemonicMajorSystem1.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem1.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem1.png  used on input line
  265.
 (pdftex.def)             Requested size: 125.12099pt x 195.23067pt.
-<pictures//MnemonicMajorSystem2.png, id=58, 368.1253pt x 631.60968pt>
+<pictures//MnemonicMajorSystem2.png, id=50, 368.1253pt x 631.60968pt>
 File: pictures//MnemonicMajorSystem2.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem2.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem2.png  used on input line
  266.
 (pdftex.def)             Requested size: 114.10875pt x 195.7777pt.
-<pictures//MnemonicMajorSystem3.png, id=59, 365.86688pt x 633.11531pt>
+<pictures//MnemonicMajorSystem3.png, id=51, 365.86688pt x 633.11531pt>
 File: pictures//MnemonicMajorSystem3.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem3.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem3.png  used on input line
  267.
 (pdftex.def)             Requested size: 113.10834pt x 195.72272pt.
-<pictures//MnemonicMajorSystem4.png, id=60, 368.87813pt x 627.09282pt>
+<pictures//MnemonicMajorSystem4.png, id=52, 368.87813pt x 627.09282pt>
 File: pictures//MnemonicMajorSystem4.png Graphic file (type png)
 <use pictures//MnemonicMajorSystem4.png>
 Package pdftex.def Info: pictures//MnemonicMajorSystem4.png  used on input line
  268.
 (pdftex.def)             Requested size: 115.10918pt x 195.67896pt.
-<pictures//wordgenerator1.png, id=61, 370.38374pt x 636.87938pt>
+
+
+LaTeX Warning: Citation `litlink10' on page 9 undefined on input line 277.
+
+<pictures//wordgenerator1.png, id=53, 370.38374pt x 636.87938pt>
 File: pictures//wordgenerator1.png Graphic file (type png)
 <use pictures//wordgenerator1.png>
 Package pdftex.def Info: pictures//wordgenerator1.png  used on input line 280.
 (pdftex.def)             Requested size: 125.12099pt x 215.14645pt.
-<pictures//wordgenerator2.png, id=62, 369.63094pt x 665.48625pt>
+<pictures//wordgenerator2.png, id=54, 369.63094pt x 665.48625pt>
 File: pictures//wordgenerator2.png Graphic file (type png)
 <use pictures//wordgenerator2.png>
 Package pdftex.def Info: pictures//wordgenerator2.png  used on input line 281.
 (pdftex.def)             Requested size: 119.61487pt x 215.3564pt.
-<pictures//aplus1.png, id=63, 367.3725pt x 584.93532pt>
+
+LaTeX Warning: Citation `litlink11' on page 9 undefined on input line 287.
+
+<pictures//aplus1.png, id=55, 367.3725pt x 584.93532pt>
 File: pictures//aplus1.png Graphic file (type png)
 <use pictures//aplus1.png>
 Package pdftex.def Info: pictures//aplus1.png  used on input line 290.
 (pdftex.def)             Requested size: 124.61696pt x 198.41125pt.
-<pictures//aplus2.png, id=64, 371.13657pt x 587.94656pt>
+<pictures//aplus2.png, id=56, 371.13657pt x 587.94656pt>
 File: pictures//aplus2.png Graphic file (type png)
 <use pictures//aplus2.png>
 Package pdftex.def Info: pictures//aplus2.png  used on input line 291.
 (pdftex.def)             Requested size: 125.12099pt x 198.21257pt.
-<pictures//aplus3.png, id=65, 370.38374pt x 586.44093pt>
+<pictures//aplus3.png, id=57, 370.38374pt x 586.44093pt>
 File: pictures//aplus3.png Graphic file (type png)
 <use pictures//aplus3.png>
 Package pdftex.def Info: pictures//aplus3.png  used on input line 292.
@@ -1345,9 +1351,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[10 <./pictures//peoplebyinitials1.png> <./pictures//MnemonicMajorSystem1.png> 
-<./pictures//MnemonicMajorSystem2.png> <./pictures//MnemonicMajorSystem3.png> <
-./pictures//MnemonicMajorSystem4.png>]
+[9 <./pictures//peoplebyinitials1.png> <./pictures//MnemonicMajorSystem1.png> <
+./pictures//MnemonicMajorSystem2.png> <./pictures//MnemonicMajorSystem3.png> <.
+/pictures//MnemonicMajorSystem4.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1356,13 +1362,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[11 <./pictures//wordgenerator1.png> <./pictures//wordgenerator2.png> <./pictur
+[10 <./pictures//wordgenerator1.png> <./pictures//wordgenerator2.png> <./pictur
 es//aplus1.png> <./pictures//aplus2.png> <./pictures//aplus3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 307--307
 [][]\T2A/cmr/bx/n/12 ¬˚‚Ó‰|
  []
 
-
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 Overfull \hbox (24.28453pt too wide) in paragraph at lines 313--360
  [] |
  []
@@ -1380,7 +1386,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[12]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 380--382
 
  []
@@ -1393,7 +1399,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
+[12]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
 [13]
+Underfull \hbox (badness 10000) in paragraph at lines 421--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--433
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1403,29 +1432,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 421--433
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 421--433
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 421--433
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
-
-[15]
 Overfull \hbox (12.86621pt too wide) in paragraph at lines 463--464
 \T2A/cmr/m/n/10 ”ÒÚÓÈÒÚ‚Ó ÏÓ-ÊÂÚ ‡Ò-ÔÓ-ÒÚ‡-ÌˇÚ¸-Òˇ Ì‡ ÙË-ÁË-˜Â-ÒÍËı ÛÒÚÓÈ-
 ÒÚ‚‡ı, Ì‡-ÔË-ÏÂ, ÊºÒÚ-ÍËı ‰ËÒ-Í‡ı, ÙÎÂ¯-Ì‡ÍÓÔËÚÂÎˇı,|
@@ -1439,7 +1445,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[16]
+[15]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1448,7 +1454,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[17]
+[16]
+
+LaTeX Warning: Citation `litlink12' on page 17 undefined on input line 492.
+
+
+LaTeX Warning: Citation `litlink13' on page 17 undefined on input line 492.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 490--493
 
  []
@@ -1461,7 +1474,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[18]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 500--501
 
  []
@@ -1479,7 +1492,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[19]
+[18]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1488,7 +1501,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[20]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 609--613
 
  []
@@ -1506,7 +1519,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[21]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 635--636
 []\T2A/cmr/m/it/10 AndroidDev \T2A/cmr/m/n/10 (2022) Meet Android Studio // —‡È
 Ú developer.android.com
@@ -1550,7 +1563,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[22]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 652--652
 []\T2A/cmr/bx/n/14.4 œËÎÓÊÂÌËˇ|
  []
@@ -1573,19 +1586,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[23] (–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.aux)
+[22]
 
-LaTeX Warning: There were multiply-defined labels.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[23] (–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.aux<<t1.cmap>>)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 19064 strings out of 478582
- 379538 string characters out of 2844345
- 1048970 words of memory out of 3000000
- 36862 multiletter control sequences out of 15000+600000
+ 19058 strings out of 478582
+ 379115 string characters out of 2844345
+ 1044968 words of memory out of 3000000
+ 36860 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,104p,1516b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,11n,104p,1516b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati10
 00.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
@@ -1595,7 +1620,7 @@ tcrm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
 h/lh-t2a/dpi600\labx1000.pk><C:/Users/pegan/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pegan/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.pdf" (24 pages, 211393
+Output written on "–¢–µ—Ö–Ω–∏—á–µ—Å–∫–æ–µ –∑–∞–¥–∞–Ω–∏–µ.pdf" (24 pages, 211206
 0 bytes).
 PDF statistics:
  547 PDF objects out of 1000 (max. 8388607)
