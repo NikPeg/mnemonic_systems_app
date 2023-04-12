@@ -1,53 +1,53 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {1}Содержание}{2}{}%
-\contentsline {section}{\numberline {2}Введение}{3}{}%
-\contentsline {subsection}{\numberline {2.1}Наименование программы на русском языке}{3}{}%
-\contentsline {subsection}{\numberline {2.2}Наименование программы на английском языке}{3}{}%
-\contentsline {subsection}{\numberline {2.3}Цель работы}{3}{}%
-\contentsline {subsection}{\numberline {2.4}Задачи работы}{3}{}%
-\contentsline {subsection}{\numberline {2.5}Целевая аудитория продукта}{3}{}%
-\contentsline {subsection}{\numberline {2.6}Область применения программы}{3}{}%
-\contentsline {subsection}{\numberline {2.7}Методы, используемые в процессе работы}{4}{}%
-\contentsline {subsection}{\numberline {2.8}Источники необходимой информации}{4}{}%
-\contentsline {subsection}{\numberline {2.9}Необходимая программа для разработки}{4}{}%
-\contentsline {subsection}{\numberline {2.10}Необходимое для разработки оборудование}{4}{}%
-\contentsline {subsection}{\numberline {2.11}Подход к разработке}{5}{}%
-\contentsline {section}{\numberline {3}Основания для разработки}{6}{}%
-\contentsline {subsection}{\numberline {3.1}Общение с потенциальными пользователями}{6}{}%
-\contentsline {subsection}{\numberline {3.2}Анализ потенциальных конкурентов}{7}{}%
-\contentsline {subsection}{\numberline {3.3}Вывод}{11}{}%
-\contentsline {section}{\numberline {4}Назначение разработки}{12}{}%
-\contentsline {subsection}{\numberline {4.1}Целевая аудитория продукта}{12}{}%
-\contentsline {subsection}{\numberline {4.2}Актуальность проблемы}{12}{}%
-\contentsline {subsection}{\numberline {4.3}Функциональное назначение}{12}{}%
-\contentsline {subsection}{\numberline {4.4}Эксплуатационное назначение}{12}{}%
-\contentsline {section}{\numberline {5}Требования к программе или программному изделию}{13}{}%
-\contentsline {subsection}{\numberline {5.1}Краткое описание приложения}{13}{}%
-\contentsline {subsection}{\numberline {5.2}Требования к функциональным характеристикам}{13}{}%
-\contentsline {subsection}{\numberline {5.3}Требования к интерфейсу}{13}{}%
-\contentsline {subsection}{\numberline {5.4}Разрешения}{14}{}%
-\contentsline {subsection}{\numberline {5.5}Требования к входным данным}{15}{}%
-\contentsline {subsection}{\numberline {5.6}Требования к выходным данным}{15}{}%
-\contentsline {subsection}{\numberline {5.7}Требования к надёжности}{15}{}%
-\contentsline {subsection}{\numberline {5.8}Условия эксплуатации}{15}{}%
-\contentsline {subsection}{\numberline {5.9}Требования к составу и параметрам технических средств}{15}{}%
-\contentsline {subsection}{\numberline {5.10}Требования к информационной и программной совместимости}{15}{}%
-\contentsline {subsection}{\numberline {5.11}Требования к маркировке и упаковке}{15}{}%
-\contentsline {subsection}{\numberline {5.12}Требования к транспортированию и хранению}{15}{}%
-\contentsline {subsection}{\numberline {5.13}Дальнейшая работа}{15}{}%
-\contentsline {section}{\numberline {6}Требования к программной документации}{17}{}%
-\contentsline {subsection}{\numberline {6.1}Состав программной документации}{17}{}%
-\contentsline {subsection}{\numberline {6.2}Специальные требования к программной документации}{17}{}%
-\contentsline {section}{\numberline {7}Технико-экономические показатели}{18}{}%
-\contentsline {subsection}{\numberline {7.1}Первоначальная оценка успеха проекта}{18}{}%
-\contentsline {subsection}{\numberline {7.2}Последующая оценка}{18}{}%
-\contentsline {subsection}{\numberline {7.3}Конечный параметр оценки проекта}{18}{}%
-\contentsline {subsection}{\numberline {7.4}Предполагаемая потребность}{18}{}%
-\contentsline {subsection}{\numberline {7.5}Ориентировочная экономическая эффективность}{18}{}%
-\contentsline {subsection}{\numberline {7.6}Экономические преимущества разработки по сравнению с отечественными и зарубежными аналогами}{18}{}%
-\contentsline {section}{\numberline {8}Стадии и этапы разработки}{19}{}%
-\contentsline {subsection}{\numberline {8.1}Календарный план разработки}{19}{}%
-\contentsline {subsection}{\numberline {8.2}Сроки разработки и исполнитель}{19}{}%
-\contentsline {section}{\numberline {9}Порядок контроля и приемки}{20}{}%
-\contentsline {section}{Список использованных источников}{21}{}%
-\contentsline {section}{Приложения}{22}{}%
+\contentsline {section}{\numberline {2}Введение}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Наименование программы на русском языке}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Наименование программы на английском языке}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Цель работы}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Задачи работы}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Целевая аудитория продукта}{4}{}%
+\contentsline {subsection}{\numberline {2.6}Область применения программы}{4}{}%
+\contentsline {subsection}{\numberline {2.7}Методы, используемые в процессе работы}{5}{}%
+\contentsline {subsection}{\numberline {2.8}Источники необходимой информации}{5}{}%
+\contentsline {subsection}{\numberline {2.9}Необходимая программа для разработки}{5}{}%
+\contentsline {subsection}{\numberline {2.10}Необходимое для разработки оборудование}{5}{}%
+\contentsline {subsection}{\numberline {2.11}Подход к разработке}{6}{}%
+\contentsline {section}{\numberline {3}Основания для разработки}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Общение с потенциальными пользователями}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Анализ потенциальных конкурентов}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Вывод}{12}{}%
+\contentsline {section}{\numberline {4}Назначение разработки}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Целевая аудитория продукта}{13}{}%
+\contentsline {subsection}{\numberline {4.2}Актуальность проблемы}{13}{}%
+\contentsline {subsection}{\numberline {4.3}Функциональное назначение}{13}{}%
+\contentsline {subsection}{\numberline {4.4}Эксплуатационное назначение}{13}{}%
+\contentsline {section}{\numberline {5}Требования к программе или программному изделию}{14}{}%
+\contentsline {subsection}{\numberline {5.1}Краткое описание приложения}{14}{}%
+\contentsline {subsection}{\numberline {5.2}Требования к функциональным характеристикам}{14}{}%
+\contentsline {subsection}{\numberline {5.3}Требования к интерфейсу}{14}{}%
+\contentsline {subsection}{\numberline {5.4}Разрешения}{15}{}%
+\contentsline {subsection}{\numberline {5.5}Требования к входным данным}{16}{}%
+\contentsline {subsection}{\numberline {5.6}Требования к выходным данным}{16}{}%
+\contentsline {subsection}{\numberline {5.7}Требования к надёжности}{16}{}%
+\contentsline {subsection}{\numberline {5.8}Условия эксплуатации}{16}{}%
+\contentsline {subsection}{\numberline {5.9}Требования к составу и параметрам технических средств}{16}{}%
+\contentsline {subsection}{\numberline {5.10}Требования к информационной и программной совместимости}{16}{}%
+\contentsline {subsection}{\numberline {5.11}Требования к маркировке и упаковке}{16}{}%
+\contentsline {subsection}{\numberline {5.12}Требования к транспортированию и хранению}{16}{}%
+\contentsline {subsection}{\numberline {5.13}Дальнейшая работа}{16}{}%
+\contentsline {section}{\numberline {6}Требования к программной документации}{18}{}%
+\contentsline {subsection}{\numberline {6.1}Состав программной документации}{18}{}%
+\contentsline {subsection}{\numberline {6.2}Специальные требования к программной документации}{18}{}%
+\contentsline {section}{\numberline {7}Технико-экономические показатели}{19}{}%
+\contentsline {subsection}{\numberline {7.1}Первоначальная оценка успеха проекта}{19}{}%
+\contentsline {subsection}{\numberline {7.2}Последующая оценка}{19}{}%
+\contentsline {subsection}{\numberline {7.3}Конечный параметр оценки проекта}{19}{}%
+\contentsline {subsection}{\numberline {7.4}Предполагаемая потребность}{19}{}%
+\contentsline {subsection}{\numberline {7.5}Ориентировочная экономическая эффективность}{19}{}%
+\contentsline {subsection}{\numberline {7.6}Экономические преимущества разработки по сравнению с отечественными и зарубежными аналогами}{19}{}%
+\contentsline {section}{\numberline {8}Стадии и этапы разработки}{20}{}%
+\contentsline {subsection}{\numberline {8.1}Календарный план разработки}{20}{}%
+\contentsline {subsection}{\numberline {8.2}Сроки разработки и исполнитель}{20}{}%
+\contentsline {section}{\numberline {9}Порядок контроля и приемки}{21}{}%
+\contentsline {section}{Список использованных источников}{22}{}%
+\contentsline {section}{Приложения}{23}{}%
