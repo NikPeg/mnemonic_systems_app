@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  7 APR 2023 12:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1048,17 +1048,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 []\T2A/cmr/bx/n/14.4 ����������|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--150
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--158
 
  []
 
@@ -1076,10 +1076,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [8] (Руководство оператора.aux) ) 
 Here is how much of TeX's memory you used:
- 18869 strings out of 478582
- 374674 string characters out of 2844345
- 1036974 words of memory out of 3000000
- 36674 multiletter control sequences out of 15000+600000
+ 18872 strings out of 478582
+ 374736 string characters out of 2844345
+ 1037974 words of memory out of 3000000
+ 36677 multiletter control sequences out of 15000+600000
  475335 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,104p,638b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1088,8 +1088,8 @@ ocal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\pegan\AppDa
 ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\pegan\A
 ppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\peg
 an\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk>
-Output written on "Руководство оператора.pdf" (9 pages, 106
-878 bytes).
+Output written on "Руководство оператора.pdf" (9 pages, 107
+224 bytes).
 PDF statistics:
  327 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

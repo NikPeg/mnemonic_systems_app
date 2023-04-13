@@ -2,6 +2,8 @@
 \contentsline {section}{\numberline {1}Содержание}{2}{}%
 \contentsline {section}{\numberline {2}Назначение программы}{3}{}%
 \contentsline {subsection}{\numberline {2.1}Наименование программы}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Наименование программы на русском языке}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Наименование программы на английском языке}{3}{}%
 \contentsline {subsection}{\numberline {2.2}Функциональное и эксплуатационное назначение}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Краткая характеристика области применения}{3}{}%
 \contentsline {section}{\numberline {3}Условия выполнения программы}{4}{}%
