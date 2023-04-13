@@ -27,8 +27,13 @@
 \contentsline {subsection}{\numberline {6.2}Исполнение выполнения требований к программной документации}{10}{}%
 \contentsline {subsection}{\numberline {6.3}Исполнение выполнения требований к интерфейсу}{10}{}%
 \contentsline {subsection}{\numberline {6.4}Исполнение выполнения требований к функциональным характеристикам}{11}{}%
+\contentsline {subsubsection}{\numberline {6.4.1}Возможность сохранять запоминаемые числа}{11}{}%
+\contentsline {subsubsection}{\numberline {6.4.2}Функционал подбора слов и имён для мнемонических систем}{11}{}%
+\contentsline {subsubsection}{\numberline {6.4.3}Возможность узнать подробную информацию об обеих системах}{11}{}%
+\contentsline {subsubsection}{\numberline {6.4.4}Возможность редактировать используемый словарь и добавлять новые слова}{11}{}%
+\contentsline {subsubsection}{\numberline {6.4.5}Выбор из нескольких языков}{11}{}%
 \contentsline {subsection}{\numberline {6.5}Исполнение требований к надежности}{11}{}%
 \contentsline {subsubsection}{\numberline {6.5.1}Отсутствие аварийного завершения при любых действиях пользователя}{11}{}%
-\contentsline {subsubsection}{\numberline {6.5.2}Невозможность ввода некорректных данных в окно проверки}{11}{}%
-\contentsline {section}{Список использованных источников}{12}{}%
-\contentsline {section}{Приложения}{13}{}%
+\contentsline {subsubsection}{\numberline {6.5.2}Невозможность ввода некорректных данных в окно проверки}{12}{}%
+\contentsline {section}{Список использованных источников}{13}{}%
+\contentsline {section}{Приложения}{14}{}%
