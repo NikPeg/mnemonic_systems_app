@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 14:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1057,17 +1057,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
 []\T2A/cmr/bx/n/14.4 ����������|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--218
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--222
+Underfull \hbox (badness 10000) in paragraph at lines 217--221
 
  []
 
@@ -1112,9 +1112,9 @@ labx1200.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
 /dpi600\larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\labx1000.pk>
 Output written on "Руководство оператора.pdf" (11 pages, 12
-1510 bytes).
+0211 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
+ 354 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
