@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 12:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -880,8 +880,7 @@ rs
 (C:\Users\pegan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-No file "Текст программы".aux.
+) (Текст программы.aux)
 \openout1 = `"Текст программы.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -901,6 +900,7 @@ LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
 LaTeX Info: Redefining \th on input line 41.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -964,11 +964,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 41.
-
-[1
+ [1
 
 {C:/Users/pegan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
@@ -1038,6 +1034,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--151
  []
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
+[5]
+
 Package caption Warning: Unused \captionsetup[table] on input line 22.
 See the caption package documentation for explanation.
 
@@ -1049,19 +1054,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[5] (Текст программы.aux)
-
-LaTeX Warning: There were undefined references.
-
+[6] (Текст программы.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 18835 strings out of 478582
- 373828 string characters out of 2844345
+ 18838 strings out of 478582
+ 374016 string characters out of 2844345
  1040962 words of memory out of 3000000
- 36662 multiletter control sequences out of 15000+600000
+ 36663 multiletter control sequences out of 15000+600000
  473260 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,104p,626b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1069,9 +1071,9 @@ Here is how much of TeX's memory you used:
 40.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 rm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 0\labx1000.pk>
-Output written on "Текст программы.pdf" (6 pages, 83709 bytes).
+Output written on "Текст программы.pdf" (7 pages, 88146 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
+ 275 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
