@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 13:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1048,17 +1048,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []\T2A/cmr/bx/n/14.4 ����������|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--166
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
+Underfull \hbox (badness 10000) in paragraph at lines 175--179
 
  []
 
@@ -1078,7 +1078,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  18879 strings out of 478582
  374815 string characters out of 2844345
- 1037974 words of memory out of 3000000
+ 1039974 words of memory out of 3000000
  36682 multiletter control sequences out of 15000+600000
  475670 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1089,10 +1089,10 @@ Data\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\pegan
 \AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\p
 egan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Use
 rs\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk>
-Output written on "Руководство оператора.pdf" (9 pages, 109
-619 bytes).
+Output written on "Руководство оператора.pdf" (9 pages, 110
+721 bytes).
 PDF statistics:
- 335 PDF objects out of 1000 (max. 8388607)
+ 336 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,7 +6,7 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Наименование программы на английском языке}{3}{}%
 \contentsline {subsection}{\numberline {2.2}Функциональное назначение}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Эксплуатационное назначение}{3}{}%
-\contentsline {subsection}{\numberline {2.4}Краткая характеристика области применения}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Область применения программы}{3}{}%
 \contentsline {section}{\numberline {3}Условия выполнения программы}{4}{}%
 \contentsline {subsection}{\numberline {3.1}Требования к составу и параметрам технических средств}{4}{}%
 \contentsline {subsection}{\numberline {3.2}Требования к информационной и программной совместимости}{4}{}%
