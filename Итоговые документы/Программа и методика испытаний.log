@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 12:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1020,6 +1020,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 158--163
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1029,30 +1033,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 169--181
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--181
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--181
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
-
-[6]
-Overfull \hbox (12.86621pt too wide) in paragraph at lines 211--212
+Overfull \hbox (12.86621pt too wide) in paragraph at lines 184--185
 \T2A/cmr/m/n/10 Устройство мо-жет рас-про-стра-нять-ся на фи-зи-че-ских устрой-
 ствах, на-при-мер, жјст-ких дис-ках, флеш-накопителях,|
  []
@@ -1065,7 +1046,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.01514pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.01514pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
+
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 211--214
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1075,10 +1069,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 238--241
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.01514pt, for example:
@@ -1106,26 +1096,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [11]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.01514pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.01514pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 285--285
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 []\T2A/cmr/bx/n/14.4 Приложения|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--290
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--294
+Underfull \hbox (badness 10000) in paragraph at lines 263--267
 
  []
 
@@ -1141,7 +1122,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
-[13] (РџСЂРѕРіСЂР°РјРјР° Рё РјРµС‚РѕРґРёРєР° РёСЃРїС‹С‚Р°РЅРёР№.aux) ) 
+[12] (РџСЂРѕРіСЂР°РјРјР° Рё РјРµС‚РѕРґРёРєР° РёСЃРїС‹С‚Р°РЅРёР№.aux) ) 
 Here is how much of TeX's memory you used:
  18889 strings out of 478582
  375229 string characters out of 2844345
@@ -1149,7 +1130,7 @@ Here is how much of TeX's memory you used:
  36690 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,104p,1135b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,11n,104p,1135b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\User
 s\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\
 Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> 
@@ -1159,9 +1140,9 @@ x1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
 \larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
 i600\labx1000.pk>
 Output written on "РџСЂРѕРіСЂР°РјРјР° Рё РјРµС‚РѕРґРёРєР° РёСЃРїС‹С‚Р°РЅРёР№.pd
-f" (14 pages, 132954 bytes).
+f" (13 pages, 129245 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
+ 381 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
