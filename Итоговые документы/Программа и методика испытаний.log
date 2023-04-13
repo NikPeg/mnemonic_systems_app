@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 12:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.5.7)  13 APR 2023 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -980,12 +980,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[][]\T2A/cmr/bx/n/14.4 Содержание|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-|\T2A/cmr/bx/n/14.4 Содержание|
+[]\T2A/cmr/bx/n/14.4 Содержание|
  []
 
 (РџСЂРѕРіСЂР°РјРјР° Рё РјРµС‚РѕРґРёРєР° РёСЃРїС‹С‚Р°РЅРёР№.toc<<t1.cmap>><<ot1.
@@ -1003,7 +998,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
@@ -1034,17 +1029,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 170--182
+Underfull \hbox (badness 10000) in paragraph at lines 169--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--182
+Underfull \hbox (badness 10000) in paragraph at lines 169--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--182
+Underfull \hbox (badness 10000) in paragraph at lines 169--181
 
  []
 
@@ -1057,7 +1052,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [6]
-Overfull \hbox (12.86621pt too wide) in paragraph at lines 212--213
+Overfull \hbox (12.86621pt too wide) in paragraph at lines 211--212
 \T2A/cmr/m/n/10 Устройство мо-жет рас-про-стра-нять-ся на фи-зи-че-ских устрой-
 ствах, на-при-мер, жјст-ких дис-ках, флеш-накопителях,|
  []
@@ -1080,7 +1075,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 239--242
+Underfull \hbox (badness 10000) in paragraph at lines 238--241
 
  []
 
@@ -1120,17 +1115,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.01514pt}.
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 []\T2A/cmr/bx/n/14.4 Приложения|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--291
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--295
+Underfull \hbox (badness 10000) in paragraph at lines 290--294
 
  []
 
@@ -1150,7 +1145,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  18889 strings out of 478582
  375229 string characters out of 2844345
- 1043990 words of memory out of 3000000
+ 1042990 words of memory out of 3000000
  36690 multiletter control sequences out of 15000+600000
  476544 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1164,9 +1159,9 @@ x1440.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
 \larm1000.pk> <C:\Users\pegan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
 i600\labx1000.pk>
 Output written on "РџСЂРѕРіСЂР°РјРјР° Рё РјРµС‚РѕРґРёРєР° РёСЃРїС‹С‚Р°РЅРёР№.pd
-f" (14 pages, 133339 bytes).
+f" (14 pages, 132954 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
+ 383 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 

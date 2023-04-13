@@ -1,34 +1,33 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Содержание}{2}{}%
-\contentsline {section}{\numberline {2}Объект испытаний}{3}{}%
-\contentsline {section}{\numberline {3}Цель испытаний}{4}{}%
-\contentsline {section}{\numberline {4}Требования к программе или программному изделию}{5}{}%
-\contentsline {subsection}{\numberline {4.1}Краткое описание приложения}{5}{}%
-\contentsline {subsection}{\numberline {4.2}Требования к функциональным характеристикам}{5}{}%
-\contentsline {subsection}{\numberline {4.3}Требования к интерфейсу}{5}{}%
-\contentsline {subsection}{\numberline {4.4}Разрешения}{6}{}%
-\contentsline {subsection}{\numberline {4.5}Требования к входным данным}{7}{}%
-\contentsline {subsection}{\numberline {4.6}Требования к выходным данным}{7}{}%
-\contentsline {subsection}{\numberline {4.7}Требования к надёжности}{7}{}%
-\contentsline {subsection}{\numberline {4.8}Условия эксплуатации}{7}{}%
-\contentsline {subsection}{\numberline {4.9}Требования к составу и параметрам технических средств}{7}{}%
-\contentsline {subsection}{\numberline {4.10}Требования к информационной и программной совместимости}{7}{}%
-\contentsline {subsection}{\numberline {4.11}Требования к маркировке и упаковке}{7}{}%
-\contentsline {subsection}{\numberline {4.12}Требования к транспортированию и хранению}{7}{}%
-\contentsline {subsection}{\numberline {4.13}Дальнейшая работа}{7}{}%
-\contentsline {section}{\numberline {5}Требования к программной документации}{9}{}%
-\contentsline {subsection}{\numberline {5.1}Состав программной документации}{9}{}%
-\contentsline {subsection}{\numberline {5.2}Специальные требования к программной документации}{9}{}%
-\contentsline {section}{\numberline {6}Средства и порядок испытаний}{10}{}%
-\contentsline {subsection}{\numberline {6.1}Технические средства}{10}{}%
-\contentsline {subsection}{\numberline {6.2}Программные средства}{10}{}%
-\contentsline {subsection}{\numberline {6.3}Порядок проведения испытаний}{10}{}%
-\contentsline {section}{\numberline {7}Методы испытаний}{11}{}%
-\contentsline {subsection}{\numberline {7.1}Исполнение выполнения требований к программной документации}{11}{}%
-\contentsline {subsection}{\numberline {7.2}Исполнение выполнения требований к интерфейсу}{11}{}%
-\contentsline {subsection}{\numberline {7.3}Исполнение выполнения требований к функциональным характеристикам}{11}{}%
-\contentsline {subsection}{\numberline {7.4}Исполнение требований к надежности}{11}{}%
-\contentsline {subsubsection}{\numberline {7.4.1}Отсутствие аварийного завершения при любых действиях пользователя}{11}{}%
-\contentsline {subsubsection}{\numberline {7.4.2}Невозможность ввода некорректных данных в окно проверки}{11}{}%
+\contentsline {section}{\numberline {1}Объект испытаний}{3}{}%
+\contentsline {section}{\numberline {2}Цель испытаний}{4}{}%
+\contentsline {section}{\numberline {3}Требования к программе или программному изделию}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Краткое описание приложения}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Требования к функциональным характеристикам}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Требования к интерфейсу}{5}{}%
+\contentsline {subsection}{\numberline {3.4}Разрешения}{6}{}%
+\contentsline {subsection}{\numberline {3.5}Требования к входным данным}{7}{}%
+\contentsline {subsection}{\numberline {3.6}Требования к выходным данным}{7}{}%
+\contentsline {subsection}{\numberline {3.7}Требования к надёжности}{7}{}%
+\contentsline {subsection}{\numberline {3.8}Условия эксплуатации}{7}{}%
+\contentsline {subsection}{\numberline {3.9}Требования к составу и параметрам технических средств}{7}{}%
+\contentsline {subsection}{\numberline {3.10}Требования к информационной и программной совместимости}{7}{}%
+\contentsline {subsection}{\numberline {3.11}Требования к маркировке и упаковке}{7}{}%
+\contentsline {subsection}{\numberline {3.12}Требования к транспортированию и хранению}{7}{}%
+\contentsline {subsection}{\numberline {3.13}Дальнейшая работа}{7}{}%
+\contentsline {section}{\numberline {4}Требования к программной документации}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Состав программной документации}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Специальные требования к программной документации}{9}{}%
+\contentsline {section}{\numberline {5}Средства и порядок испытаний}{10}{}%
+\contentsline {subsection}{\numberline {5.1}Технические средства}{10}{}%
+\contentsline {subsection}{\numberline {5.2}Программные средства}{10}{}%
+\contentsline {subsection}{\numberline {5.3}Порядок проведения испытаний}{10}{}%
+\contentsline {section}{\numberline {6}Методы испытаний}{11}{}%
+\contentsline {subsection}{\numberline {6.1}Исполнение выполнения требований к программной документации}{11}{}%
+\contentsline {subsection}{\numberline {6.2}Исполнение выполнения требований к интерфейсу}{11}{}%
+\contentsline {subsection}{\numberline {6.3}Исполнение выполнения требований к функциональным характеристикам}{11}{}%
+\contentsline {subsection}{\numberline {6.4}Исполнение требований к надежности}{11}{}%
+\contentsline {subsubsection}{\numberline {6.4.1}Отсутствие аварийного завершения при любых действиях пользователя}{11}{}%
+\contentsline {subsubsection}{\numberline {6.4.2}Невозможность ввода некорректных данных в окно проверки}{11}{}%
 \contentsline {section}{Список использованных источников}{12}{}%
 \contentsline {section}{Приложения}{13}{}%
