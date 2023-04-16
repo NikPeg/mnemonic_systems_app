@@ -13,6 +13,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
+import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
@@ -20,6 +21,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentSettingsBinding;
+import ru.dewhilefor.mnemonicsystems.ui.DictionaryFragment;
 import ru.dewhilefor.mnemonicsystems.ui.ds.DSFragment;
 import ru.dewhilefor.mnemonicsystems.ui.help.HelpFragment;
 import ru.dewhilefor.mnemonicsystems.ui.mms.MMSFragment;
@@ -59,6 +61,18 @@ public class SettingsFragment extends Fragment {
                             }
                         })
                         .show();
+            }
+        });
+
+        Button dictionaryButton = binding.dictionaryButton;
+
+        dictionaryButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new DictionaryFragment())
+                        .addToBackStack(null)
+                        .commit();
             }
         });
 

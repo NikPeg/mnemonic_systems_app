@@ -95,6 +95,6 @@
         android:text="@string/title_settings"
         app:layout_constraintTop_toBottomOf="@id/ds_button"
         tools:ignore="MissingConstraints"
-        app:icon="@drawable/ic_settings_black_24dp"/
+        app:icon="@drawable/ic_settings_black_24dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
