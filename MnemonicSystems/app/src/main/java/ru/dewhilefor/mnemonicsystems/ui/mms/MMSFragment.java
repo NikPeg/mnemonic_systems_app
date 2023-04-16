@@ -19,6 +19,11 @@ import ru.dewhilefor.mnemonicsystems.databinding.FragmentMmsBinding;
 public class MMSFragment extends Fragment {
 
     private FragmentMmsBinding binding;
+    private final String[] buttonTexts = {"A", "1", "B", "2", "C", "3", "D", "4", "E", "5", "S", "6", "G", "7", "H", "8", "N", "9", "O", "0"};
+
+    private final int[] buttonColors = {R.color.orange_red, R.color.magneta};
+    private int current_card_index = 0;
+
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -37,67 +42,9 @@ public class MMSFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 MMSCardButton.setTextSize(100);
-                if (MMSCardButton.getText() == "A") {
-                    MMSCardButton.setText("1");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "1") {
-                    MMSCardButton.setText("B");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "B") {
-                    MMSCardButton.setText("2");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "2") {
-                    MMSCardButton.setText("C");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "C") {
-                    MMSCardButton.setText("3");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "3") {
-                    MMSCardButton.setText("D");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "D") {
-                    MMSCardButton.setText("4");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "4") {
-                    MMSCardButton.setText("E");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "E") {
-                    MMSCardButton.setText("5");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "5") {
-                    MMSCardButton.setText("S");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "S") {
-                    MMSCardButton.setText("6");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "6") {
-                    MMSCardButton.setText("G");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "G") {
-                    MMSCardButton.setText("7");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "7") {
-                    MMSCardButton.setText("H");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "H") {
-                    MMSCardButton.setText("8");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "8") {
-                    MMSCardButton.setText("N");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "N") {
-                    MMSCardButton.setText("9");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else if (MMSCardButton.getText() == "9") {
-                    MMSCardButton.setText("O");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                } else if (MMSCardButton.getText() == "O") {
-                    MMSCardButton.setText("0");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.orange_red));
-                } else {
-                    MMSCardButton.setText("A");
-                    MMSCardButton.setBackgroundColor(getResources().getColor(R.color.magneta));
-                }
+                MMSCardButton.setText(buttonTexts[current_card_index]); // cycle through the buttonTexts array
+                MMSCardButton.setBackgroundColor(getResources().getColor(buttonColors[current_card_index % 2]));
+                current_card_index = (current_card_index + 1) % buttonTexts.length;
             }
         });
 
