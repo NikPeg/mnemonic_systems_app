@@ -19,8 +19,7 @@ import ru.dewhilefor.mnemonicsystems.databinding.FragmentMmsBinding;
 public class MMSFragment extends Fragment {
 
     private FragmentMmsBinding binding;
-    private final String[] buttonTexts = {"A", "1", "B", "2", "C", "3", "D", "4", "E", "5", "S", "6", "G", "7", "H", "8", "N", "9", "O", "0"};
-
+    private final String[] buttonTexts = {"0", "s, soft c, z, x", "1", "t, d, th", "2", "n", "3", "m", "4", "r, l", "5", "l", "6", "ch, j, soft g, sh, c, cz, s, sc, sch, t, tsch, z", "7", "k, hard c, q, hard g, ch", "8", "f, ph, v, gh", "9", "p, b"};
     private final int[] buttonColors = {R.color.orange_red, R.color.magneta};
     private int current_card_index = 0;
 
@@ -41,7 +40,12 @@ public class MMSFragment extends Fragment {
         MMSCardButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                MMSCardButton.setTextSize(100);
+                if (current_card_index % 2 == 0) {
+                    MMSCardButton.setTextSize(100);
+                }
+                else {
+                    MMSCardButton.setTextSize(50);
+                }
                 MMSCardButton.setText(buttonTexts[current_card_index]); // cycle through the buttonTexts array
                 MMSCardButton.setBackgroundColor(getResources().getColor(buttonColors[current_card_index % 2]));
                 current_card_index = (current_card_index + 1) % buttonTexts.length;
