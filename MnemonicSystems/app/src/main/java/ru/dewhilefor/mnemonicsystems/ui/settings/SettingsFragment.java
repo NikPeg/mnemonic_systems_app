@@ -1,11 +1,14 @@
 package ru.dewhilefor.mnemonicsystems.ui.settings;
 
+
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.TextView;
 
@@ -13,13 +16,16 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
+import com.google.android.material.dialog.MaterialAlertDialogBuilder;
+
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentSettingsBinding;
 
 public class SettingsFragment extends Fragment {
 
     private FragmentSettingsBinding binding;
-    private String[] languages = {"русский", "английский"};
+    private final String[] singleItems = new String[]{"Item 1", "Item 2", "Item 3"};
+    private int checkedItem = 1;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -29,31 +35,27 @@ public class SettingsFragment extends Fragment {
         binding = FragmentSettingsBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textSettings;
-        settingsViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        Button languageButton = binding.languageButton;
 
-        Spinner spinner = root.findViewById(R.id.spinner);
-        ArrayAdapter adapter = new ArrayAdapter(getContext(), android.R.layout.simple_spinner_item, languages);
-        // Определяем разметку для использования при выборе элемента
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        // Применяем адаптер к элементу spinner
-        spinner.setAdapter(adapter);
-        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+        languageButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-//                if (position == 1) {
-//                    languages = new String[]{"russian", "english"};
-//                    ArrayAdapter adapter = new ArrayAdapter(getContext(), android.R.layout.simple_spinner_item, languages);
-//                    // Определяем разметку для использования при выборе элемента
-//                    adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-//                    // Применяем адаптер к элементу spinner
-//                    spinner.setAdapter(adapter);
-//                }
-            }
-
-            @Override
-            public void onNothingSelected(AdapterView<?> parent) {
-                // Код для обработки, если элемент не выбран
+            public void onClick(View v) {
+                new MaterialAlertDialogBuilder(requireContext())
+                        .setTitle("Заголовок диалога")
+                        .setMessage("Сообщение диалога")
+                        .setPositiveButton("Да", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                // действия при нажатии на кнопку "Да"
+                            }
+                        })
+                        .setNegativeButton("Нет", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                // действия при нажатии на кнопку "Нет"
+                            }
+                        })
+                        .show();
             }
         });
 
