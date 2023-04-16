@@ -32,4 +32,56 @@
         app:layout_constraintTop_toBottomOf="@id/language_button"
         tools:ignore="MissingConstraints" />
 
+    <Button
+        android:id="@+id/numbers_button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="15dp"
+        android:gravity="start|center_vertical"
+        android:text="@string/title_numbers"
+        app:layout_constraintTop_toBottomOf="@id/dictionary_button"
+        tools:ignore="MissingConstraints"
+        app:icon="@drawable/ic_numbers_black_24dp"/>
+
+    <Button
+        android:id="@+id/mms_button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="15dp"
+        android:gravity="start|center_vertical"
+        android:text="@string/text_mms"
+        app:layout_constraintTop_toBottomOf="@id/numbers_button"
+        tools:ignore="MissingConstraints"
+        app:icon="@drawable/ic_mms_black_24dp"/>
+
+    <Button
+        android:id="@+id/help_button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="15dp"
+        android:gravity="start|center_vertical"
+        android:text="@string/title_help"
+        app:layout_constraintTop_toBottomOf="@id/mms_button"
+        tools:ignore="MissingConstraints"
+        app:icon="@drawable/ic_help_black_24dp"/>
+
+    <Button
+        android:id="@+id/ds_button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="15dp"
+        android:gravity="start|center_vertical"
+        android:text="@string/text_ds"
+        app:layout_constraintTop_toBottomOf="@id/help_button"
+        tools:ignore="MissingConstraints"
+        app:icon="@drawable/ic_ds_black_24dp"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
