@@ -26,6 +26,7 @@
         android:layout_height="match_parent"
         android:text="@string/mms_button_text"
         android:layout_marginHorizontal="50dp"
+        android:backgroundTint="@color/brighter_magneta"
         android:layout_marginBottom="100dp"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -10,5 +10,7 @@
     <color name="gray">#DCDCDC</color>
     <color name="magneta">#BB2649</color>
     <color name="brighter_magneta">#d62b53</color>
+    <color name="crimson">#DC143C</color>
+    <color name="orange_red">#FF4500</color>
     <color name="pink">#e813d3</color>
 </resources>
