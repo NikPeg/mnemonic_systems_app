@@ -41,15 +41,14 @@ public class SettingsFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 new MaterialAlertDialogBuilder(requireContext())
-                        .setTitle("Заголовок диалога")
-                        .setMessage("Сообщение диалога")
-                        .setPositiveButton("Да", new DialogInterface.OnClickListener() {
+                        .setTitle(R.string.text_choose_language)
+                        .setPositiveButton(R.string.russian, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 // действия при нажатии на кнопку "Да"
                             }
                         })
-                        .setNegativeButton("Нет", new DialogInterface.OnClickListener() {
+                        .setNegativeButton(R.string.english, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 // действия при нажатии на кнопку "Нет"

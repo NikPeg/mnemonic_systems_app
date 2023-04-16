@@ -8,10 +8,8 @@
 
     <Button
         android:id="@+id/language_button"
-        android:layout_width="369dp"
+        android:layout_width="match_parent"
         android:layout_height="45dp"
         android:text="@string/text_choose_language"
-        tools:layout_editor_absoluteX="26dp"
-        tools:layout_editor_absoluteY="16dp"
         tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
