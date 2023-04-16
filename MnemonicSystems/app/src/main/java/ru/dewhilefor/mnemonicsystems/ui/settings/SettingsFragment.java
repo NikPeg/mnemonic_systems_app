@@ -20,6 +20,9 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentSettingsBinding;
+import ru.dewhilefor.mnemonicsystems.ui.ds.DSFragment;
+import ru.dewhilefor.mnemonicsystems.ui.help.HelpFragment;
+import ru.dewhilefor.mnemonicsystems.ui.mms.MMSFragment;
 import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 
 public class SettingsFragment extends Fragment {
@@ -70,6 +73,43 @@ public class SettingsFragment extends Fragment {
                         .commit();
             }
         });
+
+        Button mmsButton = binding.mmsButton;
+
+        mmsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new MMSFragment())
+                        .addToBackStack(null)
+                        .commit();
+            }
+        });
+
+        Button helpButton = binding.helpButton;
+
+        helpButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new HelpFragment())
+                        .addToBackStack(null)
+                        .commit();
+            }
+        });
+
+        Button dsButton = binding.dsButton;
+
+        dsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new DSFragment())
+                        .addToBackStack(null)
+                        .commit();
+            }
+        });
+
         return root;
     }
 
