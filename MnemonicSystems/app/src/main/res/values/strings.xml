@@ -16,4 +16,5 @@
     <string name="text_choose_language">Выберете язык</string>
     <string name="russian">Русский</string>
     <string name="english">Английский</string>
+    <string name="dictionary">Словарь</string>
 </resources>
