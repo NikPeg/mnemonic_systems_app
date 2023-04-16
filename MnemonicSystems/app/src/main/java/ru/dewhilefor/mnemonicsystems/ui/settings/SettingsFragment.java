@@ -20,6 +20,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentSettingsBinding;
+import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 
 public class SettingsFragment extends Fragment {
 
@@ -58,6 +59,17 @@ public class SettingsFragment extends Fragment {
             }
         });
 
+        Button numbersButton = binding.numbersButton;
+
+        numbersButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
+                        .addToBackStack(null)
+                        .commit();
+            }
+        });
         return root;
     }
 
