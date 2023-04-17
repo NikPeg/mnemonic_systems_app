@@ -26,18 +26,18 @@ public class DictionaryFragment extends Fragment {
     private final static String FILE_NAME = "dict.txt";
 
     private void setDict(TextView textView) {
-        FileInputStream fin = null;
-        try {
-            fin = getActivity().openFileInput(FILE_NAME);
-            byte[] bytes = new byte[fin.available()];
-            fin.read(bytes);
-            String text = new String(bytes);
-            textView.setText(text);
-        } catch (NullPointerException ex) {
-            Toast.makeText(getActivity(), "There is no activity: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
-        } catch (IOException ex) {
-            Toast.makeText(getActivity(), "There is no file: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
-        }
+//        FileInputStream fin = null;
+//        try {
+//            fin = getActivity().openFileInput(FILE_NAME);
+//            byte[] bytes = new byte[fin.available()];
+//            fin.read(bytes);
+//            String text = new String(bytes);
+//            textView.setText(text);
+//        } catch (NullPointerException ex) {
+//            Toast.makeText(getActivity(), "There is no activity: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
+//        } catch (IOException ex) {
+//            Toast.makeText(getActivity(), "There is no file: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
+//        }
     }
 
     @Nullable
