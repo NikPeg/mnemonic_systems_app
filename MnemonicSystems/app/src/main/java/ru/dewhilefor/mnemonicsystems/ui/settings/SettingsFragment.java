@@ -30,8 +30,6 @@ import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 public class SettingsFragment extends Fragment {
 
     private FragmentSettingsBinding binding;
-    private final String[] singleItems = new String[]{"Item 1", "Item 2", "Item 3"};
-    private int checkedItem = 1;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
