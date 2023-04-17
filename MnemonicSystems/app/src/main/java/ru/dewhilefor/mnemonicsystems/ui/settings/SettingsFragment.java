@@ -2,6 +2,8 @@ package ru.dewhilefor.mnemonicsystems.ui.settings;
 
 
 import android.content.DialogInterface;
+import android.content.res.Configuration;
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -19,6 +21,8 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
+import java.util.Locale;
+
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentSettingsBinding;
 import ru.dewhilefor.mnemonicsystems.ui.DictionaryFragment;
@@ -30,6 +34,15 @@ import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 public class SettingsFragment extends Fragment {
 
     private FragmentSettingsBinding binding;
+
+    public void setLocale(String lang) {
+        Locale newLocale = new Locale(lang);
+        Resources res = getResources();
+        Configuration conf = res.getConfiguration();
+        conf.locale = newLocale;
+        res.updateConfiguration(conf, res.getDisplayMetrics());
+        getFragmentManager().beginTransaction().detach(this).attach(this).commit();
+    }
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -49,13 +62,13 @@ public class SettingsFragment extends Fragment {
                         .setPositiveButton(R.string.russian, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                // действия при нажатии на кнопку "Да"
+                                setLocale("");
                             }
                         })
                         .setNegativeButton(R.string.english, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                // действия при нажатии на кнопку "Нет"
+                                setLocale("en");
                             }
                         })
                         .show();
