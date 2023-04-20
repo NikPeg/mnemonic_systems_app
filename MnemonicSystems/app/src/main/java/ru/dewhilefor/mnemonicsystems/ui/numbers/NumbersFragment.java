@@ -20,6 +20,8 @@ import java.util.List;
 
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentNumbersBinding;
+import ru.dewhilefor.mnemonicsystems.ui.AddNumbersFragment;
+import ru.dewhilefor.mnemonicsystems.ui.DictionaryFragment;
 
 public class NumbersFragment extends Fragment {
 
@@ -41,6 +43,10 @@ public class NumbersFragment extends Fragment {
                 lastCard = min(cards.length - 1, lastCard + 1);
                 CardView nextCardView = root.findViewById(cards[lastCard]);
                 nextCardView.setVisibility(View.VISIBLE);
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new AddNumbersFragment())
+                        .addToBackStack(null)
+                        .commit();
             }
         });
 
