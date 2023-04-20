@@ -53,4 +53,15 @@
         app:layout_constraintTop_toBottomOf="@id/til_number_value"
         tools:ignore="MissingConstraints" />
 
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="197dp"
+        android:text="@string/next"
+        app:layout_constraintTop_toBottomOf="@id/choose_system_button"
+        tools:ignore="MissingConstraints" />
+
 </FrameLayout>
