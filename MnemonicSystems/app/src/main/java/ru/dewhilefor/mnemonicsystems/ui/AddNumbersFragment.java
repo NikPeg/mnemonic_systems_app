@@ -62,6 +62,18 @@ public class AddNumbersFragment extends Fragment {
                         .show();
             }
         });
+
+        Button nextButton = binding.nextButton;
+
+        nextButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new ChooseWordsFragment())
+                        .addToBackStack(null)
+                        .commit();
+            }
+        });
         return root;
     }
 }
