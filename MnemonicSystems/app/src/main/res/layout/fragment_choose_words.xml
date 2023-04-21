@@ -6,8 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".ui.ChooseWordsFragment">
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/DigitButton"
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
@@ -17,11 +16,75 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="1dp"
         android:layout_marginBottom="60dp"
-        app:backgroundTint="@color/brighter_magneta"
         android:clickable="true"
-        android:visibility="visible"
-        app:srcCompat="@android:drawable/ic_input_add"
-        android:focusable="true" />
+        android:orientation="horizontal">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/Digit1Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@android:drawable/ic_input_add"
+            android:clickable="true"
+            android:visibility="visible"
+            android:focusable="true" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/Digit2Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@android:drawable/ic_input_add"
+            android:clickable="true"
+            android:visibility="visible"
+            android:focusable="true" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/Digit3Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@android:drawable/ic_input_add"
+            android:clickable="true"
+            android:visibility="visible"
+            android:focusable="true" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/Digit4Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@android:drawable/ic_input_add"
+            android:clickable="true"
+            android:visibility="visible"
+            android:focusable="true" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/Digit5Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@android:drawable/ic_input_add"
+            android:clickable="true"
+            android:visibility="visible"
+            android:focusable="true" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/Digit6Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@android:drawable/ic_input_add"
+            android:clickable="true"
+            android:visibility="visible"
+            android:focusable="true" />
+
+    </LinearLayout>
 
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
