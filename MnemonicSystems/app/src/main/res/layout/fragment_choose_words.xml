@@ -106,4 +106,18 @@
 
     </androidx.core.widget.NestedScrollView>
 
+    <Button
+        android:id="@+id/add_number_button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|end"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="55dp"
+        android:text="@string/add_number"
+        tools:ignore="MissingConstraints" />
+
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
