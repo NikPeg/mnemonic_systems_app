@@ -16,6 +16,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import ru.dewhilefor.mnemonicsystems.R;
@@ -27,15 +28,26 @@ public class NumbersFragment extends Fragment {
 
     private FragmentNumbersBinding binding;
     private final int[] cards = new int[]{R.id.cardView0, R.id.cardView1, R.id.cardView2, R.id.cardView3, R.id.cardView4, R.id.cardView5, R.id.cardView6, R.id.cardView7, R.id.cardView8, R.id.cardView9};
-    private int lastCard = 0;
+    private final int[] cardsTexts = new int[]{R.id.cardTextView0, R.id.cardTextView1, R.id.cardTextView2, R.id.cardTextView3, R.id.cardTextView4, R.id.cardTextView5, R.id.cardTextView6, R.id.cardTextView7, R.id.cardTextView8, R.id.cardTextView9};
+    public static int lastCard = 0;
+    public static ArrayList<String> cardsTitles = new ArrayList<>();
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
+        cardsTitles.add("Номер паспорта\n4515 496881");
         NumbersViewModel numbersViewModel =
                 new ViewModelProvider(this).get(NumbersViewModel.class);
 
         binding = FragmentNumbersBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
+
+        for (int i = 0; i <= lastCard; ++i) {
+            CardView nextCardView = root.findViewById(cards[i]);
+            nextCardView.setVisibility(View.VISIBLE);
+            TextView nextCardTextView = root.findViewById(cardsTexts[i]);
+//            nextCardTextView.setText(cardsTexts[i]);
+        }
+
         FloatingActionButton addButton = root.findViewById(R.id.AddButton);
         addButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -44,9 +56,6 @@ public class NumbersFragment extends Fragment {
                         .replace(R.id.nav_host_fragment_activity_main, new AddNumbersFragment())
                         .addToBackStack(null)
                         .commit();
-                lastCard = min(cards.length - 1, lastCard + 1);
-                CardView nextCardView = root.findViewById(cards[lastCard]);
-                nextCardView.setVisibility(View.VISIBLE);
             }
         });
 

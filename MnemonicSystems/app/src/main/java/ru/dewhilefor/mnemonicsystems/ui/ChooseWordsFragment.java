@@ -1,5 +1,7 @@
 package ru.dewhilefor.mnemonicsystems.ui;
 
+import static java.lang.Math.min;
+
 import android.annotation.SuppressLint;
 import android.content.DialogInterface;
 import android.content.res.ColorStateList;
@@ -19,6 +21,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentChooseWordsBinding;
+import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 
 public class ChooseWordsFragment extends Fragment {
     private FragmentChooseWordsBinding binding;
@@ -144,6 +147,18 @@ public class ChooseWordsFragment extends Fragment {
                     );
                     buttonStates[5] = 2;
                 }
+            }
+        });
+
+        Button addNumberButton = binding.addNumberButton;
+
+        addNumberButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                NumbersFragment.lastCard = min(9, NumbersFragment.lastCard + 1);
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
+                        .addToBackStack(null)
+                        .commit();
             }
         });
 

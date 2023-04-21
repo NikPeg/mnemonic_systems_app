@@ -3,6 +3,7 @@ package ru.dewhilefor.mnemonicsystems.ui;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
+import androidx.cardview.widget.CardView;
 import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;
@@ -14,6 +15,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
+import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 
 public class AddNumbersFragment extends Fragment {
 
@@ -68,6 +70,7 @@ public class AddNumbersFragment extends Fragment {
         nextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+//                NumbersFragment.cardsTitles.add("Hello");
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new ChooseWordsFragment())
                         .addToBackStack(null)

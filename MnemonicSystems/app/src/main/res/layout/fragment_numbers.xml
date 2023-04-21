@@ -32,6 +32,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -73,6 +74,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -115,6 +117,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -156,6 +159,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -196,6 +200,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -239,6 +244,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -280,6 +286,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -322,6 +329,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -363,6 +371,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView8"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
@@ -403,6 +412,7 @@
             android:color="@color/black"/>
 
         <TextView
+            android:id="@+id/cardTextView9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
