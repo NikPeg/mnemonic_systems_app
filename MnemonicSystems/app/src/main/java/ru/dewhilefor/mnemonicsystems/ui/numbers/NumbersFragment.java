@@ -40,13 +40,13 @@ public class NumbersFragment extends Fragment {
         addButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                lastCard = min(cards.length - 1, lastCard + 1);
-                CardView nextCardView = root.findViewById(cards[lastCard]);
-                nextCardView.setVisibility(View.VISIBLE);
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new AddNumbersFragment())
                         .addToBackStack(null)
                         .commit();
+                lastCard = min(cards.length - 1, lastCard + 1);
+                CardView nextCardView = root.findViewById(cards[lastCard]);
+                nextCardView.setVisibility(View.VISIBLE);
             }
         });
 
