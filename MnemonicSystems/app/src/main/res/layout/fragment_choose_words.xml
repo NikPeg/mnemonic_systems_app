@@ -6,85 +6,71 @@
     android:layout_height="match_parent"
     tools:context=".ui.ChooseWordsFragment">
 
-    <LinearLayout
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/Digit1Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_gravity="top|start"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="1dp"
-        android:layout_marginBottom="60dp"
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/four_digit_foreground"
         android:clickable="true"
-        android:orientation="horizontal">
+        android:visibility="visible"
+        android:focusable="true" />
 
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/Digit1Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:backgroundTint="@color/white"
-            app:srcCompat="@drawable/four_digit_foreground"
-            android:clickable="true"
-            android:visibility="visible"
-            android:focusable="true" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/Digit2Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/one_digit_foreground"
+        android:clickable="true"
+        android:visibility="visible"
+        android:focusable="true" />
 
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/Digit2Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            app:backgroundTint="@color/white"
-            app:srcCompat="@drawable/one_digit_foreground"
-            android:clickable="true"
-            android:visibility="visible"
-            android:focusable="true" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/Digit3Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/six_digit_foreground"
+        android:clickable="true"
+        android:visibility="visible"
+        android:focusable="true" />
 
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/Digit3Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            app:backgroundTint="@color/white"
-            app:srcCompat="@drawable/six_digit_foreground"
-            android:clickable="true"
-            android:visibility="visible"
-            android:focusable="true" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/Digit4Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="210dp"
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/two_digit_foreground"
+        android:clickable="true"
+        android:visibility="visible"
+        android:focusable="true" />
 
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/Digit4Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            app:backgroundTint="@color/white"
-            app:srcCompat="@drawable/two_digit_foreground"
-            android:clickable="true"
-            android:visibility="visible"
-            android:focusable="true" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/Digit5Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/seven_digit_foreground"
+        android:clickable="true"
+        android:visibility="visible"
+        android:focusable="true" />
 
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/Digit5Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            app:backgroundTint="@color/white"
-            app:srcCompat="@drawable/seven_digit_foreground"
-            android:clickable="true"
-            android:visibility="visible"
-            android:focusable="true" />
-
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/Digit6Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            app:backgroundTint="@color/white"
-            app:srcCompat="@drawable/zero_digit_foreground"
-            android:clickable="true"
-            android:visibility="visible"
-            android:focusable="true" />
-
-    </LinearLayout>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/Digit6Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="350dp"
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/zero_digit_foreground"
+        android:clickable="true"
+        android:visibility="visible"
+        android:focusable="true" />
 
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"

@@ -2,6 +2,7 @@ package ru.dewhilefor.mnemonicsystems.ui;
 
 import android.annotation.SuppressLint;
 import android.content.DialogInterface;
+import android.content.res.ColorStateList;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -22,6 +23,8 @@ import ru.dewhilefor.mnemonicsystems.databinding.FragmentChooseWordsBinding;
 public class ChooseWordsFragment extends Fragment {
     private FragmentChooseWordsBinding binding;
 
+    private int[] buttonStates = new int[]{0, 0, 0, 0, 0, 0};
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater,
@@ -33,12 +36,117 @@ public class ChooseWordsFragment extends Fragment {
         FloatingActionButton digit1Button = binding.Digit1Button;
 
         digit1Button.setOnClickListener(new View.OnClickListener() {
-            @SuppressLint("ResourceAsColor")
-            @Override
             public void onClick(View v) {
-                digit1Button.setBackgroundColor(R.color.brighter_magneta);
+                if (buttonStates[0] == 0) {
+                    digit1Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
+                    );
+                    buttonStates[0] = 1;
+                }
+                else if (buttonStates[0] == 1) {
+                    digit1Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.brighter_magneta))
+                    );
+                    buttonStates[0] = 2;
+                }
             }
         });
+
+        FloatingActionButton digit2Button = binding.Digit2Button;
+
+        digit2Button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                if (buttonStates[1] == 0) {
+                    digit2Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
+                    );
+                    buttonStates[1] = 1;
+                }
+                else if (buttonStates[1] == 1) {
+                    digit2Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.brighter_magneta))
+                    );
+                    buttonStates[1] = 2;
+                }
+            }
+        });
+
+        FloatingActionButton digit3Button = binding.Digit3Button;
+
+        digit3Button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                if (buttonStates[2] == 0) {
+                    digit3Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
+                    );
+                    buttonStates[2] = 1;
+                }
+                else if (buttonStates[2] == 1) {
+                    digit3Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.brighter_magneta))
+                    );
+                    buttonStates[2] = 2;
+                }
+            }
+        });
+
+        FloatingActionButton digit4Button = binding.Digit4Button;
+
+        digit4Button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                if (buttonStates[3] == 0) {
+                    digit4Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
+                    );
+                    buttonStates[3] = 1;
+                }
+                else if (buttonStates[3] == 1) {
+                    digit4Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.brighter_magneta))
+                    );
+                    buttonStates[3] = 2;
+                }
+            }
+        });
+
+        FloatingActionButton digit5Button = binding.Digit5Button;
+
+        digit5Button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                if (buttonStates[4] == 0) {
+                    digit5Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
+                    );
+                    buttonStates[4] = 1;
+                }
+                else if (buttonStates[4] == 1) {
+                    digit5Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.brighter_magneta))
+                    );
+                    buttonStates[4] = 2;
+                }
+            }
+        });
+
+        FloatingActionButton digit6Button = binding.Digit6Button;
+
+        digit6Button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                if (buttonStates[5] == 0) {
+                    digit6Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
+                    );
+                    buttonStates[5] = 1;
+                }
+                else if (buttonStates[5] == 1) {
+                    digit6Button.setBackgroundTintList(
+                            ColorStateList.valueOf(getResources().getColor(R.color.brighter_magneta))
+                    );
+                    buttonStates[5] = 2;
+                }
+            }
+        });
+
         return root;
     }
 }
