@@ -12,6 +12,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
+import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.textfield.TextInputLayout;
 
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
@@ -70,7 +72,8 @@ public class AddNumbersFragment extends Fragment {
         nextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                NumbersFragment.cardsTitles.add("Hello");
+                TextInputEditText et = root.findViewById(R.id.et_number_name);
+                NumbersFragment.cardsTitles.add(et.getText().toString().trim());
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new ChooseWordsFragment())
                         .addToBackStack(null)

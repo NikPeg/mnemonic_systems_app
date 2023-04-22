@@ -29,6 +29,7 @@ public class NumbersFragment extends Fragment {
     private FragmentNumbersBinding binding;
     private final int[] cards = new int[]{R.id.cardView0, R.id.cardView1, R.id.cardView2, R.id.cardView3, R.id.cardView4, R.id.cardView5, R.id.cardView6, R.id.cardView7, R.id.cardView8, R.id.cardView9};
     private final int[] cardsTexts = new int[]{R.id.cardTextView0, R.id.cardTextView1, R.id.cardTextView2, R.id.cardTextView3, R.id.cardTextView4, R.id.cardTextView5, R.id.cardTextView6, R.id.cardTextView7, R.id.cardTextView8, R.id.cardTextView9};
+    private final int[] cardsTexts1 = new int[]{R.id.cardTextView10, R.id.cardTextView11, R.id.cardTextView22, R.id.cardTextView33, R.id.cardTextView44, R.id.cardTextView55, R.id.cardTextView66, R.id.cardTextView77, R.id.cardTextView88, R.id.cardTextView99};
     public static int lastCard = 0;
     public static ArrayList<String> cardsTitles = new ArrayList<>();
 
@@ -45,7 +46,9 @@ public class NumbersFragment extends Fragment {
             CardView nextCardView = root.findViewById(cards[i]);
             nextCardView.setVisibility(View.VISIBLE);
             TextView nextCardTextView = root.findViewById(cardsTexts[i]);
-//            nextCardTextView.setText(cardsTexts[i]);
+            nextCardTextView.setText(cardsTitles.get(i));
+            nextCardTextView = root.findViewById(cardsTexts1[i]);
+            nextCardTextView.setText(cardsTitles.get(i));
         }
 
         FloatingActionButton addButton = root.findViewById(R.id.AddButton);
