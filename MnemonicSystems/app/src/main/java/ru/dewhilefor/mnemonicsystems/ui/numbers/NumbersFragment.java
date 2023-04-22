@@ -17,6 +17,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import ru.dewhilefor.mnemonicsystems.R;
@@ -31,11 +32,10 @@ public class NumbersFragment extends Fragment {
     private final int[] cardsTexts = new int[]{R.id.cardTextView0, R.id.cardTextView1, R.id.cardTextView2, R.id.cardTextView3, R.id.cardTextView4, R.id.cardTextView5, R.id.cardTextView6, R.id.cardTextView7, R.id.cardTextView8, R.id.cardTextView9};
     private final int[] cardsTexts1 = new int[]{R.id.cardTextView10, R.id.cardTextView11, R.id.cardTextView22, R.id.cardTextView33, R.id.cardTextView44, R.id.cardTextView55, R.id.cardTextView66, R.id.cardTextView77, R.id.cardTextView88, R.id.cardTextView99};
     public static int lastCard = 0;
-    public static ArrayList<String> cardsTitles = new ArrayList<>();
+    public static ArrayList<String> cardsTitles = new ArrayList<>(Arrays.asList("Номер паспорта\n4515 496881"));
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        cardsTitles.add("Номер паспорта\n4515 496881");
         NumbersViewModel numbersViewModel =
                 new ViewModelProvider(this).get(NumbersViewModel.class);
 
