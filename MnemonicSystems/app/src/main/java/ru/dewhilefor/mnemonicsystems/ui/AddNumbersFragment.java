@@ -73,7 +73,8 @@ public class AddNumbersFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 TextInputEditText et = root.findViewById(R.id.et_number_name);
-                NumbersFragment.cardsTitles.add(et.getText().toString().trim());
+                TextInputEditText etv = root.findViewById(R.id.et_number_value);
+                NumbersFragment.cardsTitles.add(et.getText().toString().trim() + "\n" + etv.getText().toString().trim());
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new ChooseWordsFragment())
                         .addToBackStack(null)
