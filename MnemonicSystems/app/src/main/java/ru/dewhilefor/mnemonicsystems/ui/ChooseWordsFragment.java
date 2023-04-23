@@ -154,7 +154,6 @@ public class ChooseWordsFragment extends Fragment {
 
         addNumberButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                NumbersFragment.lastCard = min(9, NumbersFragment.lastCard + 1);
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
                         .addToBackStack(null)
