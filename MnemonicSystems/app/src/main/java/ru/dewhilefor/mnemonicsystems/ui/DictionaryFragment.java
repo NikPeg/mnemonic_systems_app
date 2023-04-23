@@ -49,20 +49,29 @@ public class DictionaryFragment extends Fragment {
     private final static String FILE_NAME_RU = "dict-ru.txt";
     private final static String FILE_NAME_EN = "dict-en.txt";
     private String localFile;
-    Scanner s;
+    private InputStream inputStream;
 
     private void setDict(TextView textView) {
         Locale current = getResources().getConfiguration().locale;
         localFile = (current == Locale.ENGLISH) ? FILE_NAME_EN : FILE_NAME_RU;
         try {
-            InputStream inputStream = getContext().getAssets().open(localFile);
-            s = new Scanner(inputStream).useDelimiter("\\A");
-            for (int i = 0; i < 100 && s.hasNextLine(); ++i) {
+            inputStream = getContext().getAssets().open(localFile);
+            Scanner s = new Scanner(inputStream).useDelimiter("\\A");
+            for (int i = 0; i < 200 && s.hasNextLine(); ++i) {
                 textView.append(s.nextLine());
             }
+            s.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private void addNextLinesFromFile(TextView textView) {
+        Scanner s = new Scanner(inputStream).useDelimiter("\\A");
+        for (int i = 0; i < 200 && s.hasNextLine(); ++i) {
+            textView.append(s.nextLine());
+        }
+        s.close();
     }
 
     @Nullable
@@ -112,10 +121,12 @@ public class DictionaryFragment extends Fragment {
                 @Override
                 public void onScrollChange(NestedScrollView v, int scrollX, int scrollY, int oldScrollX, int oldScrollY) {
 
-                    if (scrollY > oldScrollY) {
-                        for (int i = 0; i < 10 && s.hasNextLine(); ++i) {
-                            textView.append(s.nextLine());
-                        }
+                    int scrollViewHeight = v.getHeight();
+                    int textViewHeight = textView.getHeight();
+                    int totalScrollHeight = scrollY + scrollViewHeight;
+
+                    if (totalScrollHeight >= textViewHeight) {
+                        addNextLinesFromFile(textView);
                     }
                 }
             });
