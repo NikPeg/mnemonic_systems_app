@@ -5,6 +5,7 @@ import static java.lang.Math.min;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.os.Environment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,9 +21,15 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.util.Scanner;
 
+import kotlin.text.Charsets;
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentChooseWordsBinding;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentDictionaryBinding;
@@ -33,21 +40,17 @@ import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 
 public class DictionaryFragment extends Fragment {
     private FragmentDictionaryBinding binding;
-    private final static String FILE_NAME = "dict.txt";
+    private final static String FILE_NAME_RU = "dict.txt";
 
     private void setDict(TextView textView) {
-//        FileInputStream fin = null;
-//        try {
-//            fin = getActivity().openFileInput(FILE_NAME);
-//            byte[] bytes = new byte[fin.available()];
-//            fin.read(bytes);
-//            String text = new String(bytes);
-//            textView.setText(text);
-//        } catch (NullPointerException ex) {
-//            Toast.makeText(getActivity(), "There is no activity: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
-//        } catch (IOException ex) {
-//            Toast.makeText(getActivity(), "There is no file: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
-//        }
+        String result = null;
+        try (InputStream inputStream = getContext().getAssets().open(FILE_NAME_RU)) {
+            Scanner s = new Scanner(inputStream).useDelimiter("\\A");
+            result = s.hasNext() ? s.next() : "";
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        textView.setText(result);
     }
 
     @Nullable
