@@ -15,6 +15,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 
+import ru.dewhilefor.mnemonicsystems.MnemonicSystem;
 import ru.dewhilefor.mnemonicsystems.Number;
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
@@ -23,6 +24,7 @@ import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 public class AddNumbersFragment extends Fragment {
 
     private FragmentAddNumbersBinding binding;
+    private MnemonicSystem choosen;
 
     public AddNumbersFragment() {
         // Required empty public constructor
@@ -55,13 +57,13 @@ public class AddNumbersFragment extends Fragment {
                         .setPositiveButton(R.string.text_mms, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-//                                setLocale("");
+                                choosen = MnemonicSystem.MAJOR;
                             }
                         })
                         .setNegativeButton(R.string.text_ds, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-//                                setLocale("en");
+                                choosen = MnemonicSystem.DOMINIC;
                             }
                         })
                         .show();
@@ -81,7 +83,6 @@ public class AddNumbersFragment extends Fragment {
                             .setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
-//                                setLocale("");
                                 }
                             })
                             .show();

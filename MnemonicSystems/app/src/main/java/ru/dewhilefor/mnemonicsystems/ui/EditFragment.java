@@ -13,6 +13,7 @@ import android.widget.Button;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.textfield.TextInputEditText;
 
+import ru.dewhilefor.mnemonicsystems.MnemonicSystem;
 import ru.dewhilefor.mnemonicsystems.Number;
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
@@ -55,13 +56,13 @@ public class EditFragment extends Fragment {
                         .setPositiveButton(R.string.text_mms, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-//                                setLocale("");
+                                Number.numbers.get(numberIndex).system = MnemonicSystem.MAJOR;
                             }
                         })
                         .setNegativeButton(R.string.text_ds, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-//                                setLocale("en");
+                                Number.numbers.get(numberIndex).system = MnemonicSystem.DOMINIC;
                             }
                         })
                         .show();
