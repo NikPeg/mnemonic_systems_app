@@ -20,7 +20,7 @@
     <string name="english">Английский</string>
     <string name="dictionary">Словарь</string>
     <string name="choose_system">Выбрать систему</string>
-    <string name="number_name">Название числа</string>
+    <string name="number_name">Описание числа</string>
     <string name="number">Число</string>
     <string name="next">Далее</string>
     <string name="save">Сохранить</string>
@@ -306,6 +306,4 @@
  абдукцией\n
  абдукциею\n
     </string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

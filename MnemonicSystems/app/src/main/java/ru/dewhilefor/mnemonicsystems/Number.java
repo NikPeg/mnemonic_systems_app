@@ -2,9 +2,10 @@ package ru.dewhilefor.mnemonicsystems;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import ru.dewhilefor.mnemonicsystems.R;
 
 public class Number {
-    public static ArrayList<Number> cardsTitles = new ArrayList<>(Arrays.asList(sampleNumber()));
+    public static ArrayList<Number> numbers = new ArrayList<>(Arrays.asList(sampleNumber()));
 
     public String name;
     public String value;
