@@ -15,6 +15,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 
+import ru.dewhilefor.mnemonicsystems.Number;
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
 import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
@@ -74,7 +75,7 @@ public class AddNumbersFragment extends Fragment {
             public void onClick(View v) {
                 TextInputEditText et = root.findViewById(R.id.et_number_name);
                 TextInputEditText etv = root.findViewById(R.id.et_number_value);
-                NumbersFragment.cardsTitles.add(et.getText().toString().trim() + "\n" + etv.getText().toString().trim());
+                Number.numbers.add(new Number(et.getText().toString().trim(), etv.getText().toString().trim()));
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new ChooseWordsFragment())
                         .addToBackStack(null)

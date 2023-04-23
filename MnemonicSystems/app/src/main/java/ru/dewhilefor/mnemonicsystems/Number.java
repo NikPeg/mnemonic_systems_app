@@ -11,13 +11,13 @@ public class Number {
     public String value;
     public MnemonicSystem system;
 
-    Number(String _name, String _value) {
+    public Number(String _name, String _value) {
         name = _name;
         value = _value;
         system = MnemonicSystem.NONE;
     }
 
-    Number(String name, String value, MnemonicSystem system) {
+    public Number(String name, String value, MnemonicSystem system) {
         this.name = name;
         this.value = value;
         this.system = system;
@@ -25,5 +25,9 @@ public class Number {
 
     static private Number sampleNumber() {
         return new Number("Номер паспорта", "4515 496881");
+    }
+
+    public String title() {
+        return name + "\n" + value;
     }
 }
