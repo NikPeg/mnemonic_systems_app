@@ -10,8 +10,10 @@
         android:layout_height="195dp"
         android:layout_margin="5dp"
         android:id="@+id/cardView0"
+        android:clickable="true"
         android:elevation="10dp"
-        app:cardCornerRadius="8dp">
+        app:cardCornerRadius="8dp"
+        android:focusable="true">
 
         <ImageView
             android:layout_width="wrap_content"

@@ -62,6 +62,14 @@ public class NumbersFragment extends Fragment {
             }
         });
 
+        CardView cardView0 = root.findViewById(R.id.cardView0);
+        cardView0.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                cardView0.setVisibility(View.INVISIBLE);
+            }
+        });
+
         return root;
     }
 
