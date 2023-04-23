@@ -21,12 +21,16 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.Scanner;
 
 import kotlin.text.Charsets;
@@ -40,17 +44,19 @@ import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 
 public class DictionaryFragment extends Fragment {
     private FragmentDictionaryBinding binding;
-    private final static String FILE_NAME_RU = "dict.txt";
+    private final static String FILE_NAME_RU = "dict-ru.txt";
+    private final static String FILE_NAME_EN = "dict-en.txt";
 
     private void setDict(TextView textView) {
         String result = null;
         try (InputStream inputStream = getContext().getAssets().open(FILE_NAME_RU)) {
             Scanner s = new Scanner(inputStream).useDelimiter("\\A");
-            result = s.hasNext() ? s.next() : "";
+            for (int i = 0; i < 100 && s.hasNextLine(); ++i) {
+                textView.append(s.nextLine());
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
-        textView.setText(result);
     }
 
     @Nullable
