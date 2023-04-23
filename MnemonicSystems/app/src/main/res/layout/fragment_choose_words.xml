@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -11,66 +11,83 @@
         android:id="@+id/Digit1Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:backgroundTint="@color/white"
-        app:srcCompat="@drawable/four_digit_foreground"
         android:clickable="true"
+        android:focusable="true"
         android:visibility="visible"
-        android:focusable="true" />
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/four_digit_foreground" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/Digit2Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="70dp"
-        app:backgroundTint="@color/white"
-        app:srcCompat="@drawable/one_digit_foreground"
         android:clickable="true"
+        android:focusable="true"
         android:visibility="visible"
-        android:focusable="true" />
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/one_digit_foreground" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/Digit3Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
-        app:backgroundTint="@color/white"
-        app:srcCompat="@drawable/six_digit_foreground"
         android:clickable="true"
+        android:focusable="true"
         android:visibility="visible"
-        android:focusable="true" />
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/six_digit_foreground" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/Digit4Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="210dp"
-        app:backgroundTint="@color/white"
-        app:srcCompat="@drawable/two_digit_foreground"
         android:clickable="true"
+        android:focusable="true"
         android:visibility="visible"
-        android:focusable="true" />
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/two_digit_foreground" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/Digit5Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="280dp"
-        app:backgroundTint="@color/white"
-        app:srcCompat="@drawable/seven_digit_foreground"
         android:clickable="true"
+        android:focusable="true"
         android:visibility="visible"
-        android:focusable="true" />
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/seven_digit_foreground" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/Digit6Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="350dp"
-        app:backgroundTint="@color/white"
-        app:srcCompat="@drawable/zero_digit_foreground"
         android:clickable="true"
+        android:focusable="true"
         android:visibility="visible"
-        android:focusable="true" />
+        app:backgroundTint="@color/white"
+        app:srcCompat="@drawable/zero_digit_foreground" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="150dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginEnd="15dp"
+            android:text="@string/large_text" />
+
+    </androidx.core.widget.NestedScrollView>
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/phrase_input_layout"
@@ -79,32 +96,16 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="66dp"
         android:layout_marginEnd="16dp"
-        android:hint="@string/phrase">
+        android:hint="@string/phrase"
+        app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/phrase_input"
+            android:id="@+id/phrase_edit_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text" />
 
     </com.google.android.material.textfield.TextInputLayout>
-
-    <androidx.core.widget.NestedScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        android:paddingTop="150dp">
-
-        <TextView
-            android:layout_marginStart="15dp"
-            android:layout_marginEnd="15dp"
-            android:layout_marginTop="197dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="@dimen/text_margin"
-            android:text="@string/large_text"/>
-
-    </androidx.core.widget.NestedScrollView>
 
     <Button
         android:id="@+id/add_number_button"
@@ -120,4 +121,4 @@
         tools:ignore="MissingConstraints" />
 
 
-</androidx.coordinatorlayout.widget.CoordinatorLayout>
+</FrameLayout>
