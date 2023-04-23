@@ -42,6 +42,9 @@ public class EditFragment extends Fragment {
         TextInputEditText valueEditText = root.findViewById(R.id.et_number_value);
         valueEditText.setText(currentNumber.value);
 
+        TextInputEditText phraseEditText = root.findViewById(R.id.et_number_phrase);
+        phraseEditText.setText(currentNumber.phrase);
+
         Button chooseSystemButton = binding.chooseSystemButton;
 
         chooseSystemButton.setOnClickListener(new View.OnClickListener() {
@@ -70,10 +73,9 @@ public class EditFragment extends Fragment {
         nextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                TextInputEditText et = root.findViewById(R.id.et_number_name);
-                TextInputEditText etv = root.findViewById(R.id.et_number_value);
-                Number.numbers.get(numberIndex).name = et.getText().toString().trim();
-                Number.numbers.get(numberIndex).value = etv.getText().toString().trim();
+                Number.numbers.get(numberIndex).name = nameEditText.getText().toString().trim();
+                Number.numbers.get(numberIndex).value = valueEditText.getText().toString().trim();
+                Number.numbers.get(numberIndex).phrase = phraseEditText.getText().toString().trim();
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
                         .addToBackStack(null)

@@ -11,16 +11,20 @@ public class Number {
     public String value;
     public MnemonicSystem system;
 
+    public String phrase;
+
     public Number(String _name, String _value) {
         name = _name;
         value = _value;
         system = MnemonicSystem.NONE;
+        phrase = "";
     }
 
     public Number(String name, String value, MnemonicSystem system) {
         this.name = name;
         this.value = value;
         this.system = system;
+        phrase = "";
     }
 
     static private Number sampleNumber() {
