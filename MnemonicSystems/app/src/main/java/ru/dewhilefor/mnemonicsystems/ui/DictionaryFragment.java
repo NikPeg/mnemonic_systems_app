@@ -14,6 +14,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.core.widget.NestedScrollView;
 import androidx.fragment.app.Fragment;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -31,6 +32,7 @@ import java.io.OutputStream;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Locale;
 import java.util.Scanner;
 
 import kotlin.text.Charsets;
@@ -46,11 +48,15 @@ public class DictionaryFragment extends Fragment {
     private FragmentDictionaryBinding binding;
     private final static String FILE_NAME_RU = "dict-ru.txt";
     private final static String FILE_NAME_EN = "dict-en.txt";
+    private String localFile;
+    Scanner s;
 
     private void setDict(TextView textView) {
-        String result = null;
-        try (InputStream inputStream = getContext().getAssets().open(FILE_NAME_RU)) {
-            Scanner s = new Scanner(inputStream).useDelimiter("\\A");
+        Locale current = getResources().getConfiguration().locale;
+        localFile = (current == Locale.ENGLISH) ? FILE_NAME_EN : FILE_NAME_RU;
+        try {
+            InputStream inputStream = getContext().getAssets().open(localFile);
+            s = new Scanner(inputStream).useDelimiter("\\A");
             for (int i = 0; i < 100 && s.hasNextLine(); ++i) {
                 textView.append(s.nextLine());
             }
@@ -97,6 +103,23 @@ public class DictionaryFragment extends Fragment {
                 alert.show();
             }
         });
+
+        NestedScrollView dictScrollView = (NestedScrollView) root.findViewById(R.id.dictScrollView);
+
+        if (dictScrollView != null) {
+
+            dictScrollView.setOnScrollChangeListener(new NestedScrollView.OnScrollChangeListener() {
+                @Override
+                public void onScrollChange(NestedScrollView v, int scrollX, int scrollY, int oldScrollX, int oldScrollY) {
+
+                    if (scrollY > oldScrollY) {
+                        for (int i = 0; i < 10 && s.hasNextLine(); ++i) {
+                            textView.append(s.nextLine());
+                        }
+                    }
+                }
+            });
+        }
 
         return root;
     }
