@@ -17,7 +17,9 @@ import androidx.annotation.Nullable;
 
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.android.material.textfield.TextInputEditText;
 
+import ru.dewhilefor.mnemonicsystems.Number;
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentChooseWordsBinding;
@@ -154,6 +156,8 @@ public class ChooseWordsFragment extends Fragment {
 
         addNumberButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
+                TextInputEditText phraseEditText = binding.phraseEditText;
+                Number.numbers.get(Number.numbers.size() - 1).phrase = phraseEditText.getText().toString().trim();
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
                         .addToBackStack(null)
