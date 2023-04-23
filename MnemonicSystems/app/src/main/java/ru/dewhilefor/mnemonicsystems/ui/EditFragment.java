@@ -73,13 +73,26 @@ public class EditFragment extends Fragment {
         nextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Number.numbers.get(numberIndex).name = nameEditText.getText().toString().trim();
-                Number.numbers.get(numberIndex).value = valueEditText.getText().toString().trim();
-                Number.numbers.get(numberIndex).phrase = phraseEditText.getText().toString().trim();
-                getFragmentManager().beginTransaction()
-                        .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
-                        .addToBackStack(null)
-                        .commit();
+                if (nameEditText.getText().toString().trim().isEmpty() || valueEditText.getText().toString().trim().isEmpty()) {
+                    new MaterialAlertDialogBuilder(requireContext())
+                            .setTitle(R.string.specify_info)
+                            .setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+                                @Override
+                                public void onClick(DialogInterface dialog, int which) {
+//                                setLocale("");
+                                }
+                            })
+                            .show();
+                }
+                else {
+                    Number.numbers.get(numberIndex).name = nameEditText.getText().toString().trim();
+                    Number.numbers.get(numberIndex).value = valueEditText.getText().toString().trim();
+                    Number.numbers.get(numberIndex).phrase = phraseEditText.getText().toString().trim();
+                    getFragmentManager().beginTransaction()
+                            .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
+                            .addToBackStack(null)
+                            .commit();
+                }
             }
         });
         return root;
