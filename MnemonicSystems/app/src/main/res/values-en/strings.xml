@@ -27,6 +27,7 @@
     <string name="phrase">Phrase to remember</string>
     <string name="add_number">Add number</string>
     <string name="specify_info">Specify the name of the number and the number!</string>
+    <string name="specify_phrase">Specify the phrase to remember!</string>
     <string name="ok">Ок</string>
     <string name="large_text">a\n
 aa\n

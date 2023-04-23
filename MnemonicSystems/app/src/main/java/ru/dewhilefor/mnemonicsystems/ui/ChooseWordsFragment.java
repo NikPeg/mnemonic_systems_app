@@ -157,11 +157,24 @@ public class ChooseWordsFragment extends Fragment {
         addNumberButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 TextInputEditText phraseEditText = binding.phraseEditText;
-                Number.numbers.get(Number.numbers.size() - 1).phrase = phraseEditText.getText().toString().trim();
-                getFragmentManager().beginTransaction()
-                        .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
-                        .addToBackStack(null)
-                        .commit();
+                if (phraseEditText.getText().toString().trim().isEmpty()) {
+                    new MaterialAlertDialogBuilder(requireContext())
+                            .setTitle(R.string.specify_phrase)
+                            .setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+                                @Override
+                                public void onClick(DialogInterface dialog, int which) {
+//                                setLocale("");
+                                }
+                            })
+                            .show();
+                }
+                else {
+                    Number.numbers.get(Number.numbers.size() - 1).phrase = phraseEditText.getText().toString().trim();
+                    getFragmentManager().beginTransaction()
+                            .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
+                            .addToBackStack(null)
+                            .commit();
+                }
             }
         });
 
