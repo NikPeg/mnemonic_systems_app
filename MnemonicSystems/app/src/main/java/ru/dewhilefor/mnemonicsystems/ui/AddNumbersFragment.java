@@ -75,11 +75,24 @@ public class AddNumbersFragment extends Fragment {
             public void onClick(View v) {
                 TextInputEditText et = root.findViewById(R.id.et_number_name);
                 TextInputEditText etv = root.findViewById(R.id.et_number_value);
-                Number.numbers.add(new Number(et.getText().toString().trim(), etv.getText().toString().trim()));
-                getFragmentManager().beginTransaction()
-                        .replace(R.id.nav_host_fragment_activity_main, new ChooseWordsFragment())
-                        .addToBackStack(null)
-                        .commit();
+                if (et.getText().toString().trim().isEmpty() || etv.getText().toString().trim().isEmpty()) {
+                    new MaterialAlertDialogBuilder(requireContext())
+                            .setTitle(R.string.specify_info)
+                            .setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+                                @Override
+                                public void onClick(DialogInterface dialog, int which) {
+//                                setLocale("");
+                                }
+                            })
+                            .show();
+                }
+                else {
+                    Number.numbers.add(new Number(et.getText().toString().trim(), etv.getText().toString().trim()));
+                    getFragmentManager().beginTransaction()
+                            .replace(R.id.nav_host_fragment_activity_main, new ChooseWordsFragment())
+                            .addToBackStack(null)
+                            .commit();
+                }
             }
         });
         return root;
