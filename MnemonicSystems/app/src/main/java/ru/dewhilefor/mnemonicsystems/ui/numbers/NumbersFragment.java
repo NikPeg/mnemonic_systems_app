@@ -24,6 +24,7 @@ import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentNumbersBinding;
 import ru.dewhilefor.mnemonicsystems.ui.AddNumbersFragment;
 import ru.dewhilefor.mnemonicsystems.ui.DictionaryFragment;
+import ru.dewhilefor.mnemonicsystems.ui.EditFragment;
 
 public class NumbersFragment extends Fragment {
 
@@ -67,7 +68,10 @@ public class NumbersFragment extends Fragment {
             cardView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    cardView.setVisibility(View.INVISIBLE);
+                    getFragmentManager().beginTransaction()
+                            .replace(R.id.nav_host_fragment_activity_main, new EditFragment())
+                            .addToBackStack(null)
+                            .commit();
                 }
             });
         }
