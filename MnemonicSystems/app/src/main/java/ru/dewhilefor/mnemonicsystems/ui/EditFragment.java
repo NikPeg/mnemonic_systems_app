@@ -13,6 +13,7 @@ import android.widget.Button;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.textfield.TextInputEditText;
 
+import ru.dewhilefor.mnemonicsystems.Number;
 import ru.dewhilefor.mnemonicsystems.R;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentAddNumbersBinding;
 import ru.dewhilefor.mnemonicsystems.databinding.FragmentEditBinding;
@@ -22,8 +23,11 @@ import ru.dewhilefor.mnemonicsystems.ui.numbers.NumbersFragment;
 public class EditFragment extends Fragment {
 
     private FragmentEditBinding binding;
-    public EditFragment() {
-        // Required empty public constructor
+    private int numberIndex;
+    private Number currentNumber;
+    public EditFragment(int cardIndex) {
+        numberIndex = cardIndex;
+        currentNumber = Number.numbers.get(numberIndex);
     }
 
     @Override
@@ -31,6 +35,12 @@ public class EditFragment extends Fragment {
                              Bundle savedInstanceState) {
         binding = FragmentEditBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
+
+        TextInputEditText nameEditText = root.findViewById(R.id.et_number_name);
+        nameEditText.setText(currentNumber.name);
+
+        TextInputEditText valueEditText = root.findViewById(R.id.et_number_value);
+        valueEditText.setText(currentNumber.value);
 
         Button chooseSystemButton = binding.chooseSystemButton;
 
@@ -60,9 +70,10 @@ public class EditFragment extends Fragment {
         nextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                TextInputEditText et = root.findViewById(R.id.et_number_name);
-//                TextInputEditText etv = root.findViewById(R.id.et_number_value);
-//                NumbersFragment.cardsTitles.add(et.getText().toString().trim() + "\n" + etv.getText().toString().trim());
+                TextInputEditText et = root.findViewById(R.id.et_number_name);
+                TextInputEditText etv = root.findViewById(R.id.et_number_value);
+                Number.numbers.get(numberIndex).name = et.getText().toString().trim();
+                Number.numbers.get(numberIndex).value = etv.getText().toString().trim();
                 getFragmentManager().beginTransaction()
                         .replace(R.id.nav_host_fragment_activity_main, new NumbersFragment())
                         .addToBackStack(null)

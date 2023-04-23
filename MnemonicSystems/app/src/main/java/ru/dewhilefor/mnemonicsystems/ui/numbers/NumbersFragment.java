@@ -62,13 +62,15 @@ public class NumbersFragment extends Fragment {
             }
         });
 
-        for (int cardId : cards){
-            CardView cardView = root.findViewById(cardId);
+        for (int i = 0; i < cards.length; ++i) {
+
+            CardView cardView = root.findViewById(cards[i]);
+            int finalI = i;
             cardView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     getFragmentManager().beginTransaction()
-                            .replace(R.id.nav_host_fragment_activity_main, new EditFragment())
+                            .replace(R.id.nav_host_fragment_activity_main, new EditFragment(finalI))
                             .addToBackStack(null)
                             .commit();
                 }
