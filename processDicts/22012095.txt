@@ -1,0 +1,3 @@
+nonextensible
+nonostensible
+nonostensibly

@@ -1,0 +1,4 @@
+audibleness
+doubleness
+eatableness
+edibleness

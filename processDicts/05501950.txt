@@ -1,0 +1,2 @@
+collectables
+collectibles

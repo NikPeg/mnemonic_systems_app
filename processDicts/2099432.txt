@@ -1,0 +1,4 @@
+newspaperman
+newspapermen
+newspaperwoman
+newspaperwomen

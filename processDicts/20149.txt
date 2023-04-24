@@ -1,0 +1,4 @@
+anisotrope
+anisotropy
+unstrap
+unstrip

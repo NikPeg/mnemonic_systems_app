@@ -1,0 +1,3 @@
+compactness
+composedness
+compositeness

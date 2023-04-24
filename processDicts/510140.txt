@@ -1,0 +1,3 @@
+loadstars
+lodestars
+oldsters

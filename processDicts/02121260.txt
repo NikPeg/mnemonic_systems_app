@@ -1,0 +1,3 @@
+contentness
+continuateness
+continuedness

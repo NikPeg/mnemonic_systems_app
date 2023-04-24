@@ -1,0 +1,3 @@
+isobarometric
+isoperimetric
+spirometric

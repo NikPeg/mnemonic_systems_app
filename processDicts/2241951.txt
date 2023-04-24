@@ -1,0 +1,5 @@
+nonheritability
+nonratability
+nonrateability
+nonreadability
+uninheritability

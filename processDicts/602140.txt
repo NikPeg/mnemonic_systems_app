@@ -1,0 +1,5 @@
+ascenders
+assenters
+assentors
+egocentric
+geocentric

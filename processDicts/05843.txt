@@ -1,0 +1,9 @@
+aculeiform
+calvarium
+cauliform
+ciliform
+ciliiform
+coliform
+oculiform
+soleiform
+soliform

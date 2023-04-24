@@ -1,0 +1,4 @@
+attainders
+attenders
+attenuators
+detonators

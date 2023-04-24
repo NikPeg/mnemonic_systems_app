@@ -1,0 +1,7 @@
+arclike
+hearselike
+horselike
+irislike
+racelike
+recalk
+roselike

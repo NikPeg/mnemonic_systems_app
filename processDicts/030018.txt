@@ -1,0 +1,2 @@
+semiexecutive
+semisociative

@@ -1,0 +1,4 @@
+parabolizer
+perplexer
+propulsor
+propulsory

@@ -1,0 +1,4 @@
+conoscope
+iconoscope
+ozonoscope
+snowscape

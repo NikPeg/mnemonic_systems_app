@@ -1,0 +1,3 @@
+autoreflection
+trivialisation
+trivialization

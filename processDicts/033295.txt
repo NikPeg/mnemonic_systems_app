@@ -1,0 +1,3 @@
+commonable
+semimonopoly
+summonable

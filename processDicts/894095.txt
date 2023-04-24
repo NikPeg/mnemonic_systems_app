@@ -1,0 +1,4 @@
+fabricable
+vaporizable
+vapourisable
+vapourizable

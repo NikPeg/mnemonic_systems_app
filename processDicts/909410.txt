@@ -1,0 +1,4 @@
+baseboards
+bespreads
+bowsprits
+boxboards

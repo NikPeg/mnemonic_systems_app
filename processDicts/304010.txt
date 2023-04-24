@@ -1,0 +1,3 @@
+macrocytic
+microcytic
+microcodes

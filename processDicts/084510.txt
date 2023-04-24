@@ -1,0 +1,6 @@
+coverlets
+coverlids
+severalties
+sphaerolitic
+spherulitic
+spherulitize

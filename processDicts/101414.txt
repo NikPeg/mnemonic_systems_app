@@ -1,0 +1,4 @@
+autostarter
+decahedrodra
+distorter
+outstarter

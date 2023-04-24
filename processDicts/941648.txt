@@ -1,0 +1,5 @@
+periodograph
+pyretography
+portgrave
+portgreve
+protograph

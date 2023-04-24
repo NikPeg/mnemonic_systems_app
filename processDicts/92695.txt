@@ -1,0 +1,5 @@
+pinchable
+punchable
+punchbowl
+punishable
+punishably

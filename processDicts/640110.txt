@@ -1,0 +1,3 @@
+gyrostatic
+gyrostats
+grisettes

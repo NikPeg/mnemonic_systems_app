@@ -1,0 +1,3 @@
+hangmanship
+henchmanship
+wingmanship

@@ -1,0 +1,4 @@
+aircraftsman
+aircraftsmen
+aircraftswoman
+aircraftswomen

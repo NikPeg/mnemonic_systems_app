@@ -1,0 +1,4 @@
+acclinal
+cyclonal
+exoclinal
+isoclinal

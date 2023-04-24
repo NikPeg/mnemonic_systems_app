@@ -1,0 +1,3 @@
+palatograph
+palatography
+polyautography

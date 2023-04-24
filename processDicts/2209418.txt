@@ -1,0 +1,2 @@
+noncooperative
+nonseparative

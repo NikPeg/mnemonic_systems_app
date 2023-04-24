@@ -1,0 +1,4 @@
+azeotropism
+exotropism
+isotropism
+strabism

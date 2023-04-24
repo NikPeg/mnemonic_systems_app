@@ -1,0 +1,8 @@
+dartsman
+droitsman
+thirdsman
+tradesman
+tradesmen
+tradeswoman
+tradeswomen
+truthsman

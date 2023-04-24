@@ -1,0 +1,2 @@
+factorially
+vectorially

@@ -1,0 +1,4 @@
+amoebalike
+embulk
+hemplike
+moblike

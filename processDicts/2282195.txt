@@ -1,0 +1,3 @@
+nonfundable
+nonvendible
+nonvendibly

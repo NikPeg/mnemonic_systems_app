@@ -1,0 +1,4 @@
+stargazer
+stresser
+stressor
+strosser

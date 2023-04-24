@@ -1,0 +1,3 @@
+directional
+tractional
+triactinal

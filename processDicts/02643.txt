@@ -1,0 +1,4 @@
+auxanogram
+sinogram
+sonagram
+sonogram

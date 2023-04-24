@@ -1,0 +1,4 @@
+noncombat
+nonexempt
+nonsympathy
+unencamped

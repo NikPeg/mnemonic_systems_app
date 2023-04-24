@@ -1,0 +1,6 @@
+nonflyable
+nonvaluable
+nonviolable
+nonviolably
+nonvoluble
+nonvolubly

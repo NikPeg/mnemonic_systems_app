@@ -1,0 +1,3 @@
+chemitype
+chemitypy
+gamdeboo

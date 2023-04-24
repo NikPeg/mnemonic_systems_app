@@ -1,0 +1,3 @@
+sporulation
+subrelation
+superlation

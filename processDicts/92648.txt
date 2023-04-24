@@ -1,0 +1,4 @@
+hypnograph
+pianograph
+pneograph
+ponograph

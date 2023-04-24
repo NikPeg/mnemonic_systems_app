@@ -1,0 +1,5 @@
+codirector
+extractor
+stricter
+stricture
+structure

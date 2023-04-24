@@ -1,0 +1,2 @@
+attainability
+detonability
