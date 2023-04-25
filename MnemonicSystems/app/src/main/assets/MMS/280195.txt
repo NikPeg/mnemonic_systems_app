@@ -1,0 +1,4 @@
+infectible
+investable
+investible
+unvisitable

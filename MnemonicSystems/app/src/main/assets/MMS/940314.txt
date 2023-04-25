@@ -1,0 +1,3 @@
+abrasiometer
+porosimeter
+prisometer

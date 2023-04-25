@@ -1,0 +1,5 @@
+chattable
+getatable
+gettable
+guttable
+sheddable

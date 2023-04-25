@@ -1,0 +1,3 @@
+albedometer
+labidometer
+leptometer

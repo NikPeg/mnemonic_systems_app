@@ -1,0 +1,5 @@
+manometer
+manometry
+minometer
+monometer
+omnimeter

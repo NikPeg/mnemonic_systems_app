@@ -1,0 +1,4 @@
+sedgelike
+stagelike
+staglike
+switchlike

@@ -1,0 +1,2 @@
+attractors
+detractors

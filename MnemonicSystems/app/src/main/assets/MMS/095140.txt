@@ -1,0 +1,5 @@
+copyholders
+exploders
+exploiters
+spelters
+spoliators

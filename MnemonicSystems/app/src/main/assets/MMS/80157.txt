@@ -1,0 +1,5 @@
+fastwalk
+fistlike
+ghostlike
+vestlike
+vistlik

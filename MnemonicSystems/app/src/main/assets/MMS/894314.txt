@@ -1,0 +1,5 @@
+evaporimeter
+evaporometer
+vaporimeter
+vapourimeter
+vibrometer

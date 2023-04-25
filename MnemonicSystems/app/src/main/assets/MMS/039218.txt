@@ -1,0 +1,2 @@
+combinative
+semipunitive

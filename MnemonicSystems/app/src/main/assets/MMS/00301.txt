@@ -1,0 +1,5 @@
+acosmist
+aseismicity
+cosmist
+occamist
+seismicity

@@ -1,0 +1,4 @@
+anticyclic
+endocyclic
+hendecacolic
+ontocyclic

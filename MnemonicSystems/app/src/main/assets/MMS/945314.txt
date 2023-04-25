@@ -1,0 +1,3 @@
+pyrheliometer
+pyrheliometry
+pyroheliometer

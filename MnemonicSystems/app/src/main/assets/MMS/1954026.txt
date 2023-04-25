@@ -1,0 +1,4 @@
+depolarising
+depolarizing
+tabularising
+tabularizing

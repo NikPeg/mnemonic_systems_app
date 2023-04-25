@@ -1,0 +1,3 @@
+bindweb
+panotype
+pinatype

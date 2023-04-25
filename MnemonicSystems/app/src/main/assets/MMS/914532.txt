@@ -1,0 +1,4 @@
+patrolman
+patrolmen
+patrolwoman
+patrolwomen

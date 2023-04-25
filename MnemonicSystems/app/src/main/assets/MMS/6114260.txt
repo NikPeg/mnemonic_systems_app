@@ -1,0 +1,2 @@
+jitteriness
+shudderiness

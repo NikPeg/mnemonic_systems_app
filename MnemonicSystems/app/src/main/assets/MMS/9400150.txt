@@ -1,0 +1,4 @@
+hypersystolic
+perisystolic
+praesystolic
+presystolic

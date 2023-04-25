@@ -1,0 +1,3 @@
+cleansable
+colonisable
+colonizable

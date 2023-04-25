@@ -1,0 +1,4 @@
+earthbound
+hardbound
+redepend
+ridibund

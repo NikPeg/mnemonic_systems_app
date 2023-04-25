@@ -1,0 +1,6 @@
+drosometer
+thoracometer
+thoracometry
+torsimeter
+torsiometer
+torsometer

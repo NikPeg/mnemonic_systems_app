@@ -1,0 +1,5 @@
+causativeness
+costiveness
+exactiveness
+executiveness
+exhaustiveness

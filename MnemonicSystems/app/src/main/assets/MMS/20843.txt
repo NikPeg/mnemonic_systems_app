@@ -1,0 +1,4 @@
+ensiform
+nasiform
+nuciform
+unciform

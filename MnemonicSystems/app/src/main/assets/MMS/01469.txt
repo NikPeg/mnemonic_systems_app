@@ -1,0 +1,8 @@
+actorship
+actuaryship
+coauthorship
+hectorship
+sidership
+starship
+storeship
+suitorship

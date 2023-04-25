@@ -1,0 +1,5 @@
+oratorship
+readership
+ridership
+wardership
+writership

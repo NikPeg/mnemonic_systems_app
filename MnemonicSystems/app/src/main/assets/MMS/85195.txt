@@ -1,0 +1,4 @@
+floatable
+floodable
+fluidible
+foldable

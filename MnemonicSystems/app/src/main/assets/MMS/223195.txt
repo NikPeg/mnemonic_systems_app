@@ -1,0 +1,3 @@
+nonimitable
+nonmutable
+nonmutably

@@ -1,0 +1,4 @@
+adsorbent
+decarbonate
+dicarbonate
+thiocarbonate

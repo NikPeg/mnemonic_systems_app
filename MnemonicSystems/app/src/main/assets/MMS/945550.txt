@@ -1,0 +1,4 @@
+parallelise
+parallelize
+parallels
+parallelwise

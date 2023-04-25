@@ -1,0 +1,4 @@
+delimiters
+telemeters
+telemetric
+telemetries

@@ -1,0 +1,4 @@
+gentleman
+gentlemen
+gentlewoman
+gentlewomen

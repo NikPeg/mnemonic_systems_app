@@ -1,0 +1,3 @@
+bestowable
+bistable
+postable

@@ -1,0 +1,4 @@
+autoassimilation
+deassimilation
+dissimilation
+dissimulation

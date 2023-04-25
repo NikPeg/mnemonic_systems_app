@@ -1,0 +1,3 @@
+emulable
+mailable
+mealable

@@ -10,6 +10,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
 import androidx.annotation.NonNull;
@@ -18,6 +19,11 @@ import androidx.annotation.Nullable;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputEditText;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Locale;
+import java.util.Scanner;
 
 import ru.dewhilefor.mnemonicsystems.Number;
 import ru.dewhilefor.mnemonicsystems.R;
@@ -29,6 +35,33 @@ public class ChooseWordsFragment extends Fragment {
     private FragmentChooseWordsBinding binding;
 
     private int[] buttonStates = new int[]{0, 0, 0, 0, 0, 0};
+    private FloatingActionButton[] buttons = new FloatingActionButton[]{binding.Digit1Button, binding.Digit2Button, binding.Digit3Button, binding.Digit4Button, binding.Digit5Button, binding.Digit6Button};
+    private InputStream inputStream;
+
+    private String getFilename() {
+        String filename = "";
+        for (int i = 0; i < buttonStates.length; ++i) {
+            if (buttonStates[i] == 1) {
+//                filename += buttons[i].get;
+                filename += Integer.toString(i);
+            }
+        }
+        return filename + ".txt";
+    }
+
+    private void setWords(TextView textView) {
+        String currentFile = getFilename();
+        try {
+            inputStream = getContext().getAssets().open(currentFile);
+            Scanner s = new Scanner(inputStream).useDelimiter("\\A");
+            for (int i = 0; i < 200 && s.hasNextLine(); ++i) {
+                textView.append(s.nextLine());
+            }
+            s.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 
     @Nullable
     @Override

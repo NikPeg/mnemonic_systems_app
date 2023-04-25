@@ -1,0 +1,5 @@
+rackets
+racquets
+rickets
+rockets
+rockweeds

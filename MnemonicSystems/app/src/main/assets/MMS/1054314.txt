@@ -1,0 +1,2 @@
+decelerometer
+decolorimeter

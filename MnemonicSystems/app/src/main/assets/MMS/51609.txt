@@ -1,0 +1,3 @@
+alethoscope
+altiscope
+lithoscope
