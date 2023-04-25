@@ -1,4 +1,0 @@
-phonometer
-phonometry
-phonomotor
-vinometer

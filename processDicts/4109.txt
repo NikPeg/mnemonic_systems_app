@@ -1,4 +1,0 @@
-hardcopy
-redcap
-rootcap
-rudesby

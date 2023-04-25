@@ -1,2 +1,0 @@
-phototelephone
-phototelephony

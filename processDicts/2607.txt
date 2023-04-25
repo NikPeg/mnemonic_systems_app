@@ -1,5 +1,0 @@
-encheck
-nagasaki
-uncheck
-whincheck
-wongsky

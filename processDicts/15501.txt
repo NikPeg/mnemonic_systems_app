@@ -1,8 +1,0 @@
-deallocate
-diallist
-dillseed
-duellist
-dullest
-idyllist
-tallest
-utlilized

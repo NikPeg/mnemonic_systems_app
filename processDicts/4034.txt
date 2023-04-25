@@ -1,4 +1,0 @@
-aerocamera
-recamera
-resumer
-rosemary

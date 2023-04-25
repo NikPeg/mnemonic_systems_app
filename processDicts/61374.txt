@@ -1,3 +1,0 @@
-gatemaker
-godmaker
-shotmaker

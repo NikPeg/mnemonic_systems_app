@@ -1,5 +1,0 @@
-resectable
-resistable
-resistably
-resistible
-resistibly

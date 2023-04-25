@@ -42,7 +42,7 @@ def process(line):
             filename += str(digit_by_char[line[i:i + 1]])
         elif line[i] in digit_by_char:
             filename += str(digit_by_char[line[i]])
-    if filename:
+    if filename and len(filename) <= 5:
         with open(filename + ".txt", "a") as fa:
             fa.write(line)
     print(line)

@@ -1,3 +1,0 @@
-meldometer
-multimeter
-multimotor

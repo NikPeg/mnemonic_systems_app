@@ -1,6 +1,0 @@
-algebar
-algebra
-legbar
-lochaber
-lochiopyra
-lochopyra

@@ -1,3 +1,0 @@
-cleaners
-cloners
-clowneries

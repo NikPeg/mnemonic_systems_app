@@ -1,4 +1,0 @@
-apocynum
-basename
-opsonium
-pycnium

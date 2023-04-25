@@ -1,3 +1,0 @@
-bookable
-piquable
-pokable

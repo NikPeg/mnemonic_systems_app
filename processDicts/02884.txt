@@ -1,4 +1,0 @@
-sniffer
-sniffier
-snuffer
-snuffier

@@ -1,2 +1,0 @@
-nonautonomously
-nondynamical

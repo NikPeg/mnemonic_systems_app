@@ -1,3 +1,0 @@
-bangboard
-benchboard
-punchboard

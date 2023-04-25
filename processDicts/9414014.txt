@@ -1,3 +1,0 @@
-predirector
-protracter
-protractor

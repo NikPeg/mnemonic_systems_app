@@ -1,5 +1,0 @@
-djerib
-dogrib
-outgroup
-outsharp
-woodgrub

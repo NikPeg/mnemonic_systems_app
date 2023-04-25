@@ -1,3 +1,0 @@
-ephebeum
-fpm
-weighbeam

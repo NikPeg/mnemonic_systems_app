@@ -1,6 +1,0 @@
-adderbolt
-autotriploid
-autotriploidy
-tetraploid
-tetraploidy
-utterability

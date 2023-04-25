@@ -1,3 +1,0 @@
-pyloroscopy
-polariscope
-polariscopy

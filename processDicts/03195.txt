@@ -1,4 +1,0 @@
-comeatable
-semidouble
-smitable
-smoothable

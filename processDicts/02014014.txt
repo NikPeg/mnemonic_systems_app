@@ -1,4 +1,0 @@
-constrictor
-constructer
-constructor
-constructure

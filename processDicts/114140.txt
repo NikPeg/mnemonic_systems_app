@@ -1,6 +1,0 @@
-dehydrators
-itatartaric
-tetrahedric
-tetrahydric
-tetrahydroxy
-titrators

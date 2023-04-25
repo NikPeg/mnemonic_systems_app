@@ -1,5 +1,0 @@
-enteroceptor
-intercepter
-interceptor
-interoceptor
-neutroceptor

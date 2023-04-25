@@ -1,5 +1,0 @@
-nonbase
-nonbusy
-nonepic
-nonobese
-nonpause

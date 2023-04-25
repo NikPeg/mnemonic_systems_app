@@ -1,3 +1,0 @@
-coincidents
-concatenates
-constants

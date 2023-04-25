@@ -1,3 +1,0 @@
-hygrometers
-hygrometric
-hygrometries

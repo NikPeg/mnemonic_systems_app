@@ -1,4 +1,0 @@
-bicentral
-biocontrol
-epicentral
-hypocentral

@@ -1,2 +1,0 @@
-pyritohedron
-prototherian

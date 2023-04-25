@@ -1,4 +1,0 @@
-easternmost
-southernmost
-sternmost
-westernmost

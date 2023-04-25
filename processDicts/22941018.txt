@@ -1,4 +1,0 @@
-nonpredicative
-nonpredictive
-nonproductive
-nonprotective

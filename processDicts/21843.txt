@@ -1,5 +1,0 @@
-handyframe
-natiform
-nautiform
-nodiform
-windfirm

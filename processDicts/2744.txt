@@ -1,4 +1,0 @@
-enquirer
-hankerer
-inquirer
-naukrar

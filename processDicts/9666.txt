@@ -1,6 +1,0 @@
-baggage
-biggish
-boggish
-piggish
-puggish
-putsch

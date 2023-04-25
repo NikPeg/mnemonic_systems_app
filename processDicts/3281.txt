@@ -1,4 +1,0 @@
-minified
-minivet
-monophote
-omnified

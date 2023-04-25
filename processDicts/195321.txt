@@ -1,3 +1,0 @@
-deployment
-tablement
-tablemount

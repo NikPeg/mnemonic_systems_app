@@ -1,6 +1,0 @@
-declare
-decolor
-decolour
-outsoler
-teaseler
-teasler

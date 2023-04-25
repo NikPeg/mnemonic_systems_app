@@ -1,6 +1,0 @@
-clodpole
-isolatable
-slidable
-slidably
-slideable
-slideably

@@ -1,3 +1,0 @@
-brandless
-parentless
-printless

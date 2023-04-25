@@ -1,3 +1,0 @@
-stackable
-stickable
-stockpile

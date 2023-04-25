@@ -1,4 +1,0 @@
-cleanser
-coloniser
-colonizer
-silencer

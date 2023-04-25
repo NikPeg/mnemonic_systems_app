@@ -1,5 +1,0 @@
-beansetter
-bonesetter
-pinsetter
-punctator
-punctuator

@@ -1,4 +1,0 @@
-gobylike
-sheeplike
-sheepwalk
-shoplike

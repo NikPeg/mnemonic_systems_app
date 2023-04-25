@@ -1,4 +1,0 @@
-outlearns
-telerans
-tolerance
-tolerancy

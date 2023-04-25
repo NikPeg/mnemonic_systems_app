@@ -1,7 +1,0 @@
-adstipulate
-autostability
-decidability
-ductibility
-educatability
-testability
-twistability

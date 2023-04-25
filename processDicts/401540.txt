@@ -1,3 +1,0 @@
-rustlers
-warstlers
-wrestlers

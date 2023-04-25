@@ -1,3 +1,0 @@
-nonadults
-nonathletic
-nonutilities

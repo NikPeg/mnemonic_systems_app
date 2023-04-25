@@ -1,4 +1,0 @@
-camleting
-cumulating
-simulating
-smelting

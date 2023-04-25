@@ -1,3 +1,0 @@
-triangles
-triangleways
-trianglewise

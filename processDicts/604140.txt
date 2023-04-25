@@ -1,6 +1,0 @@
-asserters
-assertoric
-assertors
-assertrix
-assorters
-escritoires

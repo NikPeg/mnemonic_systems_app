@@ -1,5 +1,0 @@
-autoslip
-dislip
-outsleep
-outslip
-withslip

@@ -1,5 +1,0 @@
-capacitator
-copycutter
-spectator
-spectatory
-specttra

@@ -1,6 +1,0 @@
-elflike
-layfolk
-lavalike
-leaflike
-lifelike
-wolflike

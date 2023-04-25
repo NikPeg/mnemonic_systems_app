@@ -1,4 +1,0 @@
-standby
-standup
-stenotype
-stenotypy

@@ -1,3 +1,0 @@
-axisymmetric
-seismometers
-seismometric

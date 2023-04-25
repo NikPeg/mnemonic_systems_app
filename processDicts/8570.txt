@@ -1,7 +1,0 @@
-flakes
-flukes
-folks
-folksay
-folksey
-folksy
-folkways

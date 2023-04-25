@@ -1,4 +1,0 @@
-chelatable
-geldable
-gildable
-shieldable

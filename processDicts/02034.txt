@@ -1,2 +1,0 @@
-cinecamera
-consumer

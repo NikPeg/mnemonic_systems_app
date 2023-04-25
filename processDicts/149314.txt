@@ -1,3 +1,0 @@
-tribometer
-tropometer
-turbomotor

@@ -1,3 +1,0 @@
-combinatoric
-combinators
-compounders

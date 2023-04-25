@@ -1,3 +1,0 @@
-gallify
-jellify
-jollify

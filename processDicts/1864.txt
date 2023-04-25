@@ -1,5 +1,0 @@
-defigure
-devchar
-outfigure
-whitefisher
-whitefishery

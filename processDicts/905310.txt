@@ -1,4 +1,0 @@
-bioclimatic
-psalmodic
-psalmodies
-psalmodize

@@ -1,2 +1,0 @@
-jerrybuild
-jerrybuilt

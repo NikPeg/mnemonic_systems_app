@@ -1,4 +1,0 @@
-clinium
-selenium
-solanum
-solenium

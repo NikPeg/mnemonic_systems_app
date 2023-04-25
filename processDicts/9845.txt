@@ -1,5 +1,0 @@
-behavioral
-behavioural
-beverly
-pyvuril
-upfurl

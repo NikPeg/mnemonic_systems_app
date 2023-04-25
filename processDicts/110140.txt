@@ -1,8 +1,0 @@
-adductors
-attesters
-attestors
-dedicators
-detecters
-detectors
-detesters
-dodecahedric

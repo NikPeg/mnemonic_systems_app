@@ -1,3 +1,0 @@
-interfector
-intrafactory
-underfactor

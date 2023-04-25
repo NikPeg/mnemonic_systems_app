@@ -1,3 +1,0 @@
-benthoscope
-pantascope
-pantoscope

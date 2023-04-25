@@ -1,4 +1,0 @@
-enneahedrons
-nonadherence
-nontruancy
-unentrance

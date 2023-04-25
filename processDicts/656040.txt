@@ -1,3 +1,0 @@
-glossaries
-glossarize
-glossers

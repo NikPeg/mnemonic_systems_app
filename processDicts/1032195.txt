@@ -1,2 +1,0 @@
-dismountable
-documentable

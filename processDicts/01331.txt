@@ -1,3 +1,0 @@
-stemmata
-stemmed
-stummed

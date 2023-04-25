@@ -1,3 +1,0 @@
-latentize
-latents
-latinities
