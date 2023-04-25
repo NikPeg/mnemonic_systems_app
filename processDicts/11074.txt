@@ -1,4 +1,0 @@
-attacker
-deticker
-haddocker
-twodecker

@@ -1,4 +1,0 @@
-mainport
-manbird
-monohybrid
-omniparity

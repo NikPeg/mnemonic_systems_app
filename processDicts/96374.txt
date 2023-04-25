@@ -1,3 +1,0 @@
-bagmaker
-bushmaker
-pigmaker

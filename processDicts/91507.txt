@@ -1,4 +1,0 @@
-bootlick
-padlock
-potluck
-putlock

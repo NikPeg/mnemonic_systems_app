@@ -1,5 +1,0 @@
-paralyser
-paralyzer
-pyrolyzer
-prelusory
-prolusory

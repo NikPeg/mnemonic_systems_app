@@ -1,7 +1,0 @@
-chariotlike
-gourdlike
-gratelike
-guardlike
-shirtlike
-shredlike
-shroudlike

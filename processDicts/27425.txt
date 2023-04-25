@@ -1,2 +1,0 @@
-enkernel
-wynkernel

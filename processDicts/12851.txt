@@ -1,4 +1,0 @@
-downfield
-downfold
-tenfold
-twinfold

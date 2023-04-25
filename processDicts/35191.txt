@@ -1,6 +1,0 @@
-maladapt
-multibit
-multibyte
-multipath
-multiped
-multipede

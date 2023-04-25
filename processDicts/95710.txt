@@ -1,3 +1,0 @@
-bulkheads
-obliquities
-obliquitous

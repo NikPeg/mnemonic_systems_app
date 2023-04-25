@@ -1,6 +1,0 @@
-bolometer
-palmature
-pyelometry
-pilomotor
-polymeter
-pulmotor

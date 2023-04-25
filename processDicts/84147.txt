@@ -1,4 +1,0 @@
-firedrake
-frederik
-fretwork
-frithwork

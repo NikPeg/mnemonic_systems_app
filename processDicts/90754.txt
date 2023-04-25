@@ -1,3 +1,0 @@
-buckler
-pasquiler
-pickler

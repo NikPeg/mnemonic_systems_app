@@ -1,3 +1,0 @@
-mintman
-minuteman
-minutemen

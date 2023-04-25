@@ -1,4 +1,0 @@
-misbind
-misbound
-mispaint
-mispoint

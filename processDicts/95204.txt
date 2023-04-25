@@ -1,5 +1,0 @@
-balancer
-bluenoser
-planceer
-plancer
-plancier

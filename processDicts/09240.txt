@@ -1,3 +1,0 @@
-caponiers
-spawners
-spinors

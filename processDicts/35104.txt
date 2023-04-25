@@ -1,4 +1,0 @@
-melodizer
-multicore
-multicurie
-multiuser

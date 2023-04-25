@@ -1,3 +1,0 @@
-enspell
-newsbill
-unspell

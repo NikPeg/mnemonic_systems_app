@@ -1,3 +1,0 @@
-exclusive
-occlusive
-seclusive

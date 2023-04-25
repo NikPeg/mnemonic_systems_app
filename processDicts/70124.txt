@@ -1,3 +1,0 @@
-keystoner
-questionary
-questioner

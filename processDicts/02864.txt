@@ -1,3 +1,0 @@
-configure
-sunfisher
-sunfishery
