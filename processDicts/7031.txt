@@ -1,0 +1,5 @@
+hooksmith
+keysmith
+kismat
+kismet
+quasimodo

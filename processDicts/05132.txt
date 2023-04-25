@@ -1,0 +1,6 @@
+azolitmin
+calodaemon
+calodemon
+saltman
+slideman
+slotman

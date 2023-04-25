@@ -1,0 +1,9 @@
+abrogable
+bargepole
+brushable
+parchable
+perchable
+perishable
+perishably
+preachable
+purgeable

@@ -1,0 +1,4 @@
+annexable
+enunciable
+nonusable
+nonuseable

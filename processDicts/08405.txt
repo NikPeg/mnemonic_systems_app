@@ -1,0 +1,4 @@
+aspherical
+covercle
+spherical
+sphericle

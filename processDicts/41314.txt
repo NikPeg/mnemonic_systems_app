@@ -1,0 +1,8 @@
+iridomotor
+orthometry
+radiometer
+radiometry
+ratemeter
+ratiometer
+rotameter
+rotometer

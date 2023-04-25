@@ -1,0 +1,4 @@
+electable
+elicitable
+listable
+locatable

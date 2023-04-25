@@ -45,7 +45,6 @@ def process(line):
     if filename and len(filename) <= 5:
         with open(filename + ".txt", "a") as fa:
             fa.write(line)
-    print(line)
 
 
 with open("words_alpha.txt", "r") as fin:

@@ -1,0 +1,5 @@
+outbulk
+tapelike
+toplike
+tubelike
+tublike

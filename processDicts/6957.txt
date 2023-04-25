@@ -1,0 +1,4 @@
+gobylike
+sheeplike
+sheepwalk
+shoplike

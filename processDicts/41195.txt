@@ -1,0 +1,4 @@
+hereditable
+hereditably
+rotatable
+rotatably

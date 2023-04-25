@@ -1,0 +1,9 @@
+coverlet
+coverlid
+severality
+severalth
+severalty
+sphaerolite
+spherality
+spherulate
+spherulite

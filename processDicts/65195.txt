@@ -1,0 +1,4 @@
+chelatable
+geldable
+gildable
+shieldable

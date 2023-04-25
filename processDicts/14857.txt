@@ -1,0 +1,3 @@
+dwarflike
+troughlike
+turflike

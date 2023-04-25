@@ -1,0 +1,5 @@
+denotable
+taintable
+teindable
+tendable
+tentable

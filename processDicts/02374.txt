@@ -1,0 +1,4 @@
+canmaker
+coinmaker
+conemaker
+snowmaker

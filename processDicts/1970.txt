@@ -1,0 +1,3 @@
+daybooks
+outbakes
+tupiks

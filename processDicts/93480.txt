@@ -1,0 +1,4 @@
+bimorphs
+biomorphic
+epimorphic
+hypomorphic

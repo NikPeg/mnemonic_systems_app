@@ -1,0 +1,3 @@
+kilometer
+kilometre
+qualimeter

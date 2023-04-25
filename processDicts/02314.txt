@@ -1,0 +1,10 @@
+auxanometer
+axonometry
+cyanometer
+cyanometry
+econometer
+iconometer
+iconometry
+ozonometer
+ozonometry
+sonometer

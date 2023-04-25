@@ -1,0 +1,4 @@
+dilker
+outlooker
+talker
+talkier

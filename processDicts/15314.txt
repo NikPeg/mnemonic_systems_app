@@ -1,0 +1,5 @@
+delimiter
+telemeter
+telemetry
+telemotor
+teleometer

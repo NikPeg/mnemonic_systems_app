@@ -1,0 +1,3 @@
+babeldom
+peopledom
+pupildom

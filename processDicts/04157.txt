@@ -1,0 +1,5 @@
+cardlike
+cordlike
+courtlike
+swordlike
+wizardlike
