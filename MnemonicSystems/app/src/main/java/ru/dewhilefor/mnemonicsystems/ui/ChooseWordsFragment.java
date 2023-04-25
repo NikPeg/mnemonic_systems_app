@@ -35,14 +35,14 @@ public class ChooseWordsFragment extends Fragment {
     private FragmentChooseWordsBinding binding;
 
     private int[] buttonStates = new int[]{0, 0, 0, 0, 0, 0};
+    private int[] buttonValues = new int[]{4, 1, 6, 2, 7, 0};
     private InputStream inputStream;
 
     private String getFilename() {
         String filename = "";
         for (int i = 0; i < buttonStates.length; ++i) {
             if (buttonStates[i] == 1) {
-//                filename += buttons[i].get;
-                filename += Integer.toString(i);
+                filename += Integer.toString(buttonValues[i]);
             }
         }
         return "MMS/" + filename + ".txt";
@@ -80,7 +80,6 @@ public class ChooseWordsFragment extends Fragment {
                             ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
                     );
                     buttonStates[0] = 1;
-                    setWords(binding.dictTextView);
                 }
                 else if (buttonStates[0] == 1) {
                     digit1Button.setBackgroundTintList(
@@ -88,6 +87,7 @@ public class ChooseWordsFragment extends Fragment {
                     );
                     buttonStates[0] = 2;
                 }
+                setWords(binding.dictTextView);
             }
         });
 
@@ -100,7 +100,6 @@ public class ChooseWordsFragment extends Fragment {
                             ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
                     );
                     buttonStates[1] = 1;
-                    setWords(binding.dictTextView);
                 }
                 else if (buttonStates[1] == 1) {
                     digit2Button.setBackgroundTintList(
@@ -108,6 +107,7 @@ public class ChooseWordsFragment extends Fragment {
                     );
                     buttonStates[1] = 2;
                 }
+                setWords(binding.dictTextView);
             }
         });
 
@@ -120,7 +120,6 @@ public class ChooseWordsFragment extends Fragment {
                             ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
                     );
                     buttonStates[2] = 1;
-                    setWords(binding.dictTextView);
                 }
                 else if (buttonStates[2] == 1) {
                     digit3Button.setBackgroundTintList(
@@ -128,6 +127,7 @@ public class ChooseWordsFragment extends Fragment {
                     );
                     buttonStates[2] = 2;
                 }
+                setWords(binding.dictTextView);
             }
         });
 
@@ -148,6 +148,7 @@ public class ChooseWordsFragment extends Fragment {
                     );
                     buttonStates[3] = 2;
                 }
+                setWords(binding.dictTextView);
             }
         });
 
@@ -168,6 +169,7 @@ public class ChooseWordsFragment extends Fragment {
                     );
                     buttonStates[4] = 2;
                 }
+                setWords(binding.dictTextView);
             }
         });
 
@@ -180,7 +182,6 @@ public class ChooseWordsFragment extends Fragment {
                             ColorStateList.valueOf(getResources().getColor(R.color.orange_red))
                     );
                     buttonStates[5] = 1;
-                    setWords(binding.dictTextView);
                 }
                 else if (buttonStates[5] == 1) {
                     digit6Button.setBackgroundTintList(
@@ -188,6 +189,7 @@ public class ChooseWordsFragment extends Fragment {
                     );
                     buttonStates[5] = 2;
                 }
+                setWords(binding.dictTextView);
             }
         });
 
