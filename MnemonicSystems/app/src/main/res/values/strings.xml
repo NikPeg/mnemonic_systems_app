@@ -26,9 +26,11 @@
     <string name="save">Сохранить</string>
     <string name="phrase">Фраза для запоминания</string>
     <string name="add_number">Добавить число</string>
+    <string name="print_word">Введите новое слово:</string>
     <string name="specify_info">Укажите название числа и число!</string>
  <string name="specify_phrase">Укажите фразу для запоминания!</string>
     <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
     <string name="large_text">аарона\n
  ааронов\n
  аб\n
