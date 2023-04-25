@@ -1,3 +1,0 @@
-bestowable
-bistable
-postable

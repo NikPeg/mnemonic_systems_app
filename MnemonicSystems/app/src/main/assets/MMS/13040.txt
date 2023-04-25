@@ -1,4 +1,0 @@
-atomizers
-democracy
-itemizers
-timocracy

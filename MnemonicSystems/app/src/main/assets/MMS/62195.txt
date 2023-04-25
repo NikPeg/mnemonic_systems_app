@@ -1,3 +1,0 @@
-chantable
-ignitable
-ignitible

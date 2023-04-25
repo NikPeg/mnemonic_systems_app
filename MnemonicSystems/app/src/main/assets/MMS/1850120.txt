@@ -1,3 +1,0 @@
-defalcations
-deflectionize
-deflections

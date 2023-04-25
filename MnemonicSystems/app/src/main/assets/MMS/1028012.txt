@@ -1,4 +1,0 @@
-autoconvection
-disinfection
-toxiinfection
-toxinfection

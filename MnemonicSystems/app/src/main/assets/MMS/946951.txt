@@ -1,3 +1,0 @@
-brushability
-perishability
-perishabilty

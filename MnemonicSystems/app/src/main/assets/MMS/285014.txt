@@ -1,3 +1,0 @@
-inflector
-inflicter
-inflictor

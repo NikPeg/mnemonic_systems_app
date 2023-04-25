@@ -1,7 +1,0 @@
-beautifiers
-haptophoric
-haptophorous
-pathophoric
-pathophorous
-pediferous
-petiveriaceae

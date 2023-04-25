@@ -1,5 +1,0 @@
-circlers
-circularise
-circularize
-circulars
-circularwise

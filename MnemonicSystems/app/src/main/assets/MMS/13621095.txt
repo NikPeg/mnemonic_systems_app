@@ -1,2 +1,0 @@
-demagnetisable
-demagnetizable

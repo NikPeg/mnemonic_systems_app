@@ -1,5 +1,0 @@
-handlings
-initialness
-needlings
-unidleness
-windlings

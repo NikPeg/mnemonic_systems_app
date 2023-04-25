@@ -1,2 +1,0 @@
-asynchronism
-synchronism

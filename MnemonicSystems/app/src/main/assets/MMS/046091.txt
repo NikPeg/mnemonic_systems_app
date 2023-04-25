@@ -1,4 +1,0 @@
-crossbite
-crossopodia
-crossopt
-crosspath

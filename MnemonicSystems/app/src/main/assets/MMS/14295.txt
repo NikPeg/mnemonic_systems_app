@@ -1,4 +1,0 @@
-drainable
-trainable
-turnable
-turnplow

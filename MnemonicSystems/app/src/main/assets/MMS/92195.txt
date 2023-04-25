@@ -1,8 +1,0 @@
-bendable
-bindable
-bondable
-boundable
-paintable
-paintably
-poindable
-pointable

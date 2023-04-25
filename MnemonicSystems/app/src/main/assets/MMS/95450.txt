@@ -1,3 +1,0 @@
-pluralise
-pluralize
-plurals

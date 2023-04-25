@@ -1,3 +1,0 @@
-intercombine
-intercompany
-intracompany

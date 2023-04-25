@@ -1,2 +1,0 @@
-aerostatics
-rheostatics

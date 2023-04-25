@@ -1,3 +1,0 @@
-specifier
-subcover
-subsphere

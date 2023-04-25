@@ -1,3 +1,0 @@
-attachable
-detachable
-detachably

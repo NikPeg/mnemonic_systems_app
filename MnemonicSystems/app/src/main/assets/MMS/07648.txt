@@ -1,3 +1,0 @@
-skiagraph
-skiagraphy
-skiograph

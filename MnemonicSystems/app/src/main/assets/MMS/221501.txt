@@ -1,5 +1,0 @@
-nondelicate
-nonidealist
-nonutilized
-uninitialized
-unintialized

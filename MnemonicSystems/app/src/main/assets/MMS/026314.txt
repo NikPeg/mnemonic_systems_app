@@ -1,5 +1,0 @@
-conchometer
-conchometry
-sanguimotor
-sanguimotory
-swingometer

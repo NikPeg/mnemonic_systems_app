@@ -1,4 +1,0 @@
-algorithmic
-algorithms
-logarithmic
-logarithms

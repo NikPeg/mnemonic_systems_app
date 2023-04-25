@@ -1,4 +1,0 @@
-orthoscope
-radioscope
-radioscopy
-rotascope

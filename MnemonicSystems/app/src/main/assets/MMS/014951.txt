@@ -1,8 +1,0 @@
-extrabold
-extrapolate
-saturability
-steerability
-storability
-striplet
-strobilate
-strobiloid

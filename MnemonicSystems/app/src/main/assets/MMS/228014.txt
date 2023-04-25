@@ -1,4 +1,0 @@
-nonfactory
-nonvector
-nonvesture
-nonvictory

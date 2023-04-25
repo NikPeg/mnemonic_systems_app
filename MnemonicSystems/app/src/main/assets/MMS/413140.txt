@@ -1,4 +1,0 @@
-orthometric
-radiometers
-radiometric
-radiometries

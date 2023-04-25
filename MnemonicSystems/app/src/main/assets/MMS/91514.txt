@@ -1,5 +1,0 @@
-boatloader
-bootholder
-bootloader
-pedaliter
-potholder

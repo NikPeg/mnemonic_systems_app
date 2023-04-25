@@ -1,2 +1,0 @@
-intransient
-untransient

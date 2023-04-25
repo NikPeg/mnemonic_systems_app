@@ -1,5 +1,0 @@
-barometrical
-hypermetrical
-parametrical
-perimetrical
-pyrometrical

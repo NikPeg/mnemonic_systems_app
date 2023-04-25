@@ -1,6 +1,0 @@
-arteriometer
-arteriomotor
-arthrometer
-arthrometry
-urethrameter
-urethrometer

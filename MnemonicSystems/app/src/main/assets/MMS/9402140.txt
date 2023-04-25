@@ -1,6 +1,0 @@
-barycentric
-paracentric
-pericentric
-precentors
-precentrix
-presenters

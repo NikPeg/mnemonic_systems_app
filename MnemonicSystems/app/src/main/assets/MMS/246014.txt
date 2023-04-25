@@ -1,3 +1,0 @@
-enregister
-enregistry
-inregister

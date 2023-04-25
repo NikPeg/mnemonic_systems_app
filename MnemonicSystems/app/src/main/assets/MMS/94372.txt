@@ -1,3 +1,0 @@
-barmkin
-bromeikon
-primaquine

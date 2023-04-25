@@ -1,4 +1,0 @@
-hereditable
-hereditably
-rotatable
-rotatably

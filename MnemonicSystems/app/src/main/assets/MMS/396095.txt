@@ -1,8 +1,0 @@
-embossable
-impassable
-impassably
-impassible
-impassibly
-impossibilia
-impossible
-impossibly

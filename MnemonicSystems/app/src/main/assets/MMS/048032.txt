@@ -1,6 +1,0 @@
-serviceman
-servicemen
-servicewoman
-servicewomen
-surfaceman
-surfacemen

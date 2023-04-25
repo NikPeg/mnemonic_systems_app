@@ -1,4 +1,0 @@
-sackless
-sickless
-sockless
-suckless

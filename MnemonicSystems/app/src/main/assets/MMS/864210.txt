@@ -1,3 +1,0 @@
-figurants
-vagrantize
-vagrants

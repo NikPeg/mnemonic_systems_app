@@ -1,3 +1,0 @@
-thermistors
-thermocauteries
-trimesters

@@ -1,4 +1,0 @@
-deprecator
-deprecatory
-depreciator
-depreciatory

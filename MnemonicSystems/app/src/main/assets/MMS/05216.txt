@@ -1,4 +1,0 @@
-clientage
-islandish
-selenitish
-silentish

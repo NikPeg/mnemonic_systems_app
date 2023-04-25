@@ -1,2 +1,0 @@
-nondiffusible
-nondiffusibly

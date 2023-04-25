@@ -1,4 +1,0 @@
-compilations
-completions
-simpletonic
-simpletons

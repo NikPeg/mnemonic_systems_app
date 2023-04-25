@@ -1,2 +1,0 @@
-outriggerless
-triggerless

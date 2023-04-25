@@ -1,5 +1,0 @@
-autosymbolic
-decemplex
-decomplex
-disembowels
-disemploys

@@ -1,4 +1,0 @@
-acceptance
-acceptancy
-exceptions
-occupations

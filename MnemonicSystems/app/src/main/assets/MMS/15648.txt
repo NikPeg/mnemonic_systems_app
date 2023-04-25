@@ -1,4 +1,0 @@
-telegraf
-telegraph
-telegraphee
-telegraphy

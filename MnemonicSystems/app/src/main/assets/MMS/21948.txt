@@ -1,3 +1,0 @@
-antproof
-hintproof
-windproof

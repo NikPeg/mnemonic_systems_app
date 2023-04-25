@@ -1,4 +1,0 @@
-aminolytic
-monolithic
-monoliths
-moonlets

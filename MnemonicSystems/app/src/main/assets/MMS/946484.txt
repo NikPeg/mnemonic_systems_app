@@ -1,4 +1,0 @@
-paragrapher
-pyragravure
-pyrographer
-pyrogravure

@@ -1,3 +1,0 @@
-excepable
-occupable
-occupiable

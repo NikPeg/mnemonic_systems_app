@@ -1,3 +1,0 @@
-spikelet
-subequality
-subquality

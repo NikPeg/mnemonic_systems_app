@@ -1,6 +1,0 @@
-cathetometer
-stadimeter
-stadiometer
-statometer
-stethometer
-stethometry

@@ -1,3 +1,0 @@
-internationalise
-internationalize
-internationals

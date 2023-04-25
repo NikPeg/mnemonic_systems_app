@@ -1,6 +1,0 @@
-dromometer
-thermometer
-thermometry
-thermomotor
-tromometer
-tromometry

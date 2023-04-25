@@ -1,5 +1,0 @@
-inconfirm
-inconform
-noconfirm
-unconfirm
-unconform

@@ -1,5 +1,0 @@
-dartling
-thirdling
-treadling
-troutling
-turtling

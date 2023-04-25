@@ -1,6 +1,0 @@
-dashplate
-dogbolt
-dogplate
-hatchability
-teachability
-touchability

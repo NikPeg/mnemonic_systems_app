@@ -1,2 +1,0 @@
-netmaker
-windowmaker

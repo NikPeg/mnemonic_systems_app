@@ -1,5 +1,0 @@
-blindworm
-palindrome
-planetarium
-plantarium
-polyandrium

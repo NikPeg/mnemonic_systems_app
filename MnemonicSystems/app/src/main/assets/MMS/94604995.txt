@@ -1,2 +1,0 @@
-prescribable
-proscribable

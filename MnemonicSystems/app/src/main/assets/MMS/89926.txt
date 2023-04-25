@@ -1,4 +1,0 @@
-fibbing
-fobbing
-fopping
-fubbing
